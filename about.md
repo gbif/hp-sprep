@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: Welcome to hosted portal
+title: Welcome to the hosted portals
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/moss.jpg
 imageLicense: |
