@@ -1,18 +1,17 @@
 ---
 lang-ref: about
-title: Welcome to the hosted portals
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: About
+description: About us
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
 ---
 
-## This is my first edit
+## Brief introduction
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+The Pacific portal is to present all of the occurence biodiversity data currrently available on Global Biodiversity Information Facility (GBIF) from the following Pacific Island Countries and territories:
+American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guan, Hawaii, Kiribati, Marshall Islands, Nauru, New Calendonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
 
 Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
 Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
