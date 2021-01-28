@@ -13,12 +13,6 @@ height: 70vh
 The Pacific portal is to present all of the occurence biodiversity data currrently available on Global Biodiversity Information Facility (GBIF) from the following Pacific Island Countries and territories:
 American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guan, Hawaii, Kiribati, Marshall Islands, Nauru, New Calendonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
 ## Quam ex te videt
 
 Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
@@ -87,5 +81,3 @@ dependent artisque audacem habuissem, et est rebus, sed?
 
 [Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
 
-Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
