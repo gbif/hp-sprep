@@ -15,13 +15,4 @@ cta:
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
-
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
 
