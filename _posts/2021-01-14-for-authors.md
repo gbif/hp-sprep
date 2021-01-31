@@ -5,6 +5,6 @@ categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
 background: http://via.placeholder.com/600x300
 ---
-#You’ll find this post in your `_posts` directory.
+You’ll find this post in your `_posts` directory.
 
 Read more in the "[Getting started guide for authors](https://github.com/gbif/hosted-portals/blob/main/getting-started/for-authors.md)" to get started with your new website.
