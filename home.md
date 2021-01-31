@@ -12,7 +12,7 @@ cta:
 *    isPrimary: true
 *  - text: About
 *    href: /about
-*permalink: /
+permalink: /
 ---
 
 
