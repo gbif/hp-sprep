@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: GBIF and SPREP Pacific Portal
+title: Global Biodiversity Information Facility - Pacific
 description:
 background: /assets/images/1.png
 imageLicense: |
