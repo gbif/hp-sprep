@@ -7,8 +7,8 @@ columns:
     links:
     - text: Global Biodiversity Information Facility (GBIF)
       href: https://gbif.org
-   # - text: Name of project partner 2
-   #   href: http://example.com
+    - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
+      href: https://sprep.org
 
  # - name: Code
  #   description: | # Can be Markdown
@@ -16,11 +16,13 @@ columns:
 
   - name: David Moverly
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
+   
       * Vailima
-      * 1234 postal code
+   
       * Samoa
     connectIcons: true
+       #Social icons links defined in `_config.yml`
+   #* 1234 postal code
 
   # EXAMPLE
   #- name: Group name
