@@ -5,14 +5,14 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: Global Biodiversity Information Facility (GBIF)
+      href: https://gbif.org
+   # - text: Name of project partner 2
+   #   href: http://example.com
 
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+ # - name: Code
+ #   description: | # Can be Markdown
+ #     This project is open source. See `_data/footer.yml` to customize the footer.
 
   - name: Contact
     description: | # Can be Markdown
