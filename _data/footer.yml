@@ -14,12 +14,12 @@ columns:
  #   description: | # Can be Markdown
  #     This project is open source. See `_data/footer.yml` to customize the footer.
 
-  - name: Contact
+  - name: David Moverly
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+ #     Social icons links defined in `_config.yml`
+      * Vailima
+ #     * 1234 postal code
+      * Samoa
     connectIcons: true
 
   # EXAMPLE
