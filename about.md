@@ -2,7 +2,7 @@
 lang-ref: about
 title: About us
 description:
-background: /assets/images/1.png
+background: /assets/images/2.png
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
