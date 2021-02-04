@@ -2,7 +2,7 @@
 lang-ref: about
 title: About us
 description:
-background: /assets/images/moss.jpeg
+background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
