@@ -4,8 +4,8 @@ title: About us
 description:
 background: /assets/images/Banner_1.png
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 70vh
+  Banner by Joanne of Little Design
+height: 100vh
 ---
 
 ## Brief introduction.
