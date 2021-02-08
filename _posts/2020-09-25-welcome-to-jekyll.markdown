@@ -3,7 +3,7 @@ title:  "Marine Turtle Extinction Risk Assessment to Support Decision Making in 
 date:   2020-12-08 21:37:12 +1300
 categories: jekyll update
 lang-ref: welcome to jekyll
-background: http://via.placeholder.com/600x300
+background: /image/assets/Image 2_Turtle in banner/600x300
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
