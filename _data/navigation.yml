@@ -6,12 +6,17 @@
 #  href: /home/
 #- text: Data
 #  href: /data
-- text: Links
+- text: Useful Links
   menu: # Dropdown menu (one level deep only)
-   - text: PRISMSS
-     href: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss
-   - text: PILN
+   - text: Battler Resource Base (BRB)
      href: https://piln.sprep.org/
+   - text: Pacific Invasive Learning Network (PILN)
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
+   - text: Pacific Invasive Partnership (PIP)
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
+   - text: Pacific Regional Invasive Species Management Support Services (PRISMSS)
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss     
+
 #  - text: Base theme demo
 #    href: https://hp-base-theme.gbif-staging.org/
 #  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
