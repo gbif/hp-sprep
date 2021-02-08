@@ -10,9 +10,6 @@ cta:
   - text: Get Data
     href: /data
     isPrimary: true
-  - text: About
-    href: /about
-    isPrimary: true
 permalink: /
 ---
 
