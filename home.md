@@ -11,6 +11,8 @@ cta:
     href: /data
     isPrimary: true
 permalink: /
+
+height:70vh
 ---
 
 
