@@ -4,9 +4,11 @@
   href: /about
 #- text: Home
 #  href: /home/
-#- text: Data
-#  href: /data
-- text: Useful Links
+- text: Data
+  href: /data
+- text: News
+  href: /news/
+- text: Links
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
      href: https://piln.sprep.org/
@@ -27,7 +29,5 @@
 #    href: https://guides.github.com/features/mastering-markdown/
 #  - text: YAML tutorial
 #    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
-  href: /news/
 #- text: Hello
 #  href: /hello
