@@ -1,7 +1,7 @@
 ---
 title:  "Marine Turtle Extinction Risk Assessment to Support Decision Making in Turtle Conservation"
 date:   2020-12-08 21:37:12 +1300
-categories: jekyll update
+categories: turtle
 lang-ref: welcome to jekyll
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Image%202_Turtle%20in%20banner.png?itok=W10KaMZz/600x300
 ---
