@@ -6,8 +6,6 @@ description: Pacific portal to present all of the Pacific occurrence biodiversit
 background: /assets/images/Banner_1.png
 imageLicense: |
   Photo by Joanne of Little Design
-
-height:70vh
 cta:
   - text: Get Data
     href: /data
