@@ -27,7 +27,7 @@
 #    href: https://guides.github.com/features/mastering-markdown/
 #  - text: YAML tutorial
 #    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-#- text: News
-#  href: /news/
+- text: News
+  href: /news/
 #- text: Hello
 #  href: /hello
