@@ -12,6 +12,7 @@ cta:
     isPrimary: true
   - text: About
     href: /about
+    isPrimary: true
 permalink: /
 ---
 
