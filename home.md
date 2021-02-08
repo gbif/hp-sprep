@@ -7,7 +7,7 @@ background: /assets/images/Banner_1.png
 imageLicense: |
   Photo by Joanne of Little Design
 cta:
-  - text: Data
+  - text: Get Data
     href: /data
     isPrimary: true
   - text: About
