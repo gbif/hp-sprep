@@ -6,8 +6,12 @@
 #  href: /home/
 #- text: Data
 #  href: /data
-#- text: Links
-#  menu: # Dropdown menu (one level deep only)
+- text: Links
+  menu: # Dropdown menu (one level deep only)
+   - text: PRISMSS
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss
+   - text: PILN
+     href: https://piln.sprep.org/
 #  - text: Base theme demo
 #    href: https://hp-base-theme.gbif-staging.org/
 #  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
