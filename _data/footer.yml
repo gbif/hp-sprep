@@ -16,6 +16,8 @@ columns:
 
   - name: David Moverly
     description: | # Can be Markdown
+      * Invasive Species Adviser
+      * Secretariat of the Pacific Regional Environment Programme
       * Vailima   
       * Samoa
     connectIcons: true
