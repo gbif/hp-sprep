@@ -30,8 +30,8 @@
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
    - text: Battlers Sharing Data-French
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
- - text: News
-   href: /news/
+ #- text: News
+  # href: /news/
 #  - text: Base theme demo
 #    href: https://hp-base-theme.gbif-staging.org/
 #  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
