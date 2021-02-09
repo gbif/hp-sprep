@@ -37,4 +37,4 @@ The conference is being held from 24 – 27 November with more than 150 speakers
 
 For more information on the Conference, please visit the website **[www.pacificnatureconference.com](www.pacificnatureconference.com)** 
 
-For more information on the Battler of the Year Awards, please contact Mr David Moverley at **[davidm@sprep.org](davidm@sprep.org)
+For more information on the Battler of the Year Awards, please contact Mr David Moverley at **[davidm@sprep.org](davidm@sprep.org)**
