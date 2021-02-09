@@ -5,6 +5,7 @@ categories: turtle
 lang-ref: welcome to jekyll
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Image%202_Turtle%20in%20banner.png?itok=W10KaMZz/600x300
 ---
+*by Angelica Salele-Sefo*
 
 Marine turtles are recognised globally as at risk of extinction; however, more specific information is needed on the status of each of the species at risk in the Pacific.
 
