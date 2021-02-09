@@ -6,8 +6,12 @@
 #  href: /home/
 - text: Data
   href: /data
-- text: Docs
+- text: Downloads
   menu:
+   - text: Battlers Sharing Data-English
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
+   - text: Battlers Sharing Data-French
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
    - text: Biodiversity Information Development (BID) Best Practices for Mobilizing Data
      href: https://downloads.ctfassets.net/uo17ejk9rkwj/4gmZ9Hz9egtxJIuXKlW7SW/003fef24c10c69b730b8c92c4e22f326/191125-BID-Best-Practices.pdf
    - text: Biodiversity Information Development (BID) Impact Summary 
@@ -24,12 +28,8 @@
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss
    - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
      href: https://www.sprep.org/
-- text: Publications
-  menu:
-   - text: Battlers Sharing Data-English
-     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Battlers Sharing Data-French
-     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
+#- text: Publications
+ # menu:
 - text: News
   href: /news/
 #  - text: Base theme demo
