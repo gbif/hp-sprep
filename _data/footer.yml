@@ -15,7 +15,7 @@ columns:
  #     This project is open source. See `_data/footer.yml` to customize the footer.
 
   - name: David Moverly
-    description: | Invasive Species Adviser # Can be Markdown
+    description: | # Can be Markdown
       * Vailima   
       * Samoa
     connectIcons: true
