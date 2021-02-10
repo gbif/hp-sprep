@@ -2,9 +2,9 @@
 lang-ref: about
 title: About us
 description:
-background: /assets/images/Banner_1.png
+background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 imageLicense: |
-  Banner by Joanne of Little Design
+  Photo by Envato Elements
 height: 60vh
 ---
 The Pacific portal is to present all of the occurence biodiversity data currrently available on Global Biodiversity Information Facility (GBIF) from the following Pacific Island Countries and territories:
