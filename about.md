@@ -2,7 +2,7 @@
 lang-ref: about
 title: About us
 description:
-background: /assets/images/Banner_1.png
+background: /assets/images/Biodiversity.png
 imageLicense: |
   Banner by Joanne of Little Design
 height: 60vh
