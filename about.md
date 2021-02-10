@@ -23,6 +23,7 @@ Ability to change language of the user interface (translations and languages oth
 * A redirect from search results, sending users to GBIF.org for data downloads, ensuring that the downloads receive GBIF’s citable unique identifiers (DOIs) linking back to the datasets included.
 
 **What is GBIF?**
+
 *GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth*
 Visit their website for more info: [https://www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
 
