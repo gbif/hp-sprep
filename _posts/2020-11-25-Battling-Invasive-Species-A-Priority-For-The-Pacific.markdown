@@ -7,7 +7,7 @@ background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400
 ---
 *by Angelica Salele-Sefo*
 
-A session titled **[Battling Invasive Species](https://www.youtube.com/watch?v=62JDxlSujJc&feature=youtu.be)** provided a unique opportunity for participants of the 10th Pacific Islands Nature Conservation and Protected Areas Conference to hear directly from those working within their communities to combat invasive species about some of the impacts and challenges they face each day.
+A session titled [Battling Invasive Species](https://www.youtube.com/watch?v=62JDxlSujJc&feature=youtu.be) provided a unique opportunity for participants of the 10th Pacific Islands Nature Conservation and Protected Areas Conference to hear directly from those working within their communities to combat invasive species about some of the impacts and challenges they face each day.
 
 28 Invasive Species Battlers, experts and donors came together to film an island by island update on the current state of invasive species in the Pacific and drive home the message, “Invasive species are a key issue for biodiversity and ecosystem resilience in the Pacific.”
 
@@ -17,7 +17,7 @@ The Pacific still faces alarming rates of habitat degradation and loss that coul
 
 “As a region we are making some progress against impacts of invasive species, however this has not been at the scale that is required. We are still losing irreplaceable unique biodiversity, our ecosystems are still under a massive level of pressure and our ability to rely on our lands and natural capital for our livelihoods is diminishing by the day,” said Mr David Moverley, Invasive Species Adviser at SPREP.
 
-Pacific Invasive Battlers shared examples of successful invasive species eradication and management, such as the eradication of rats from 85 islands throughout the Pacific. Common challenges shared across the region identified were limited trained staff and experts available in-country, equipment, funding and resources. One solution aiming to address these gaps is the **[Pacific Regional Invasive Species Management Support Service (PRISMSS)](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss)**.
+Pacific Invasive Battlers shared examples of successful invasive species eradication and management, such as the eradication of rats from 85 islands throughout the Pacific. Common challenges shared across the region identified were limited trained staff and experts available in-country, equipment, funding and resources. One solution aiming to address these gaps is the [Pacific Regional Invasive Species Management Support Service (PRISMSS)](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss).
 
 PRISMSS, a collaboration of leading organisations providing support for invasive species management in native biodiversity protection and ecosystem function in the Pacific, is coordinating the scaling up of invasive species operational management in the region. The programme aims to provide a comprehensive suite of support services in a cohesive, effective, efficient, and accessible manner to Pacific Island countries and territories.
 
@@ -27,7 +27,7 @@ The ‘Battling Invasive Species’ session spoke to how our region has worked t
 
 “We all have a responsibility to protect nature, for the benefit of our families and communities. Some of us have the national regional and global levels. Invasive species management is a key tool that can be effectively used today with immediate results. We need to step up and do this.”
 
-The session consisted of a pre-recorded video that combined updates from 28 Invasive Species Battlers, experts and donors in an effort to ensure every voice was heard. A total of 148 participants joined the session, and questions were taken after the video’s conclusion online at the PRISMSS exhibition lounge where participants were given the opportunity to interact directly with the session organisers.  Further information on invasive species in the Pacific can be found at the **[SPREP Invasive Species page](https://www.sprep.org/invasive-species-management-in-the-pacific)**.
+The session consisted of a pre-recorded video that combined updates from 28 Invasive Species Battlers, experts and donors in an effort to ensure every voice was heard. A total of 148 participants joined the session, and questions were taken after the video’s conclusion online at the PRISMSS exhibition lounge where participants were given the opportunity to interact directly with the session organisers.  Further information on invasive species in the Pacific can be found at the [SPREP Invasive Species page](https://www.sprep.org/invasive-species-management-in-the-pacific).
 
 The conference is organised every five to six years by the Pacific Islands Roundtable for Nature Conservation (PIRT) and the Secretariat of the Pacific Regional Environment Programme (SPREP). The 10th Conference is hosted by the Government of New Caledonia.
 
@@ -35,4 +35,4 @@ The conference was originally scheduled to be held as a face-to-face event in No
 
 The conference will be held from 24 – 27 November, with more than 150 speakers expected to present on various topics pertaining to the themes of “Our Ocean”, “Our Island”, and “Our Connection with Nature.”
 
-For more information or to register for the conference, please visit the conference website at **[www.pacificnatureconference.com](https://www.pacificnatureconference.com/)**.
+For more information or to register for the conference, please visit the conference website at [www.pacificnatureconference.com](https://www.pacificnatureconference.com/).
