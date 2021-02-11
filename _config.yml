@@ -39,7 +39,7 @@ plugins:
 
 remote_theme: gbif/jekyll-hp-base-theme
 
-background_color: '#132b1c'
+#background_color: '#132b1c'
 
 algae:
   rootLang: en
@@ -50,7 +50,7 @@ algae:
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#7a5328"
+      primary: "#298da6"
       #primary: "#475c4a"          # Primary color of your brand. Use HEX code. Used for buttons and links
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: true   # If a headline is a link, then use the link color. Default is true. 
