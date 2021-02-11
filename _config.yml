@@ -39,8 +39,6 @@ plugins:
 
 remote_theme: gbif/jekyll-hp-base-theme
 
-#background_color: '#132b1c'
-
 algae:
   rootLang: en
   # latestPostLimit: 2
@@ -53,7 +51,7 @@ algae:
       primary: "#176fe3"          # Primary color of your brand. Use HEX code. Used for buttons and links
       links: "#176fe3"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: true   # If a headline is a link, then use the link color. Default is true. 
-    backgroundcolor: "#176fe3"
+  backgroundcolor: "#176fe3"
   navbar:                         # RELATED TO NAVIGATION BAR
     #brandBackground: /assets/images/Banner_1.png     # Define a custom background for the logo/title in the top navigation bar
     #Background: /assets/images/Banner_1.png
