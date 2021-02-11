@@ -39,7 +39,7 @@ plugins:
 
 remote_theme: gbif/jekyll-hp-base-theme
 
-background_color: '#1e5c36'
+background_color: '#132b1c'
 
 algae:
   rootLang: en
