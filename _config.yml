@@ -59,7 +59,25 @@ algae:
     #color: green
      #color: "tomato"             # What color should the navbar be?
      #hasWhiteText: true          # Should the text color be white?
+theme:
+  palette:
 
+    # Toggle light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+    # Toggle dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+        
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
