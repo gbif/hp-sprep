@@ -42,15 +42,15 @@ Veira Talilotu, Principal Conservation Officer at the Ministry of Environment, C
 
 Discussion highlighted the need to identify and invest in strategies to encourage community buy-in and strengthen government leadership and enforcement of policies and legislation.
 
-A full recording of the one-hour side event is available here: **[https://pacificislands.hubilo.com/community/#/session-stream/28054](https://pacificislands.hubilo.com/community/#/session-stream/28054)**
+A full recording of the one-hour side event is available here: [https://pacificislands.hubilo.com/community/#/session-stream/28054](https://pacificislands.hubilo.com/community/#/session-stream/28054)
 
-The turtle risk assessment is part of the By-catch and Integrated Ecosystem Management (BIEM) Initiative, which SPREP is leading to deliver Key Result Area 5 of the Pacific-European Union Marine Partnership (PEUMP) programme. Funded by the European Union and the Government of Sweden, the EUR 45 million PEUMP programme promotes sustainable management and sound ocean governance for food security and economic growth, while addressing climate change resilience and conservation of marine biodiversity. It follows a comprehensive approach, integrating issues related to oceanic fisheries, coastal fisheries, community development, marine conservation and capacity building under one single regional action. Further information about the PEUMP programme is available here: **[https://peump.dev/](https://peump.dev/)**
+The turtle risk assessment is part of the By-catch and Integrated Ecosystem Management (BIEM) Initiative, which SPREP is leading to deliver Key Result Area 5 of the Pacific-European Union Marine Partnership (PEUMP) programme. Funded by the European Union and the Government of Sweden, the EUR 45 million PEUMP programme promotes sustainable management and sound ocean governance for food security and economic growth, while addressing climate change resilience and conservation of marine biodiversity. It follows a comprehensive approach, integrating issues related to oceanic fisheries, coastal fisheries, community development, marine conservation and capacity building under one single regional action. Further information about the PEUMP programme is available here: [https://peump.dev/](https://peump.dev/)
 
  The Pacific-European Union Marine Partnership (PEUMP) Programme addresses some of the most serious challenges faced by Pacific countries. Among these are the increasing depletion of coastal fisheries resources; the threats to marine biodiversity, including negative impacts of climate change and disasters; the uneven contribution of oceanic fisheries to national economic development; the need for improved education and training; and the need to mainstream a rights-based approach and to promote greater recognition of gender issues to ensure inclusiveness and positive changes for Pacific island people. The five-year PEUMP programme is funded by the European Union (EUR 35 million) and the Government of Sweden (EUR 10 million). It is implemented by the Pacific Community (SPC), the Forum Fisheries Agency (FFA), the Secretariat of the Pacific Regional Environment Programme (SPREP) and the University of the South Pacific (USP) in close collaboration with Non-Government Organisations and national authorities.
 
 
 For further information:
 
-On the BIEM Initiative: Jamie Davies **[jamied@sprep.org](jamied@sprep.org)**
+On the BIEM Initiative: Jamie Davies [jamied@sprep.org](jamied@sprep.org)
 
-On the Turtle Extinction Risk Assessment: Nicolas Pilcher **[npilcher@mrf-asia.org](npilcher@mrf-asia.org)**
+On the Turtle Extinction Risk Assessment: Nicolas Pilcher [npilcher@mrf-asia.org](npilcher@mrf-asia.org)
