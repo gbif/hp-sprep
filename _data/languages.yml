@@ -3,5 +3,5 @@ en:
   icon:  # optional
 da:
   label: Dansk
-sa:
-  label: Samoa
+#sa:
+  #label: Samoa
