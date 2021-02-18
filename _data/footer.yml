@@ -17,7 +17,7 @@ columns:
   - name: David Moverley
     description: | # Can be Markdown
       * Invasive Species Adviser
-      * Secretariat of the Pacific Regional Environment Programme
+      * Secretariat of the Pacific Regional Environment Programme (SPREP)
       * Vailima   
       * Samoa
     connectIcons: true
