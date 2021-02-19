@@ -2,6 +2,7 @@
 
 - text: About
   href: /about
+  icon: fa-book-open
 #- text: Home
 #  href: /home/
 - text: Data
@@ -22,6 +23,8 @@
      href: https://piln.sprep.org/
    - text: Invasive Species Management in the Pacific
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
+   - text: Pacific Environment Portal (PEP)
+     href: https://pacific-data.sprep.org/
    - text: Pacific Invasive Learning Network (PILN)
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
    - text: Pacific Invasive Partnership (PIP)
