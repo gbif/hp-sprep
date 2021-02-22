@@ -102,11 +102,6 @@ defaults:
     values:
       lang: en
   -
-   # scope:
-   #   path: "da/"
-   # values:
-   #   lang: da
-  -
     #scope:
      # path: "sa/"
     #values:
