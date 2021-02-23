@@ -53,11 +53,11 @@ algae:
     coloredHeadlineLinks: true   # If a headline is a link, then use the link color. Default is true. 
 
   navbar:                         # RELATED TO NAVIGATION BAR
-    #brandBackground: /assets/images/Banner_1.png     # Define a custom background for the logo/title in the top navigation bar
+    brandBackground: /assets/images/2.png     # Define a custom background for the logo/title in the top navigation bar
     #color: green
     #color: "#3ca7e6"             # What color should the navbar be?
     hasWhiteText: true          # Should the text color be white?
-    color: #fcba03
+    color: "#fcba03"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
