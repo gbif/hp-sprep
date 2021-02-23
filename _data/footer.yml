@@ -2,6 +2,8 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
+background: /assets/images/Banner_1.png
+
 columns:
   - name: Partners
     links:
