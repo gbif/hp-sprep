@@ -4,6 +4,7 @@ date:   2020-08-24 21:37:12 +1300
 categories: battler invasive
 lang-ref: invasive species
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Battler%20Series_New%20Pubs.jpg?itok=uLLJpz23/600x300
+parallax: true # OPTION - default is false
 ---
 *by Angelica Salele-Sefo*
 
