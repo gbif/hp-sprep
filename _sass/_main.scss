@@ -4,10 +4,7 @@
 
 //You can add additional styling 
 
-.navbar-item.is-mega {
-  position: static;
-}
-.navbar-item.is-mega .is-mega-menu-title {
-  margin-bottom: 0;
-  padding: 0.375rem 1rem;
+.navbar {
+  background: url('https://hp-sprep.gbif-staging.org/assets/images/1.png');
+  background-size: cover;
 }
