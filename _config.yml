@@ -57,7 +57,8 @@ algae:
     #color: green
     color: "#acd5fa"             # What color should the navbar be?
     #hasWhiteText: true          # Should the text color be white?
-    is-transparent: true
+    is-transparent
+    divider
 
 
 # Exclude from processing.
