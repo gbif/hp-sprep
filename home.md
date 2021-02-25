@@ -12,7 +12,7 @@ cta:
   - text: Get Data
     href: /data
     isPrimary: true
-permalink:/
+permalink: /
 
 
 ---
