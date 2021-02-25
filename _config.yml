@@ -51,7 +51,6 @@ algae:
     colors:
       primary: "#176fe3"          # Primary color of your brand. Use HEX code. Used for buttons and links
       links: "#176fe3"          # What color should links have. Use a HEX code. DEfault is primary color. 
-      background-color: "#cccccc"
     coloredHeadlineLinks: true   # If a headline is a link, then use the link color. Default is true. 
 
   navbar:                         # RELATED TO NAVIGATION BAR
@@ -100,7 +99,7 @@ defaults:
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   -
     scope:
-      path: ""
+      path: "en"
     values:
       lang: en
   -
