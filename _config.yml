@@ -96,7 +96,7 @@ defaults:
     scope:
       path: "_posts" # an empty string here means all files in the project
     values:
-      layout: "page"
+      layout: "_layouts/post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   -
     scope:
