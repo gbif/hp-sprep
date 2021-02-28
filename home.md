@@ -8,6 +8,7 @@ background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-
 imageLicense: |
   Photo by Envato Elements
 parallax: true # OPTION - default is false
+height: 75vh
 cta:
   - text: Get Data
     href: /data
