@@ -3,8 +3,7 @@ lang-ref: about
 title: About us
 description:
 background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
-imageLicense: |
-  Photo by Envato Elements
+imageLicense: | Photo by Envato Elements
 parallax: true # OPTION - default is false
 height: 60vh
 ---
