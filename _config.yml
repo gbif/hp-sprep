@@ -98,12 +98,12 @@ defaults:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   -
-    scope:
-      path: "en"
-    values:
-      lang: en
-  -
     #scope:
-     # path: "sa/"
+      #path: "da"
     #values:
-     # lang: sa
+      #lang: sd
+  -
+    scope:
+      path: "sa"
+    values:
+      lang: sa
