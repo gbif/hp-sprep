@@ -2,7 +2,7 @@
 title:  "Niuean wins Pacific Invasive Species 'Battler of the year Award'"
 date:   2020-11-27 21:37:12 +1300
 categories: battler invasive
-lang-ref: invasive species
+lang-ref: en
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20150916_101333_b.jpg?itok=WiXD6fs3/600x300
 ---
 *by Leanne Moananu*
