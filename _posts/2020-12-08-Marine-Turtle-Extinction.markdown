@@ -2,8 +2,7 @@
 title:  "Marine Turtle Extinction Risk Assessment to Support Decision Making in Turtle Conservation"
 date:   2020-12-08 21:37:12 +1300
 categories: turtle
-lang-ref: en
-parallax: true # OPTION - default is false
+lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Image%202_Turtle%20in%20banner.png?itok=W10KaMZz/600x300
 ---
 *by Angelica Salele-Sefo*
