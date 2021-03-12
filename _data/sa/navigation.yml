@@ -6,9 +6,9 @@
   href: /sa/data
 - text: Downloads
   menu:
-   - text: Faamaumauga e faasoa atu mo e o lo'o taumafai e faatineia manu ma laau faalafua-Gagana Peretania
+   - text: Faamaumauga e faasoa atu mo e o lo'o gafatia i le faatineia o manu ma laau faalafua-Gagana Peretania
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Faamaumauga e faasoa atu mo e o lo'o taumafai e faatineia manu ma laau faalafua-Gagana Falani
+   - text: Faamaumauga e faasoa atu mo e o lo'o gafatia i le faatineia o manu ma laau faalafua-Gagana Falani
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: Links
   menu: # Dropdown menu (one level deep only)
@@ -16,13 +16,13 @@
      href: https://piln.sprep.org/
    - text: Invasive Species Management in the Pacific
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
-   - text: Pacific Environment Portal (PEP)
+   - text: Upegatafailagi mo le siosiomaga a le Pasefika poo le PEP
      href: https://pacific-data.sprep.org/
-   - text: Pacific Invasive Learning Network (PILN)
+   - text: Upegatafailagi mo le Pasefika aua le aoaoina o manu ma laau faalafua PILN
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
    - text: Pacific Invasive Partnership (PIP)
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
-   - text: Pacific Island Protected Area Portal (PIPAP)
+   - text: Upegatafailagi mo le puipuia o vaega ole Pasefika poo le PIPAP
      href: https://pipap.sprep.org/
 #   - text: Pacific Regional Invasive Species Management Support Services (PRISMSS)
 #     href: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss
