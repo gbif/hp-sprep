@@ -2,13 +2,13 @@
 
 - text: Faamatalaga
   href: /sa/faamatalaga
-- text: Data
+- text: Faamaumauga mo le Pasefika
   href: /sa/data
 - text: Downloads
   menu:
-   - text: Battlers Sharing Data-Gagana Peretania
+   - text: Faamaumauga e faasoa atu mo e o lo'o taumafai e faatineia manu ma laau faalafua-Gagana Peretania
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Battlers Sharing Data-Gagana Falani
+   - text: Faamaumauga e faasoa atu mo e o lo'o taumafai e faatineia manu ma laau faalafua-Gagana Falani
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: Links
   menu: # Dropdown menu (one level deep only)
