@@ -5,9 +5,9 @@
 columns:
   - name: Pa'aga
     links:
-    - text: GBIF
+    - text: Global Biodiversity Information Facility (GBIF)
       href: https://www.gbif.org/
-    - text: SPREP
+    - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
       href: https://www.sprep.org/
 
  # - name: Code
