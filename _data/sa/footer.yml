@@ -3,24 +3,24 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partnere
+  - name: Pa'aga
     links:
-    - text: Navn på projektpartner
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: GBIF
+      href: https://www.gbif.org/
+    - text: SPREP
+      href: https://www.sprep.org/
 
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+ # - name: Code
+ #   description: | # Can be Markdown
+ #     This project is open source. See `_data/footer.yml` to customize the footer.
   
-  - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
-    connectIcons: true
+ # - name: Fa'afeso'ota'i
+ #   description: | # Can be Markdown
+     
+ #     * Street name
+ #     * 1234 postal code
+ #     * Country
+ #   connectIcons: true
 
   # EXAMPLE
   #- name: Group name
