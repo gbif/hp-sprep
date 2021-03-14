@@ -10,6 +10,6 @@ cta:
   - text: Faamaumauga
     href: /sa/data
     isPrimary: true
-  permalink: /sa
+permalink: /sa
 ---
 
