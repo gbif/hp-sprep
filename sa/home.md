@@ -10,8 +10,8 @@ cta:
   - text: Faamaumauga
     href: /sa/data
     isPrimary: true
-  - text: Faamatalaga
-    href: /sa/Faamatalaga
+  //- text: Faamatalaga
+  //  href: /sa/Faamatalaga
 permalink: /sa
 ---
 
