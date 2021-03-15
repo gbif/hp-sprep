@@ -2,7 +2,15 @@
 klass: "about"
 lang-ref: about
 title: About us
-description: The Pacific portal is to present all of the occurence biodiversity data currrently available on Global Biodiversity Information Facility (GBIF) from the following Pacific Island Countries and territories:
+description: 
+#background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
+background: assets/images/Niue Project Banner.png
+imageLicense: | 
+ Photo by Envato Elements
+parallax: true # OPTION - default is false
+height: 60vh
+---
+The Pacific portal is to present all of the occurence biodiversity data currrently available on Global Biodiversity Information Facility (GBIF) from the following Pacific Island Countries and territories:
 American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Calendonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
 
 These customizable portals is focused on a regional level, and will be fully hosted by the GBIF Secretariat. They will provide advanced occurrence data search, browse, map visualization and image gallery capabilities similar to that of GBIF.org, scoped to a relevant defined subset of GBIF-mediated data. 
@@ -22,10 +30,3 @@ Ability to change language of the user interface (translations and languages oth
 *GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.*
 
 Visit their website for more info: [https://www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
-#background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
-background: assets/images/Niue Project Banner.png
-imageLicense: | 
- Photo by Envato Elements
-parallax: true # OPTION - default is false
-height: 60vh
----
