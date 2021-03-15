@@ -23,13 +23,14 @@
   //background-image: url('/assets/images/Banner_gray_fade.png');
   background: url('/assets/images/carlo test 1.png');
   background-size: cover;
+  background-attachment: fixed;
 } 
 
 .container {
   background: url('/assets/images/carlo test 1.png');
  // overflow: hidden;
   background-size: cover;
-  //background-attachment: fixed;
+  background-attachment: fixed;
 }
 
 .article {
@@ -37,5 +38,6 @@
   background: white;
   //backgroun-image: url('/assets/images/carlo test 1.png');
   background-size: cover;
+  background-attachment: fixed;
 }
 
