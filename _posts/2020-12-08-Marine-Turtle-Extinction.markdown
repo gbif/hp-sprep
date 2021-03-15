@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "Marine Turtle Extinction Risk Assessment to Support Decision Making in Turtle Conservation"
 date:   2020-12-08 21:37:12 +1300
 categories: turtle
