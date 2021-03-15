@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "Battling Invasive Species a Priority for the Pacific'"
 date:   2020-11-25 21:37:12 +1300
 categories: battler invasive
