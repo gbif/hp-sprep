@@ -1,5 +1,4 @@
 ---
-klass: "mypage"
 title:  "Four New Resources for Invasive Species Battlers"
 date:   2020-08-24 21:37:12 +1300
 categories: battler invasive
