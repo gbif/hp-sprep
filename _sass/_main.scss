@@ -43,6 +43,8 @@
 
 .about {
   background-image: url('/assets/images/carlo test 1.png');
-  overflow: hidden;
+  //overflow: hidden;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
