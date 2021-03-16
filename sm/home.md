@@ -8,8 +8,8 @@ imageLicense: |
 parallax: true # OPTION - default is false
 cta:
   - text: Faamaumauga
-    href: /sa/data
+    href: /sm/data
     isPrimary: true
-permalink: /sa
+permalink: /sm
 ---
 

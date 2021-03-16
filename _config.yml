@@ -104,6 +104,6 @@ defaults:
       lang: fr
   -
     scope:
-      path: "sa"
+      path: "sm"
     values:
-      lang: sa
+      lang: sm

@@ -1,9 +1,9 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Faamatalaga
-  href: /sa/faamatalaga
+  href: /sm/faamatalaga
 - text: Faamaumauga mo le Pasefika
-  href: /sa/data
+  href: /sm/data
 - text: Downloads
   menu:
    - text: Faamaumauga e faasoa atu mo e o lo'o gafatia i le faatineia o manu ma laau faalafua-Gagana Peretania
@@ -29,4 +29,4 @@
    - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
      href: https://www.sprep.org/
 - text: Tala Fou
-  href: /sa/talafou/
+  href: /sm/talafou/
