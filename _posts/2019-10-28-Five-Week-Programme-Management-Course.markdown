@@ -34,6 +34,6 @@ The PRISMSS and the Programme Management Course are established under the Global
 
 The Programme Management Course is being held at the SPREP Campus from 22 October to 22 November.
 
-You can access the PRISMSS brochure at this [https://www.sprep.org/sites/default/files/documents/publications/prismss-%20e-brochure.pdf](link).
+You can access the PRISMSS brochure at this [link](https://www.sprep.org/sites/default/files/documents/publications/prismss-%20e-brochure.pdf).
 
 For more information please contact Mr David Moverley at [davidm@sprep.org](davidm@sprep.org) or Mr Shannan Mortimer at [shannanm.ext@sprep.org](shannanm.ext@sprep.org).
