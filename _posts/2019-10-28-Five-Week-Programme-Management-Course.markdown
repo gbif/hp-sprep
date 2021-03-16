@@ -3,7 +3,7 @@ klass: "newspost"
 title:  "Five-Week Programme Management Course To Strengthen National And Regional Invasive Species Management"
 date:   2019-10-28 17:51:12 +1300
 categories: battler invasive
-lang-ref:en
+lang-ref: en
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/PRISMSS%20Group%20pic.JPG?itok=2g-7iWwt
 ---
 *by Leanne Moananu*
