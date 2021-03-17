@@ -1,4 +1,5 @@
 ---
+klass: "about"
 lang-ref: about
 title: Faamatalaga mo lenei auaunaga
 description: 
