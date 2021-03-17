@@ -18,6 +18,7 @@
   background: url('/assets/images/Footer_lighblue_motifs3.png');
   //background: url('/assets/images/carlo_test_2a1.png');
   background-size: auto;
+  background-repeat: no-repeat;
 }
 
 .features {
@@ -43,7 +44,7 @@
 .about {
   background-image: url('/assets/images/carlo_test_2a1.png');
   //overflow: hidden;
-  background-size: cover;
+  background-size: auto;
   background-attachment: fixed;
 }
 
@@ -56,6 +57,6 @@
 
 .NotFound{
   background-image: url('/assets/images/carlo_test_2a1.png');
-  background-size: cover;
+  background-size: auto;
   background-attachment: fixed;
 }
