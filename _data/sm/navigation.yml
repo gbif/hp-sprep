@@ -2,7 +2,7 @@
 
 - text: Faamatalaga
   href: /sm/faamatalaga
-- text: Faamaumauga mo le Pasefika
+- text: Faamaumauga
   href: /sm/data
 - text: Downloads
   menu:
@@ -10,17 +10,17 @@
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
    - text: Faamaumauga e faasoa atu mo e o lo'o gafatia i le faatineia o manu ma laau faalafua-Gagana Falani
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
-- text: Links
+- text: Upegatafailagi eseese
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
      href: https://piln.sprep.org/
-   - text: Invasive Species Management in the Pacific
+   - text: Upegatafailagi mo le Pulega o manu ma laau faalafua i le Pasefika
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
    - text: Upegatafailagi mo le siosiomaga a le Pasefika poo le PEP
      href: https://pacific-data.sprep.org/
    - text: Upegatafailagi mo le Pasefika aua le aoaoina o manu ma laau faalafua poo le PILN
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
-   - text: Pacific Invasive Partnership (PIP)
+   - text: Upetafailagi mo le Pasefika mo manu ma laau faalafua ma latou pa'aga poo le PIP
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
    - text: Upegatafailagi mo le puipuia o vaega ole Pasefika poo le PIPAP
      href: https://pipap.sprep.org/
