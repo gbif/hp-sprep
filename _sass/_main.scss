@@ -9,16 +9,16 @@
 .navbar {
   //background: url('https://hp-sprep.gbif-staging.org/assets/images/Header_lightblue.png');
   //background: url('/assets/images/Header_lightblue.png');
-  //background: linear-gradient(90deg, rgba(54,199,152,100) 0%, rgba(0,12,100,1) 100%);
-  background: rgba(255,255,255,0.9);
+  background: linear-gradient(90deg, rgba(54,199,152,100) 0%, rgba(0,12,100,1) 100%);
   background-size: cover;
 }
 
 .footer {
   //background: url('https://hp-sprep.gbif-staging.org/assets/images/Footer_lighblue.png');
-  background: url('/assets/images/Footer_lighblue_motifs3.png');
-  //background: url('/assets/images/carlo_test_2a1.png');
-  background-size: center;
+  //background: url('/assets/images/Footer_lighblue_motifs3.png');
+  background: url('/assets/images/carlo_test_2a1.png');
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .features {
