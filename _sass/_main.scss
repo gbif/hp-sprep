@@ -41,13 +41,12 @@
 .container {
   background-image: url('/assets/images/carlo_test_2a1.png');
   //overflow: hidden;
-  background: white;
   background-size: cover;
   background-attachment: fixed;
 }
 
 .article {
-  
+  background: white;
   background-image: url('/assets/images/carlo_test_2a1.png');
   background-size: cover;
   background-attachment: fixed;
@@ -63,12 +62,6 @@
 .newspost {
   background-image: url('/assets/images/carlo_test_2a1.png');
   //overflow: hidden;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-.NotFound{
-  background-image: url('/assets/images/carlo_test_2a1.png');
   background-size: cover;
   background-attachment: fixed;
 }
