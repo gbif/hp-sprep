@@ -6,6 +6,8 @@ title: News
 description: News and events
 permalink: /news/
 ---
+
+# FEATURED NEWS
 {% comment %}
   No content here. The layout will insert a card for each post in your _posts folder
 {% endcomment %}
