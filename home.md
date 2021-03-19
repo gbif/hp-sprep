@@ -16,4 +16,3 @@ cta:
     isPrimary: true
 permalink: /
 ---
-# FEATURED NEWS
