@@ -36,13 +36,11 @@ With funding now secured from New Zealand MFAT under the Managing Invasive Speci
 
 The MISCCAP project acknowledges the significant contribution that invasive species management can provide towards enabling Pacific islanders to adapt to the impacts of climate change. 
 
-PRISMSS is a collaboration of leading organisations that have a history of successes in supporting invasive species management in the Pacific, and Manaaki Whenua - Landcare Research is the lead PRISMSS technical partner for the NENS programme with a renowned role in controlling weeds using natural enemies in the Pacific. NENS is one of the five programmes of the PRISMSS. NENS reduces the impact of widespread weeds where the only safe, cost-effective, and sustainable way of managing is through utilising natural enemies (biocontrol). Further information can be found within the Battler Series “Use Natural Enemies to Manage Widespread Weeds in the Pacific”.
+PRISMSS is a collaboration of leading organisations that have a history of successes in supporting invasive species management in the Pacific, and Manaaki Whenua - Landcare Research is the lead PRISMSS technical partner for the NENS programme with a renowned role in controlling weeds using natural enemies in the Pacific. NENS is one of the five programmes of the PRISMSS. NENS reduces the impact of widespread weeds where the only safe, cost-effective, and sustainable way of managing is through utilising natural enemies (biocontrol). Further information can be found within the Battler Series [“Use Natural Enemies to Manage Widespread Weeds in the Pacific”](https://library.sprep.org/sites/default/files/pisb-series-natural-enemies.pdf).
 
 This workshop has been made possible with funding from the New Zealand MFAT as part of the Managing of Invasive Species for Climate Change Adaptation in the Pacific (MISCCAP) Project: a PRISMSS-NZ Collaboration for Pacific Resilience.
 
 **CONTACT:** 
-
-For PRISMSS: [prismss@sprep.org](prismss@sprep.org)
-
+For PRISMSS: [prismss@sprep.org](prismss@sprep.org)#
 For Natural Enemies – Natural Solutions: 
 Lynley Hayes [hayesl@landcaresearch.co.nz](hayesl@landcaresearch.co.nz) or Temo Talie [taliet@landcareresearch.co.nz](taliet@landcareresearch.co.nz).
