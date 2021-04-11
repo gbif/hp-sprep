@@ -1,8 +1,8 @@
 ---
 klass: "newspost"
 title:  "Five-Week Programme Management Course To Strengthen National And Regional Invasive Species Management"
-date:   2019-10-28 17:51:12 +1300
-categories: battler invasive
+date:   2021-03-30 09:20:00 +1300
+categories: battler invasive naturalsolutions NENS
 lang-ref: en
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Capture_6.PNG?itok=xp2FpWCS
 ---
@@ -41,5 +41,6 @@ PRISMSS is a collaboration of leading organisations that have a history of succe
 This workshop has been made possible with funding from the New Zealand MFAT as part of the Managing of Invasive Species for Climate Change Adaptation in the Pacific (MISCCAP) Project: a PRISMSS-NZ Collaboration for Pacific Resilience.
 
 CONTACT 
-For PRISMSS: [prismss@sprep.org](prismss@sprep.org)
-For Natural Enemies – Natural Solutions: Lynley Hayes [hayesl@landcaresearch.co.nz](hayesl@landcaresearch.co.nz) or Temo Talie [taliet@landcareresearch.co.nz](taliet@landcareresearch.co.nz)
+For PRISMSS: [prismss@sprep.org](prismss@sprep.org).
+For Natural Enemies – Natural Solutions: 
+Lynley Hayes [hayesl@landcaresearch.co.nz](hayesl@landcaresearch.co.nz) or Temo Talie [taliet@landcareresearch.co.nz](taliet@landcareresearch.co.nz).
