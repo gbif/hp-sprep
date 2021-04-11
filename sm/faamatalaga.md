@@ -1,7 +1,7 @@
 ---
 klass: "about"
 lang-ref: about
-title: Faamatalaga
+title:
 description: 
 background: /assets/images/Niue Project Banner.png
 imageLicense: |
