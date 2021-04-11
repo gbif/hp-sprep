@@ -1,5 +1,5 @@
 ---
-title:  "Invasive Species identified as an important issue for Pacific region.'"
+title:  "Invasive Species identified as an important issue for Pacific region."
 date:   2021-03-09 10:11:00 +1300
 categories: battler invasive
 lang-ref: en
