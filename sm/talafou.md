@@ -3,7 +3,7 @@ klass: about
 lang-ref: archive
 layout: archive
 title: Tala Fou
-description: Tala Fou faatatau i siosiomaga ma punaoa ale Pasefika
+description: Tala Fou faatatau i siosiomaga faanatura ale Pasefika
 permalink: /sm/talafou
 ---
 {% comment %}
