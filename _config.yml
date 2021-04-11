@@ -99,11 +99,6 @@ defaults:
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   -
     scope:
-      path: "fr"
-    values:
-      lang: fr
-  -
-    scope:
       path: "sm"
     values:
       lang: sm
