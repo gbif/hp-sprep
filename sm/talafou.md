@@ -1,4 +1,5 @@
 ---
+klass: about
 lang-ref: archive
 layout: archive
 title: Tala Fou
