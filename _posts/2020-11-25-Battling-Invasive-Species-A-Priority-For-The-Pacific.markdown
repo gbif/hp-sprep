@@ -6,7 +6,7 @@ categories: battler invasive
 lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_7162.JPG?itok=ivbPey_7/600x300
 ---
-*by Angelica Salele-Sefo*
+*by Angelica Salele-Sefo.*
 
 A session titled [Battling Invasive Species](https://www.youtube.com/watch?v=62JDxlSujJc&feature=youtu.be) provided a unique opportunity for participants of the 10th Pacific Islands Nature Conservation and Protected Areas Conference to hear directly from those working within their communities to combat invasive species about some of the impacts and challenges they face each day.
 
