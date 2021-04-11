@@ -6,7 +6,7 @@ categories: battler invasive
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20150916_101333_b.jpg?itok=WiXD6fs3/600x300
 ---
-*by Leanne Moananu*
+*by Leanne Moananu.*
 
 Mr Huggard Tongatule of Niue is the recipient of the 2020 Pacific Invasive Species Battler of the Year award. 
 
