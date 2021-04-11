@@ -1,5 +1,5 @@
 ---
-klass: "home"
+klass: "about"
 lang-ref: home
 layout: home
 title: GBIF Pasefika
