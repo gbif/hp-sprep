@@ -2,7 +2,7 @@
 klass: "newspost"
 title:  "Weeding Out Invasive Species Across the Pacific"
 date:   2021-03-30 09:20:00 +1300
-categories: battler invasive NENS
+categories: battler invasive NENS PRISMSS
 lang-ref: en
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Capture_6.PNG?itok=xp2FpWCS
 ---
@@ -30,7 +30,7 @@ This training was made possible through funding support provided by the New Zeal
 
 The NENS virtual training was held from 16 to 19, and 23 March 2021. Over 60 participants attended from American Samoa, French Polynesia, Guam, Kiribati, Niue, Palau, Republic of the Marshall Islands, Solomon Islands, Samoa, Tonga, Tuvalu, Hawaii, Vanuatu, Fiji, and Wallis and Futuna.
 
-All the training sessions are now available on the PRISMSS NENS Webpage or by joining the Pacific Invasives Battler’s Facebook Page
+All the training sessions are now available on the [PRISMSS NENS Webpage](https://www.sprep.org/prismss/natural-enemies-natural-solutions) or by joining the Pacific Invasives Battler’s Facebook Page
 
 With funding now secured from New Zealand MFAT under the Managing Invasive Species for Climate Change Adaptation in the Pacific (MISCCAP) project, additional Pacific Islands will be able to tackle their most serious weeds with natural enemies.
 
