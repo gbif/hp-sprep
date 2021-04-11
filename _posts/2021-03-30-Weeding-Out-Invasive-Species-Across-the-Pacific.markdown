@@ -1,6 +1,6 @@
 ---
 klass: "newspost"
-title:  "Five-Week Programme Management Course To Strengthen National And Regional Invasive Species Management"
+title:  "Weeding Out Invasive Species Across the Pacific"
 date:   2021-03-30 09:20:00 +1300
 categories: battler invasive naturalsolutions NENS
 lang-ref: en
