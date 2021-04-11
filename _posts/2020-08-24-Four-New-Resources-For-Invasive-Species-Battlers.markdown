@@ -6,7 +6,7 @@ categories: battler invasive
 lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Battler%20Series_New%20Pubs.jpg?itok=uLLJpz23/600x300
 ---
-*by Angelica Salele-Sefo*
+*by Angelica Salele-Sefo.*
 
 Four new publications have been added to the ‘Pacific Invasive Battler Series,’ and are now available for free download from the Secretariat of the Pacific Regional Environment Programme (SPREP), to help Pacific practitioners, environmental managers, government and community members in specific areas of invasive species management.
 
