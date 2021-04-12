@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "Invasive Species identified as an important issue for Pacific region."
 date:   2021-03-09 10:10:32 +1300
 categories: battler invasive
