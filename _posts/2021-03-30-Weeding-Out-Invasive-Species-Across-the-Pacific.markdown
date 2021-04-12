@@ -1,7 +1,7 @@
 ---
 klass: "newspost"
 title:  "Weeding Out Invasive Species Across the Pacific"
-author: Leanne Moananu
+description: by Leanne Moananu
 date:   2021-03-30 15:12:00 +1300
 categories: battler invasive NENS PRISMSS
 lang-ref: en
