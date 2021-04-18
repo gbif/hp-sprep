@@ -28,8 +28,9 @@ description: >- # this means to ignore newlines (until baseurl:)
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-sprep.gbif-staging.org" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: jekyllrb
 #github_username:  jekyll
+youtube_username: PRISMSS
 
 # Build settings
 theme: minima
@@ -52,7 +53,6 @@ algae:
       primary: "#176fe3"          # Primary color of your brand. Use HEX code. Used for buttons and links
       links: "#176fe3"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: true   # If a headline is a link, then use the link color. Default is true. 
-
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: /assets/images/2.png     # Define a custom background for the logo/title in the top navigation bar
     #color: green
