@@ -19,8 +19,8 @@
      href: https://pipap.sprep.org/
    - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
      href: https://www.sprep.org/
- - text: Downloads
-   menu:
+- text: Downloads
+  menu:
    - text: Battlers Sharing Data-English
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
    - text: Battlers Sharing Data-French
