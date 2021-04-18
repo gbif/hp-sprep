@@ -4,12 +4,6 @@
   href: /sm/faamatalaga
 - text: Faamaumauga
   href: /sm/data
-- text: Faamaumauga e mafai ona sefe i lau komipiuta
-  menu:
-   - text: Faamaumauga e faasoa atu mo i latou o lo'o gafa ma le faatineia o manu ma laau faalafua-Gagana Peretania
-     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Faamaumauga e faasoa atu mo i latou o lo'o gafa ma le faatineia o manu ma laau faalafua-Gagana Falani
-     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: Nisi o Upegatafailagi eseese
   menu: # Dropdown menu (one level deep only)
    - text: Upegatafailagi mo le faamaumauga o punaoa faavae mo i latou o lo'o gafa ma le faatineia o manu ma laau faalafua poo le BRB
@@ -28,5 +22,11 @@
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss
    - text: Ofisa failautusi a le Pasefika mo polokalama faasiosiomaga poo le SPREP
      href: https://www.sprep.org/
+- text: Faamaumauga e mafai ona sefe i lau komipiuta
+  menu:
+   - text: Faamaumauga e faasoa atu mo i latou o lo'o gafa ma le faatineia o manu ma laau faalafua-Gagana Peretania
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
+   - text: Faamaumauga e faasoa atu mo i latou o lo'o gafa ma le faatineia o manu ma laau faalafua-Gagana Falani
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: Tala Fou
   href: /sm/talafou/
