@@ -5,9 +5,9 @@
 columns:
   - name: Pa'aga
     links:
-    - text: Global Biodiversity Information Facility (GBIF)
+    - text: Faamaumauga tuufaatasi mo siosiomaga faanatura i le lalolagi poo le GBIF
       href: https://www.gbif.org/
-    - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
+    - text: Ofisa failautusi a le Pasefika mo polokalama faasiosiomaga poo le SPREP
       href: https://www.sprep.org/
 
  # - name: Code
