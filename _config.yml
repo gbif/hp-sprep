@@ -107,5 +107,6 @@ defaults:
     scope:
       path: "_post/sm"
     values:
+      lan: sm
       layout: "post"
       permalink: "sm/post/:year/:slug/"
