@@ -2,7 +2,7 @@
 klass: "newspost"
 title:  "Four New Resources for Invasive Species Battlers"
 date:   2020-08-24 21:37:12 +1300
-categories: battler invasive
+categories: [Battler, Invasive]
 lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Battler%20Series_New%20Pubs.jpg?itok=uLLJpz23/600x300
 ---
