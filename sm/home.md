@@ -1,7 +1,7 @@
 ---
 klass: "about"
 lang-ref: home
-layout: languageSplash
+layout: home
 title: GBIF Pasefika
 description: Upegatafailagi e faalauiloa ai siosiomaga faanatura a le Pasefika o lo'o maua i luga faamaumauga tuufaatasi ale lalolagi poo le GBIF
 background: /assets/images/Niue Project Banner.png
