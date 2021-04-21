@@ -2,7 +2,7 @@
 klass: "newspost"
 title:  "Battling Invasive Species a Priority for the Pacific'"
 date:   2020-11-25 21:37:12 +1300
-categories: battler invasive
+categories: [Battler, Invasive]
 lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_7162.JPG?itok=ivbPey_7/600x300
 ---
