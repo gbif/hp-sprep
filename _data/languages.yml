@@ -1,7 +1,7 @@
 en:
   label: English
-  icon:  "gb"
+  icon:  gb
 sm:
   label: Samoan
-  icon: "ws"
-  archive_permalink: /sm/talafou/
+  icon: ws
+  archive_permalink: /_posts/sm/
