@@ -2,7 +2,7 @@
 title:  "Protecting Traditional Knowlege A Priority For Tuvalu's Biodiversity."
 date:   2021-02-23 9:27 +1300
 categories: [Biodiversity]
-lang-ref: en
+lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/PACC%20-%20Tuvalu.JPG?itok=kbPOmo47
 ---
 *by Angelica Salele-Sefo.*
