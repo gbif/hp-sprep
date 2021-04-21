@@ -34,16 +34,14 @@ email: bradleym@sprep.org
 #github_username:  jekyll
 #youtube_username: PRISMSS
 
-tweets_on_home: true
 
 # Build settings
-markdown: kramdown
+
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-thumbor
+
 
 remote_theme: gbif/jekyll-hp-base-theme
 
@@ -52,7 +50,7 @@ algae:
   latestPostLimit: 2
   logo: /assets/images/SPREP-PROE-wide-acronyms-white.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true           # include the title next to the logo
-  archive_permalink: /posts/       # Permalink of page using archive.html layout, required when using post categories
+  archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
     square: true
     # square: false               # Should corners be square or rounded
