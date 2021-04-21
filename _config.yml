@@ -107,4 +107,4 @@ defaults:
       path: "_posts/sm" # an empty string here means all files in the project
     values:
       layout: "post"
-      permalink: "/sm/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      permalink: "post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
