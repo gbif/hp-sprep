@@ -7,6 +7,7 @@ description: Upegatafailagi e faalauiloa ai siosiomaga faanatura a le Pasefika o
 background: /assets/images/Niue Project Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
+height: 75vh
 cta:
   - text: Faamaumauga
     href: /sm/data
