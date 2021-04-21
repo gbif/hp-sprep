@@ -97,6 +97,13 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      
+    scope:
+      path: "_post/sm"
+      type: "posts"
+    values:
+      permalink: "sm/post/:year/:slug/"
+      layout: "post"
   -
     scope:
       path: "sm"
