@@ -1,7 +1,7 @@
 ---
 klass: "about"
 lang-ref: home
-layout: home
+layout: languageSplash
 title: GBIF Pacific
 description: Pacific portal to present all of the Pacific occurrence biodiversity data available on GBIF.
 background: /assets/images/Niue Project Banner.png
