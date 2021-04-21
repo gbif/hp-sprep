@@ -105,8 +105,8 @@ defaults:
       lang: sm
             
     scope:
-      path: "_post/sm"
+      path: "_posts/sm"
     values:
       lang: sm
       layout: "post"
-      permalink: "sm/post/:year/:slug/"
+      permalink: "post/sm/:year/:slug/"
