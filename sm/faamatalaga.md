@@ -5,7 +5,7 @@ title:
 description: 
 background: /assets/images/Niue Project Banner.png
 imageLicense: |
-  Photo by
+  Photo by Huggard Tongatule
 height: 70vh
 ---
 
