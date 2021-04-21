@@ -2,7 +2,7 @@
 klass: "newspost"
 title:  "Weeding Out Invasive Species Across the Pacific"
 date:   2021-03-30 15:12:00 +1300
-categories: battler invasive NENS PRISMSS
+categories: [Battler, Invasive, NENS, PRISMSS]
 lang-ref: en
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Capture_6.PNG?itok=xp2FpWCS
 ---
