@@ -9,7 +9,6 @@ background: /assets/images/Niue Project Banner.png
 imageLicense: Photo by Huggard Tongatule
 caption: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
-toc: true
 height: 75vh
 cta:
   - text: Get Data
