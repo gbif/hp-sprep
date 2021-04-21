@@ -1,7 +1,7 @@
 ---
 title:  "Pacific Voices Heard At The UN Biodiversity Convention Virtual Informal Session"
 date:   2021-02-23 9:27 +1300
-categories: biodiversity
+categories: [Biodiversity]
 lang-ref: en
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Marine%20Protected%20Area%2C%20Chelbacheb%2C%20Palau_Stuart%20Chape_0.jpg?itok=QVBkqPKx
 ---
