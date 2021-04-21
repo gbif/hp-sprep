@@ -90,23 +90,15 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
-      lang: en
+      lang: en     
+  -
+    scope:
+      path: "sm"
+    values:
+      lang: sm
   -
     scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-
-  -
-    scope:
-      path: "sm"
-    values:
-      lang: sm
-            
-    scope:
-      path: "_posts/sm"
-    values:
-      lang: sm
-      layout: "post"
-      permalink: "post/sm/:year/:slug/"
