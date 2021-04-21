@@ -104,7 +104,7 @@ defaults:
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   -
     scope:
-      path: "sm/_posts" # an empty string here means all files in the project
+      path: "_posts/sm" # an empty string here means all files in the project
     values:
       layout: "post"
-      permalink: "sm/_posts/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      permalink: "sm/talafou/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
