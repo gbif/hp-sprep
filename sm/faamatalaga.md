@@ -3,7 +3,7 @@ klass: "about"
 lang-ref: about
 title:
 description: 
-background: /assets/images/Niue Project Banner.png
+background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 height: 70vh
 ---
