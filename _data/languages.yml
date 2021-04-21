@@ -1,5 +1,6 @@
 en:
   label: English
-  icon:  # optional
+  icon:  GB
 sm:
   label: Samoan
+  icon: WS
