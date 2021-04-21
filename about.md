@@ -6,7 +6,7 @@ description:
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 background: assets/images/Niue Project Banner.png
 imageLicense: | 
- Photo by Envato Elements
+ Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 60vh
 ---
