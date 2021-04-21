@@ -7,7 +7,7 @@ description:
 background: assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
-height: 60vh
+height: 70vh
 ---
 # ABOUT US
 
