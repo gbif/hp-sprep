@@ -5,7 +5,7 @@ categories: [Biodiversity]
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Tuilaepa%20ABS%20Launch.JPG?itok=BSM8QW8q
 ---
-*by Angelica Salele-Sefo*
+*by Angelica Salele-Sefo. *
 
 Showing Pacific leadership, Samoa has made significant progress on how their genetic resources may be accessed. The island nation has advanced how both providers and users agree on the fair and equitable sharing of benefits that may arise from their use.
 
