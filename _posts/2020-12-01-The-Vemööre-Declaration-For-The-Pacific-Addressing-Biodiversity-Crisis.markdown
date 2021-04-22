@@ -5,8 +5,9 @@ date:   2020-12-01 14:00:00 +1300
 categories: [Biodiversity]
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/DSC_0333.JPG?itok=SffmTeEk
+preTitle: December 1st 2020
 ---
-*by Leanne Moananu*
+*by Leanne Moananu.*
 
 Bold, urgent action to protect our biodiversity is being called for in a Pacific declaration to tackle the global biodiversity crisis.
 
