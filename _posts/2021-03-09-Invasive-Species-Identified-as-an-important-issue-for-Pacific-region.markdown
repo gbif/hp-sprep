@@ -17,13 +17,13 @@ Pacific island representatives as well as representatives from the Secretariat o
 
 Participants heard statements from several representatives, many stressed how food security is linked to marine biodiversity as well as soil biodiversity, and the importance of both these topics for local livelihoods. Ms Amanda Wheatley, Biodiversity Adviser of SPREP, highlights the impacts invasive species have on biodiversity causing loss and species extinction.
 
-“Invasive species management is increasingly being used in Oceania and should be considered as an important tool in programs supporting adaptation and response to protect native biodiversity, natural resources, food security, economic development, human health and ecosystem services,” said Ms Wheatley.
+>“Invasive species management is increasingly being used in Oceania and should be considered as an important tool in programs supporting adaptation and response to protect native biodiversity, natural resources, food security, economic development, human health and ecosystem services,” said Ms Wheatley.
 
 A reliance on imported goods, with large-volume container trade, was one risk Ms Wheatley stated made Pacific islands vulnerable to continued re-introduction of pest species. 
 
 Invasive species has been listed as one of the top threats to Pacific resilience, for both communities and wildlife. The ‘State of Environment and Conservation in the Pacific Islands - 2020 Regional Report’ states that bat species, native fauna and birds face increasing pressure from the spread of plant invasive species which impact logging and forestry across many islands.
 
-“Ports and shipyards are a standard high priority site for biosecurity and invasive species management. We would like to note that the impact of the COVID pandemic has increased the demand of online trade through postal and express couriers thus changing transport and movement patterns which may raise concerns in the region especially if no proper tools, management or detection facilities are in place to monitor the movement of invasive species in the islands.” 
+>“Ports and shipyards are a standard high priority site for biosecurity and invasive species management. We would like to note that the impact of the COVID pandemic has increased the demand of online trade through postal and express couriers thus changing transport and movement patterns which may raise concerns in the region especially if no proper tools, management or detection facilities are in place to monitor the movement of invasive species in the islands.” 
 
 She stated the development of methods, tools and mechanisms to minimise the risk caused by introduced and increased spread of invasive species is a key concern for the region, and that SPREP welcomes the five elements of technical guidance that Pacific managers will be able to use to address the impacts posed by invasive species.
 
