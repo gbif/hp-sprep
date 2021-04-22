@@ -6,7 +6,7 @@ categories: [Battler, Invasive]
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/PRISMSS%20Group%20pic.JPG?itok=2g-7iWwt
 ---
-*by Leanne Moananu.*
+*by Leanne Moananu. *
 
 Invasive species coordinators and practitioners from around the Pacific have gathered at the Secretariat of the Pacific Regional Environment Programme (SPREP) in Apia, Samoa for a five-week Invasive Species Programme Management Course.
 
