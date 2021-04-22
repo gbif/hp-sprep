@@ -6,7 +6,7 @@ categories: [Battler, Invasive, NENS, PRISMSS]
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Capture_6.PNG?itok=xp2FpWCS
 ---
-*by Leanne Moananu*
+*by Leanne Moananu. *
 
 Controlling invasive plants using natural enemies is a technique that has been used to manage weeds worldwide for over 100 years. Known as biological control, this was the topic of a five-day virtual training held for Pacific Island countries, with many now interested in making greater use of this method.
 
