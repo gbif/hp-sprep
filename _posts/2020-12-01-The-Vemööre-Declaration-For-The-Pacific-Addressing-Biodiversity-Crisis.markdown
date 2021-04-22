@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "The Vemööre Declaration For The Pacific Addressing Biodiversity Crisis"
 date:   2020-12-01 14:00:00 +1300
 categories: [Biodiversity]
