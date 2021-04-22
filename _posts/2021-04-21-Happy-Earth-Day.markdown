@@ -5,7 +5,7 @@ categories: [Biodiversity]
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/176385757_508867813457046_1042907094669697665_n.jpg?itok=301V9bDW
 ---
-*by Angelica Salele-Sefo.*
+*by Angelica Salele-Sefo*
 
 “Restore Our Earth” is the theme for this year’s Earth Day observed annually on 22 April. This year’s theme focuses on restoring the world’s ecosystems through natural processes, emerging green technologies and innovative thinking.
 
