@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "Advanced Access and Benefit Sharing in Samoa"
 date:   2021-03-23 13:50:00 +1300
 categories: [Biodiversity]
