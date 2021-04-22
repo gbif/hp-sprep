@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "Pacific Voices Heard At The UN Biodiversity Convention Virtual Informal Session"
 date:   2021-02-23 9:27 +1300
 categories: [Biodiversity]
