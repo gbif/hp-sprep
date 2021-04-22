@@ -6,7 +6,7 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SOEC%20cover.png?itok=e0R_bpmx
 preTitle: December 2020
 ---
-*by Christina Reed*
+*by Christina Reed. *
 
 Of all the factors considered in an extensive analysis on the state of the environment and conservation in the Pacific Islands, released recently during the 10th Pacific Islands Conference for Nature Conservation and Protected Areas, the reduction of ozone depleting substances has received the only triple gold crown. It is the only indicator with all three criteria coming in at the top: the status is good, the trend is improving, and managers have a high confidence in the data. Coming in second place with a good status report, high confidence in the data, but showing a trend that is for now only stable, are commercial pelagic fishes.
 
