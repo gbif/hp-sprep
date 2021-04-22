@@ -6,7 +6,6 @@ categories: [Battler, Invasive]
 imageLicense: Photo by Huggard Tongatule
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20150916_101333_b.jpg?itok=WiXD6fs3/600x300
-![Photo by Huggard Tongatule<code>{:standalone}</code>]
 ---
 *by Leanne Moananu.*
 
