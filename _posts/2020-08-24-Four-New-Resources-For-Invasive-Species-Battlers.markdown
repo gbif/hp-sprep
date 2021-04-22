@@ -5,6 +5,7 @@ date:   2020-08-24 21:37:12 +1300
 categories: [Battler, Invasive]
 lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Battler%20Series_New%20Pubs.jpg?itok=uLLJpz23/600x300
+preTitle: August 24th 2020
 ---
 *by Angelica Salele-Sefo.*
 
@@ -14,7 +15,7 @@ Developed through the [Pacific Regional Invasive Species Management Support Serv
 
 The series provides information and case-studies that can assist those working in the field and is written in a user-friendly way.
 
-“Pacific communities, while separated by vast ocean space, share many things in common including a heavy reliance on the environment for food, shelter, and economic stability,” said Mr Bradley Myer, Regional Invasive Species Project Manager.
+>“Pacific communities, while separated by vast ocean space, share many things in common including a heavy reliance on the environment for food, shelter, and economic stability,” said Mr Bradley Myer, Regional Invasive Species Project Manager.
 
 “The Battler Series is an important resource for sharing information and management techniques for invasive species that many islands have in common.”
 
