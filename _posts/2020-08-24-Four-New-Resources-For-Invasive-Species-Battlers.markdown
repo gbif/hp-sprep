@@ -24,7 +24,7 @@ For small Pacific islands, invasive species also impact our economies, ability t
 
 The four latest publications are: *1) Use natural enemies to manage widespread weeds in the Pacific; 2) Managing low-incidence priority weeds to conserve Pacific biodiversity; 3) Protect our islands with biosecurity; and 4) Build resilient ecosystems and communities by managing invasive species in high-priority sites.*
 
-![Image of Publications<code>{:standalone .has-text-centered}</code>](https://www.sprep.org/sites/default/files/users/angelicas/Protect%20Our%20Islands_Battler%20Series.jpg){:standalone .has-text-centered}
+![Image of Publications<code></code>](https://www.sprep.org/sites/default/files/users/angelicas/Protect%20Our%20Islands_Battler%20Series.jpg){:standalone .has-text-centered}
 
 There are now 15 publications in the Pacific Invasive Battler Series, and they are available for download on the [Battler Resource Base](https://piln.sprep.org/).
 
