@@ -43,7 +43,7 @@ This workshop has been made possible with funding from the New Zealand MFAT as p
 
 **CONTACT:** 
 
-For PRISMSS: <br>[prismss@sprep.org](prismss@sprep.org)
+For PRISMSS: [prismss@sprep.org](prismss@sprep.org)
 
 For Natural Enemies – Natural Solutions:<br> 
 Lynley Hayes [hayesl@landcaresearch.co.nz](hayesl@landcaresearch.co.nz) or Temo Talie [taliet@landcareresearch.co.nz](taliet@landcareresearch.co.nz).
