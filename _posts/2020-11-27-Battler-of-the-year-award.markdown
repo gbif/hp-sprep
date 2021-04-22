@@ -6,6 +6,7 @@ categories: [Battler, Invasive]
 imageLicense: Photo by Huggard Tongatule
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20150916_101333_b.jpg?itok=WiXD6fs3/600x300
+preTitle: November 27th 2020
 ---
 *by Leanne Moananu.*
 
@@ -13,8 +14,7 @@ Mr Huggard Tongatule of Niue is the recipient of the 2020 Pacific Invasive Speci
 
 Mr Tongatule’s award was announced during the Launch of the Pacific Battler Lounge side event for the 10th Pacific Island Conference on Nature Conservation and Protected Areas, by the Secretariat of the Pacific Regional Environment Programme’s (SPREP) Invasive Species Adviser, Mr David Moverley. 
 
-“We’re really lucky to have so many dedicated invasive species battlers in the Pacific. I can never say that enough. It’s always hard to work out who should be the Battler of the Year but it’s really focussed on those who work hard and achieve real outcomes for the benefit of their countries,” said Mr Moverley.
-
+>“We’re really lucky to have so many dedicated invasive species battlers in the Pacific. I can never say that enough. It’s always hard to work out who should be the Battler of the Year but it’s really focussed on those who work hard and achieve real outcomes for the benefit of their countries,” said Mr Moverley.
 “I am very pleased to announce that our [2020 Battler of the Year Award](https://www.youtube.com/watch?v=jCMY4qq-WaI&feature=youtu.be) goes to Mr Huggard Tongatule of Niue,” he said.  
 
 Mr Huggard Tongatule was awarded the Battler of the Year award recognising the full range of work he is implementing to battle invasive species in Niue.  Along with managing invasive pigs, Mr Tongatule is also managing high priority weeds, progressing natural enemy solutions for the widespread weed taro vine and undertaking awareness raising activities. 
@@ -23,9 +23,9 @@ Mr Tongatule is also about to embark on restoring two large areas of Huvalu Fore
 
 Mr Tongatule was humbled by the award and expressed his gratitude and honour in his acceptance. 
 
-“I am lucky to be working in a field with such passionate and dedicated colleagues who all deserve to win this award,” Mr Tongatule said.
+>“I am lucky to be working in a field with such passionate and dedicated colleagues who all deserve to win this award,” Mr Tongatule said.
 
-“The award is more of a recognition of what we have achieved in Niue rather than what I have achieved as an individual, because we all know that invasive species management is everyone’s responsibility,” he added. 
+>“The award is more of a recognition of what we have achieved in Niue rather than what I have achieved as an individual, because we all know that invasive species management is everyone’s responsibility,” he added. 
 
 [The Battler of the Year award](https://www.sprep.org/pacific-invasive-species-battler-of-the-year), which  was launched in 2017, is given to Pacific invasive species field-based practitioners who have worked at the grassroots level and achieved an outstanding outcome for biodiversity from the use of minimal resources. 
 
