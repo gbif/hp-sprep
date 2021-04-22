@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "New Report Shows Strengths And Weaknesses In Pacific Conservation"
 date:   2020-12-23 14:08:00 +1300
 categories: [Biodiversity]
