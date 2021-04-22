@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "Protecting Traditional Knowlege A Priority For Tuvalu's Biodiversity."
 date:   2021-02-23 9:27 +1300
 categories: [Biodiversity]
