@@ -13,9 +13,9 @@ preTitle: April 24th 2021
 
 After a year of living the reality of the COVID-19 pandemic, all around the world people and communities have adapted to our new reality with limited or strict travel bans and a restrictive lifestyle. As a result, our relationship with the environment has also changed. 
 
-“Earth Day is our planet’s very own holiday, and this year’s theme “Restore Our Earth” emphasises the work we need to do, despite the impacts of COVID-19, to ensure our planet is safeguarded for future generations to come,” said Mr Kosi Latu, Director General of SPREP.
+>“Earth Day is our planet’s very own holiday, and this year’s theme “Restore Our Earth” emphasises the work we need to do, despite the impacts of COVID-19, to ensure our planet is safeguarded for future generations to come,” said Mr Kosi Latu, Director General of SPREP.
 
-“COVID-19 has clearly demonstrated   our reliance on healthy ecosystems and biodiversity for our health, food, water, shelter, energy and much more, which have been a lifeline for many communities during these hard times. Our advancements in technology have helped many of us adapt to working remotely, but it is undeniable that it is our planet that sustains us and we need to protect and conserve it now more than ever.”
+>“COVID-19 has clearly demonstrated   our reliance on healthy ecosystems and biodiversity for our health, food, water, shelter, energy and much more, which have been a lifeline for many communities during these hard times. Our advancements in technology have helped many of us adapt to working remotely, but it is undeniable that it is our planet that sustains us and we need to protect and conserve it now more than ever.”
 
 A number of events that had been planned around last year’s Earth Day were reportedly cancelled as a result of the COVID-19 pandemic. A year later, equipped with better resources to cater to the current global situation, celebrations are back on with many organisations opting for safer, virtual events to prevent the spread of COVID-19.
 
