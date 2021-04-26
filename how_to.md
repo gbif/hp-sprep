@@ -1,7 +1,7 @@
 ---
 klass: "about"
 layout: compose
-lang-ref: about
+lang-ref: 
 title: How to
 description:
 background: assets/images/Niue-Project-Banner.png
