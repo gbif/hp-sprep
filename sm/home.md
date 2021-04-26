@@ -10,7 +10,7 @@ parallax: true # OPTION - default is false
 height: 75vh
 cta:
   - text: Faamaumauga
-    href: /sm/data
+    href: /sm/faamaumauga
     isPrimary: true
 permalink: /sm
 ---
