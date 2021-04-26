@@ -34,7 +34,7 @@ I still remember the first time I attended a United Nations Biodiversity Confere
 
 I have since attended three of these global meetings, and always love my role in supporting Pacific Island delegates to come together as a team, to have an amplified, strong voice amongst often larger delegations from countries around the world. 
 
-![Ms Amanda Wheatley on the left with Mr Stuart Chape at the UNCBD Conference of the Parties](https://www.sprep.org/sites/default/files/users/nanettew/Amanda2_0.jpg)
+![Ms Amanda Wheatley on the left with Mr Stuart Chape at the UNCBD Conference of the Parties](https://www.sprep.org/sites/default/files/users/nanettew/Amanda2_0.jpg){:standalone .has-text-centered}
 
 **Q. What is one of the best things you like about your job?** 
 
