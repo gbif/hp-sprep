@@ -24,7 +24,7 @@ Keep on, Amanda!
 
 Organising the recent 10th Pacific Islands Conference on Nature Conservation and Protected Areas held late in 2020 is one of my proudest moments.  This work has been a main focus for me over the past two years.  Due to COVID-19 we essentially had to organise two conferences, first, we focussed on a face-to-face event to be held in New Caledonia, which was heartbreakingly cancelled just four weeks before starting due to the global pandemic. 
 
-I don’t give up easily, so we then rescheduled the conference and turned it into a full virtual event.  This event marked the first and largest virtual environment event in the region, and it had twice as many participants as any previous Nature Conference!  It was therefore a great learning experience for all of us in the region and illustrated that virtual approaches can be successful.   It also demonstrated that with strong partnerships across the region and teamwork any challenge can be overcome.
+I don’t give up easily, so we then rescheduled the conference and turned it into a full virtual event.  This event marked the first and largest virtual environment event in the region, and it had twice as many participants as any previous Nature Conference!  It was therefore a great learning experience for all of us in the region and illustrated that virtual approaches can be successful. It also demonstrated that with strong partnerships across the region and teamwork any challenge can be overcome.
 
 This work definitely reflected a couple of sayings – “What doesn’t kill you only makes you stronger” and “the greater the challenge, the greater the sense of achievement or reward!”
 
