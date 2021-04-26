@@ -8,7 +8,7 @@ background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400
 height: 50vh
 preTitle: April 23rd 2021
 ---
-*by Nanette Woontoon*
+*by Nanette Woontoon.*
 
 *Shining our spotlight on our Pacific People that work for our Pacific environment is this Q and A series from your Secretariat of the Pacific Regional Environment Programme (SPREP).* 
 
