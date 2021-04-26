@@ -1,5 +1,5 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'dark', extendWith: {
-  primary: themeStyle.colors.algae
+  primary: themeStyle.colors.primary
 }});
 
 var siteConfig = {
