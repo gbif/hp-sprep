@@ -3,6 +3,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'dark', exte
 }});
 
 var siteConfig = {
+  occurrenceSearchTabs: ['MAP', 'TABLE'],
   rootPredicate: {
     "type": "and",
     "predicates": [
@@ -44,7 +45,7 @@ var siteConfig = {
           }
         ]
       },
-      occurrenceSearchTabs: ['MAP', 'TABLE'],
+      
       {
         "type": "equals",
         "key": "notIssues",
