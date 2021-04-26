@@ -1,4 +1,5 @@
 ---
+klass: "newspost"
 title:  "Our people, Our Pacific Environment Q & A with Amanda Wheatley"
 date:   2021-04-23 12:54:12 +1300
 categories: [Biodiversity]
