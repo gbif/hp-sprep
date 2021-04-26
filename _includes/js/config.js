@@ -44,6 +44,7 @@ var siteConfig = {
           }
         ]
       },
+      occurrenceSearchTabs: ['MAP', 'TABLE'],
       {
         "type": "equals",
         "key": "notIssues",
