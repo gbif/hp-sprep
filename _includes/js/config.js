@@ -51,5 +51,4 @@ var siteConfig = {
       }
     ]
   }
-   blacklistedFilters: ['datasetKey']
 };
