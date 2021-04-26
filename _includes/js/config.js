@@ -3,7 +3,6 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'dark', exte
 }});
 
 var siteConfig = {
-  highlightedFilters: ['collectionCode', 'taxonKey'],
   rootPredicate: {
     "type": "and",
     "predicates": [
