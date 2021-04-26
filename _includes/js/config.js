@@ -51,4 +51,5 @@ var siteConfig = {
       }
     ]
   }
+  highlightedFilters: ['collectionCode', 'taxonKey'],
 };
