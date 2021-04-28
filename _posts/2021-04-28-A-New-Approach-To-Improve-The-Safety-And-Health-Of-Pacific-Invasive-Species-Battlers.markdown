@@ -34,9 +34,9 @@ GEF 6 RIP participating countries are Niue, Republic of the Marshall Islands, To
 
 The system involves entering information into a mobile app, so the users have been supplied with ruggedised tablets to assist the system's day-to-day operation. 
 
-*The GEF 6 RIP is funded by the Global Environment Facility, implemented by the United Nations Environment Programme and executed by the Secretariat of the Pacific Regional Environment Programme. 
+*The GEF 6 RIP is funded by the Global Environment Facility, implemented by the United Nations Environment Programme and executed by the Secretariat of the Pacific Regional Environment Programme.*
 
-The Project works primarily in the Marshall Islands, Niue, Tonga, and Tuvalu and has a regional component.
+*The Project works primarily in the Marshall Islands, Niue, Tonga, and Tuvalu and has a regional component.
 Implementation of the GEF6RIP is supported by the [Pacific Regional Invasive Species Management Support Service (PRISMSS)](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss).*
 
 For more information on the ThinkSafe Health and Safety System, please contact Project Manager GEF 6 RIP Bradley Myer at [bradleym@sprep.org](bradleym@sprep.org).
