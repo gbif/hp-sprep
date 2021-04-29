@@ -1,6 +1,6 @@
 ---
 lang-ref: data
-title: Data
+title: Lotomatala
 description: We publish open data
 layout: occurrence
 ---
