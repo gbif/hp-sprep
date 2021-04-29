@@ -103,6 +103,11 @@ defaults:
       lang: sm
   -
     scope:
+      path: "nu"
+    values:
+      lang: nu
+  -
+    scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
@@ -114,3 +119,10 @@ defaults:
       lang: sm
       layout: "post"
       permalink: "/sm/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/nu" # an empty string here means all files in the project
+    values:
+      lang: nu
+      layout: "post"
+      permalink: "/nu/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
