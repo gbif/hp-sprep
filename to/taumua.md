@@ -18,11 +18,11 @@ Ko e ngaahi kupu felalave’i pe kau ki he GBIF ‘oku nau fakahoko e fatongia m
 
 'Oku ha mai leva mei ai 'a e fiema'u ke to e tukuhifo 'a e kamata'anga 'o e ngaue fakatekinikale kia kinautolu ‘oku kau ki he GBIF, ko e tefito'i kulupu ngaue, kenau fokotu'u ha tanaki’anga fakamatala ‘o e ngaahi me’a mo’ui ‘o faingofua mo ma’ama’a, pea fakataumu'a ke tokoni ki hono fakalele e ngaue ke poupou ki he kakai 'o e ngaahi kolo.
 
-`I he tu`u koia he taimi ni, 'oku sio leva 'a e komiti ngaue kia kinautolu ‘oku manako ki he ngaahi fakakaukau ‘oku ‘omi 'e he GBIF kenau fetokoni’aki 'i hono pailate'i ha konga, ‘o fakafuofua ki he ta’u ‘e taha pea ke fakahoko pe ’i he ngaahi tanaki fakamatala ‘oku tokanga’i ‘e he GBIF.
+I he tu'u koia he taimi ni, 'oku sio leva 'a e komiti ngaue kia kinautolu ‘oku manako ki he ngaahi fakakaukau ‘oku ‘omi 'e he GBIF kenau fetokoni’aki 'i hono pailate'i ha konga, ‘o fakafuofua ki he ta’u ‘e taha pea ke fakahoko pe ’i he ngaahi tanaki fakamatala ‘oku tokanga’i ‘e he GBIF.
 
-**Ko e ha e ngaue `a e tanaki fakamatala ke tuku atu?**
+**Ko e ha e ngaue 'a e tanaki fakamatala ke tuku atu?**
 
-`I he lototonga ni, 'oku tuku atu ‘i he tanaki  fakamatala ke pailate'i, pea ‘oku tuku mai e ngaahi me’a ni:
+'I he lototonga ni, 'oku tuku atu ‘i he tanaki  fakamatala ke pailate'i, pea ‘oku tuku mai e ngaahi me’a ni:
 * Ko ha feitu'u ke tanaki ki ai e ngaahi fakamatala mo e ngaahi memipa fengaue’aki ‘o kau ki ai e fakamatala tautaha kia kinautolu, ko ‘enau timi pea mo e ngaahi ngaue tenau fakahoko .
 (Malava fakatonutonu e ngaahi lea)
 * Malava ke tuku mai ha ngaahi faka'ilonga faingofua 'o hange ko e lanu , lahi e lea 'oku ngaue'aki pea mo hono faka'ilonga). Malava ke liliu 'a e lea 'oku ngaue'aki 'o hange ko e fakatonu lea ‘o pehe ki he malava ke ngaue’aki ‘a e lea makehe ange mei he lea faka-Pilitania 'oku fiema'u ke ngaue'aki ki he ngaahi komuiniti takitaha.
