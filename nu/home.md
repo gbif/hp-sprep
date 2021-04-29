@@ -9,8 +9,8 @@ imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 75vh
 cta:
-  - text: Data
-    href: /nu/data
+  - text: Lotomatala
+    href: /nu/lotomatala
     isPrimary: true
 permalink: /nu
 ---
