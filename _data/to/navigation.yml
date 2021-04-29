@@ -1,0 +1,30 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Taumu'a
+  href: /to/taumua
+- text: Tanaki’anga Fakamatala
+  href: /to/fakamatala
+- text: Ngaahi fakamatala felave`i
+  menu: # Dropdown menu (one level deep only)
+   - text: Tokotaha fekumi ki hono tanaki `o e ngaahi naunau mahu’inga
+     href: https://piln.sprep.org/
+   - text: Ko e ngaahi ako ki hono mapule`i ‘o e ngaahi me’amo’ui `oku ne kainikavea ha me’amo’ui e taha, ‘i he Pasifiki
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific
+   - text: Ko e tanaki`anga fakamatala felave’i mo e ‘atakai `o e Pasifiki
+     href: https://pacific-data.sprep.org/
+   - text: Koe ngaahi ako felalave`i mo e ngaahi me’amo’ui `oku ne kainikavea ha me’amo’ui e taha. `i he Pasifiki
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
+   - text: Koe ngaahi hoa ngaue ki he ngaahi ako felalave’i mo e me’amo’ui `oku ne kainikavea ha me’amo’ui e taha, `i he Pasifiki
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
+   - text: Ko e tanaki`anga fakamatala `o e ngaahi ‘elia ‘oku malu’i `i he ngaahi motu ‘o e Pasifiki
+     href: https://pipap.sprep.org/
+   - text: Ko e Kautaha `oku ne tokanga`I e ngaahi polokalama ngaue faka`atakai `o e  ngaahi fonua ‘o e Pasifiki
+     href: https://www.sprep.org/
+- text: Hiki ‘o ha Fakamatala
+  menu:
+   - text: Tokotaha fekumi ki hono vahevahe `o e fakamatala `i he lea faka-Pilitania
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
+   - text: Tokotaha fekumi ki hono vahevahe `o e fakamatala `i he lea faka-Falanise
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
+- text: Ko e ongoongo
+  href: /to/ko-e-ongoongo/
