@@ -10,7 +10,7 @@ height: 70vh
 ---
 # FEKAU'AKI MO KIMAUTOLU 
 
-Ko e Pasifiki Potolo pe koe fakamatala fakaikiiki ni, ‘oku tuku atu ia fekau’aki mo e ngaahi felalave’i ‘oku hoko ki he me’amo’ui he Pasifiki ‘oku ha atu ia he ngaahi fakamatala ‘a e Global Biodiversity Information Facility (GBIF) mei he ngaahi fonua ko ‘eni ‘i he Pasifiki ‘o kau ki ai `a `Amelika Samoa, 'Otumotu Kuki, Timoa Hahake, Ngaahi 'Otu motu iiki 'o Maikolonisia ,Fisi, Tahiti, Guam, Hauai’i , Kilipati, 'Otu motu Masolo, Naulu, Niu Kaletonia, Niue, 'Otu motu Maliana, Palau, Papua Niukini, Samoa,'Otu motu Solomone, Tokelau, Tonga, Tuvalu, Vanuatu pea mo Wallis mo Futuna.
+Ko e Pasifiki Potolo pe koe fakamatala fakaikiiki ni, ‘oku tuku atu ia fekau’aki mo e ngaahi felalave’i ‘oku hoko ki he me’amo’ui he Pasifiki ‘oku ha atu ia he ngaahi fakamatala ‘a e Global Biodiversity Information Facility (GBIF) mei he ngaahi fonua ko ‘eni ‘i he Pasifiki ‘o kau ki ai 'a 'Amelika Samoa, 'Otumotu Kuki, Timoa Hahake, Ngaahi 'Otu motu iiki 'o Maikolonisia ,Fisi, Tahiti, Guam, Hauai’i , Kilipati, 'Otu motu Masolo, Naulu, Niu Kaletonia, Niue, 'Otu motu Maliana, Palau, Papua Niukini, Samoa,'Otu motu Solomone, Tokelau, Tonga, Tuvalu, Vanuatu pea mo Wallis mo Futuna.
 
 Ko e fakamatala fakaikiiki ni 'oku ‘osi fakataumu'a pe ia ki he ngaahi levolo fakavahefonua pea 'oku fakapa'anga kakato pe ia mei he ngaue 'a e GBIF. 'Oku nau tuku mai 'a e ngaahi fakamatala mahu'inga mo lelei 'aupito tautau tefito ki he ngaahi fekumi ma’u mei ai ha fakamatala , ko e fekumi , ko e vakai ki ha mape ‘o ha feitu’u pea pehe ki hono tanaki ha ngaahi 'ata 'o tatau pe ki he taumu'a ngaue 'a e GBIF, pea mo e ola 'o e fekumi ki ha fakamatala 'oku ‘osi ma'u ‘i he GBIF.
 
@@ -18,7 +18,7 @@ Ko e ngaahi kupu felalave’i pe kau ki he GBIF ‘oku nau fakahoko e fatongia m
 
 'Oku ha mai leva mei ai 'a e fiema'u ke to e tukuhifo 'a e kamata'anga 'o e ngaue fakatekinikale kia kinautolu ‘oku kau ki he GBIF, ko e tefito'i kulupu ngaue, kenau fokotu'u ha tanaki’anga fakamatala ‘o e ngaahi me’a mo’ui ‘o faingofua mo ma’ama’a, pea fakataumu'a ke tokoni ki hono fakalele e ngaue ke poupou ki he kakai 'o e ngaahi kolo.
 
-`I he tu`u koia he taimi ni, 'oku sio leva 'a e komiti ngaue kia kinautolu ‘oku manako ki he ngaahi fakakaukau ‘oku ‘omi ‘e he GBIF kenau fetokoni’aki ‘i hono pailate’i ha konga, ‘o fakafuofua ki he ta’u ‘e taha pea ke fakahoko pe ’i he ngaahi tanaki fakamatala ‘oku tokanga’i ‘e he GBIF.
+`I he tu`u koia he taimi ni, 'oku sio leva 'a e komiti ngaue kia kinautolu ‘oku manako ki he ngaahi fakakaukau ‘oku ‘omi 'e he GBIF kenau fetokoni’aki 'i hono pailate'i ha konga, ‘o fakafuofua ki he ta’u ‘e taha pea ke fakahoko pe ’i he ngaahi tanaki fakamatala ‘oku tokanga’i ‘e he GBIF.
 
 **Ko e ha e ngaue `a e tanaki fakamatala ke tuku atu?**
 
