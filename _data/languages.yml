@@ -2,6 +2,10 @@ en:
   label: English
   icon: 
 sm:
-  label: Samoan
+  label: Gagana Samoa
   icon: #
   archive_permalink: /sm/post/
+nu:
+  label: Niuean
+  icon: #
+  archive_permalink: /nu/post/
