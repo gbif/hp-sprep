@@ -6,25 +6,25 @@
   href: /sm/faamaumauga
 - text: Nisi o Upegatafailagi eseese
   menu: # Dropdown menu (one level deep only)
-   - text: Upegatafailagi mo le faamaumauga o punaoa faavae mo i latou o lo'o gafa ma le faatineia o manu ma laau faalafua poo le BRB
+   - text: Upega tafailagi mo le faamaumauga o punaoa faavae mo i latou o lo'o gafa ma le tineia o manu ma laau faalafua poo le BRB
      href: https://piln.sprep.org/
-   - text: Upegatafailagi mo le vaega o lo'o gafa ma nofo vaavaaia manu ma laau faalafua i le Pasefika
+   - text: Upega tafailagi mo le vaega o lo'o gafa ma nofo vaavaaia manu ma laau faalafua i le Pasefika
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
-   - text: Upegatafailagi mo le siosiomaga a le Pasefika poo le PEP
+   - text: Upega tafailagi mo le siosiomaga a le Pasefika poo le PEP
      href: https://pacific-data.sprep.org/
-   - text: Upegatafailagi mo le Pasefika aua le aoaoina ma le faalauiloa o manu ma laau faalafua poo le PILN
+   - text: Upega tafailagi mo le Pasefika aua le aoaoina ma le faalauiloa o manu ma laau faalafua poo le PILN
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
-   - text: Upegatafailagi a uo ma pa'aga o lo'o mata'itu i le suesue ma vaaia o manu ma laau faalafua i le Pasefika poo le PIP
+   - text: Upega tafailagi a uo ma pa'aga o lo'o mata'itu i le suesue ma vaaia o manu ma laau faalafua i le Pasefika poo le PIP
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
-   - text: Upegatafailagi mo le puipuia o vaega ma itulagi ole Pasefika poo le PIPAP
+   - text: Upega tafailagi mo le puipuia o vaega ma itulagi ole Pasefika poo le PIPAP
      href: https://pipap.sprep.org/
    - text: Ofisa failautusi a le Pasefika mo polokalama faasiosiomaga poo le SPREP
      href: https://www.sprep.org/
 - text: Faamaumauga e mafai ona sefe i lau komipiuta
   menu:
-   - text: Faamaumauga e faasoa atu mo i latou o lo'o gafa ma le faatineia o manu ma laau faalafua-Gagana Peretania
+   - text: Faamaumauga e faasoa atu mo i latou o lo'o gafa ma le tineia o manu ma laau faalafua-Gagana Peretania
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Faamaumauga e faasoa atu mo i latou o lo'o gafa ma le faatineia o manu ma laau faalafua-Gagana Falani
+   - text: Faamaumauga e faasoa atu mo i latou o lo'o gafa ma le tineia o manu ma laau faalafua-Gagana Falani
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: Tala Fou
   href: /sm/talafou/
