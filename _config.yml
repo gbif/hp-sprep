@@ -118,6 +118,11 @@ defaults:
       lang: tk
   -
     scope:
+      path: "tv"
+    values:
+      lang: tv
+  -
+    scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
@@ -150,3 +155,10 @@ defaults:
       lang: tk
       layout: "post"
       permalink: "/tk/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/tv" # an empty string here means all files in the project
+    values:
+      lang: tv
+      layout: "post"
+      permalink: "/tv/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
