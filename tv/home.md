@@ -9,8 +9,8 @@ imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 75vh
 cta:
-  - text: Fakamaua fakamatalaga
-    href: /tv/fakamtalaga
+  - text: Fakamaua Fakamatalaga
+    href: /tv/fakamatalaga
     isPrimary: true
 permalink: /tv
 ---
