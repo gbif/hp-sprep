@@ -1,0 +1,30 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: fakamatalaga
+  href: /tk/fakamatalaga
+- text: Faamaumauga
+  href: /tk/faamaumauga
+- text: Hokotaki
+  menu: # Dropdown menu (one level deep only)
+   - text: Battler Resource Base
+     href: https://piln.sprep.org/
+   - text: Invasive Species Management in the Pacific
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific
+   - text: Hihitemi o te Hikomaga a te Pahefika
+     href: https://pacific-data.sprep.org/
+   - text: Pacific Invasive Learning Network
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
+   - text: Pacific Invasive Partnership
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
+   - text: Pacific Island Protected Area Portal
+     href: https://pipap.sprep.org/
+   - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
+     href: https://www.sprep.org/
+- text: Downloads
+  menu:
+   - text: Battlers Sharing Data-English
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
+   - text: Battlers Sharing Data-French
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
+- text: Tala Fou
+  href: /tk/talafou/
