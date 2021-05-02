@@ -9,8 +9,8 @@ imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 75vh
 cta:
-  - text: Maua ni Faamaumauga
-    href: /tk/faamaumauga
+  - text: Maua ni Fakamaumauga
+    href: /tk/fakamaumauga
     isPrimary: true
 permalink: /tk
 ---
