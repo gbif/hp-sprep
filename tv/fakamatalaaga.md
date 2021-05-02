@@ -1,6 +1,6 @@
 ---
 lang-ref: data
-title: Fakamatalaga
+title: Fakamatalaaga
 description: We publish open data
 layout: occurrence
 ---
