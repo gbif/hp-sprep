@@ -17,3 +17,7 @@ tk:
   label: Tokelaun
   icon: #
   archive_permalink: /tk/post/
+tv:
+  label: Tuvaluan
+  icon: #
+  archive_permalink: /tv/post/
