@@ -2,8 +2,8 @@
 
 - text: Fakamatalaga
   href: /tk/fakamatalaga
-- text: Faamaumauga
-  href: /tk/faamaumauga
+- text: Fakamaumauga
+  href: /tk/fakamaumauga
 - text: Hokotaki
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base
