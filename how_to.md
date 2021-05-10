@@ -90,4 +90,55 @@ follow this step-by-step process to publish data on GBIF:
 9. Update your source data.
 10.Repeat from step 4. Note that the responsibility for maintaining datasets falls on the data publisher.
 
+### What if my data were published by another institution?
+Datasets have unique Identifiers. If the dataset you want to share is already on GBIF,
+it is recommended that you don’t re-publish because GBIF will identify the dataset as
+redundant. A better solution, as a publisher, would be to link to that data already uploaded
+by the other institution.
+Remember, the publisher is not necessarily the only or original owner of the dataset, as
+defined in the metadata, they are just the one who did the work to publish it through GBIF.
+If another institution has already done that for you, go ahead and use it as an asset!
 
+## Pathways to data publishing
+How do you decide what to publish? First, consider the type of species data that you most need and use. 
+Sharing that data can help provide you a stable, recorded copy, and those data are also likely to be
+useful to others.
+Consider the goals of your active projects. In addition
+to new data, are there older data you would need
+to compare with any new findings? During project
+development, did someone have to dig up old files to
+try to identify the scope of the problem? Those data
+may be worth sharing.
+While data about endemic species or new areas
+are always interesting, it’s also true that data about
+species found in common areas are helpful to identify
+and plan for potential species invasions.
+Data that are already in tables or spreadsheets are ideal, but data in any format can be extracted
+and put into columns and rows. For example, you may have a report that verbally describes
+encounters with certain species in a particular area or areas. You can convert that into a dataset
+with the species name matched to the area, year of observation, and so on.
+You can decide whether it is occurrence data, checklist data, or sample event data. Each of these
+types requires different amounts and details of data. For more information, see [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/) and [www.gbif.org/data-quality-requirements](www.gbif.org/data-quality-requirements).
+
+## How do I register as a data publisher on GBIF?
+The first step to sharing data with GBIF is to register, identifying your organisation as one that has
+quality data to share. Once you are registered, you can publish as many datasets as you like.
+The GBIF requirement for registration is that you have access to a node – in the Pacific islands,
+this means access to the SPREP node and Integrated Publishing Toolkit (IPT). You can register
+to become a publisher at any time, you do not need to have data ready. A publisher can also be
+registered to provide access to metadata, even if they are not ready to publish a dataset.
+A publisher may be a ministry, institute, organisation, and so on. For simplicity, we will use the
+term “institution” throughout these instructions.
+
+1. Access the GBIF website at www.gbif.org. Click on Share tab – Become a Publisher and search for your institution to confirm whether or not your institution is already registered. If your institution is not registered, proceed to Step 2.
+2. There is a data publisher agreement to consider. Agree to continue.
+3. Fill in the details requested (e.g., name of institution, primary contact, website address, description of organisation, map location, etc.). 
+<br>Remember to select that the endorsing node, as well as access to an IPT, will be through the SPREP node. 
+<br>The site will ask whether you need help in publishing – the answer here is “No” because there is already assistance available to you via the SPREP Node Manager. 
+<br>Contact Information: Provide your contact details within your institution. It is a good idea to also provide a general contact email for the institution (i.e. info@..............) that will last even if a staff member leaves. The Technical Point of Contact will require the contact information of the Node Manager at SPREP. Note that if contact information changes, you may contact the GBIF Help Desk directly to update the contact information. 
+<br>Provide a short description of your institution. 
+<br>Select “No” to the question “Are you planning to install and run publishing software (such as the [Integrated Publishing Toolkit – IPT](https://www.gbif.org/ipt)) to publish your data directly to [GBIF.org](https://www.gbif.org/)?”
+4. Submit
+6. A notification email will be sent to the contact person (Data Publisher) and a notification email will be sent to SPREP as the GBIF Participant Node.
+7. Once the Participant Node has endorsed the institution for GBIF, the registration will be complete and now has a new publisher added to the GBIF site.
+8. GBIF will send the contact person a password for the newly registered institution. This password will be required by the Node Manager to assist with registering new datasets to GBIF in the IPT.
