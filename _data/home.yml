@@ -12,10 +12,6 @@ stats:
       background: /assets/images/landing_page/iconos_cifras/listas_de_especies.png
       href: https://listas.biodiversidad.co/
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
-    - title: 4.919
-      description: Fichas de especies
-      background: /assets/images/landing_page/iconos_cifras/fichas_de_especies.png
-      href: https://catalogo.biodiversidad.co/
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=CO&limit=0&isEndorsed=true">100,000</span>
       description: Publicadores
       background: /assets/images/landing_page/iconos_cifras/publicadores.png
