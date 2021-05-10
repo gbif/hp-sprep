@@ -2,7 +2,7 @@
 klass: "about"
 layout: compose
 lang-ref: 
-title: How do I use GBIF to find data?
+title: How to
 description:
 background: assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
@@ -12,7 +12,7 @@ height: 75vh
 parallax: true
 overlayColor: "#ffffffbb"
 hasTextShadow: true
-hasBlackText: fl=alse
+hasBlackText: false
 composition:
 - type: heroImage
 - type: pageMarkdown
