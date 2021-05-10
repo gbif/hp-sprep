@@ -10,20 +10,6 @@ parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
 height: 75vh
 parallax: true
-overlayColor: "#ffffffbb"
-hasTextShadow: true
-hasBlackText: false
-composition:
-- type: heroImage
-- type: pageMarkdown
-- type: heroImage
-  data: example.compose.overlay.heroHeadlineA
-- type: markdown
-  data: example.compose.overlay.text
-- type: heroImage
-  data: example.compose.overlay.heroHeadlineB
-- type: markdown
-  data: example.compose.overlay.text
 ---
 
 ## How do I use GBIF to find data?
