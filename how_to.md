@@ -26,7 +26,7 @@ composition:
   data: example.compose.overlay.text
 ---
 
-### How do I use GBIF to find data?
+## How do I use GBIF to find data?
 <br>The site [www.gbif.org](https://www.gbif.org) contains over one billion records of species, specimens, observations, and
 samples. Each record will have information about how to download and cite the data. Try exploring
 the site!
@@ -73,3 +73,21 @@ You can also choose to search “everything” (occurrences, species, whole data
 entering a search, then clicking on the top left arrow here:
 
 ![Image of How-to-1](/assets/images/How-to/7.png)
+
+## How do I publish data on GBIF?
+First, you must register your organisation to GBIF, indicating that you’ll be using the SPREP
+Integrated Publishing Tool (see below). After you have registered as a data publisher, you can
+follow this step-by-step process to publish data on GBIF:
+<br>
+1. Enter metadata for your dataset on the SPREP IPT.
+2. Have your source dataset Darwin Core ready (see below: “How do I prepare data for publishing”).
+3. Upload dataset to the IPT.
+4. Map your dataset to Darwin Core Terms, either as a Checklist Dataset or Occurrence Dataset (as appropriate for your data)
+5. Publish.
+6. Validate the dataset with the GBIF Data Validator, prior to registering the dataset [www.gbif.org/tools/data-validator](https://www.gbif.org/tools/data-validator).
+7. Register the dataset with GBIF (first time-only).
+8. Receive feedback from GBIF and users.
+9. Update your source data.
+10.Repeat from step 4. Note that the responsibility for maintaining datasets falls on the data publisher.
+
+
