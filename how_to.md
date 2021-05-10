@@ -2,7 +2,7 @@
 klass: "about"
 layout: compose
 lang-ref: 
-title: How to
+title: How do I use GBIF to find data?
 description:
 background: assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
@@ -26,8 +26,8 @@ composition:
   data: example.compose.overlay.text
 ---
 
-**How do I use GBIF to find data?**
-The site [www.gbif.org](https://www.gbif.org) contains over one billion records of species, specimens, observations, and
+### How do I use GBIF to find data?
+<br>The site [www.gbif.org](https://www.gbif.org) contains over one billion records of species, specimens, observations, and
 samples. Each record will have information about how to download and cite the data. Try exploring
 the site!
 Start by searching from the homepage or clicking on “Get Data” in the top panel. You can look for
@@ -72,4 +72,4 @@ may want to search a few times using different names.
 You can also choose to search “everything” (occurrences, species, whole datasets, and more) by
 entering a search, then clicking on the top left arrow here:
 
-![Image of How-to-1](/assets/images/How-to/7.png){:standalone .has-text-centered}
+![Image of How-to-1](/assets/images/How-to/7.png)
