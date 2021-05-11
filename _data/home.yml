@@ -19,4 +19,4 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=WS&publishing_country=ASlimit=0"></span>
       description: Datasets
       background: /assets/images/Metric_Icons/4.png
-      href: https://www.gbif.org/dataset/search?publishing_country=WS
+      href: https://www.gbif.org/dataset/search?publishing_country=WS&publishing_country=AS
