@@ -23,7 +23,3 @@ composition:
 - type: latestPosts
   data: we_do_not_want_any_header
 ---
-# Current Count
-Dataset: <span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0"></span>
-<br>Publishers: <span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0"></span>
-<br>Occurences: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0"></span>
