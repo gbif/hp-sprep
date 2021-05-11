@@ -61,7 +61,11 @@
   background-attachment: fixed;
 }
 
-.home {
+.home table img {
+  width: 100px;
+  min-width: 100px;
+  height: 100px;
+  min-height: 100px;
   //background: white;
   background-image: url('/assets/images/carlo_test_3.png');
   //overflow: hidden;
