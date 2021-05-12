@@ -15,7 +15,6 @@ cta:
     href: /data
     isPrimary: true
 permalink: /
-
 composition:
 - type: heroImage
 - type: stats
