@@ -1,4 +1,3 @@
-klass: about
 stats:
 features:
       # we can also use the graphql API to allow richer queries
