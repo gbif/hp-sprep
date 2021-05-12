@@ -19,6 +19,7 @@ permalink: /
 composition:
 - type: heroImage
 - type: stats
+  klass: about
   data: home.stats
 - type: latestPosts
   data: we_do_not_want_any_header
