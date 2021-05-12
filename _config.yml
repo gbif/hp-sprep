@@ -123,6 +123,11 @@ defaults:
       lang: tv
   -
     scope:
+      path: "sb"
+    values:
+      lang: sb
+  -
+    scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
@@ -162,3 +167,10 @@ defaults:
       lang: tv
       layout: "post"
       permalink: "/tv/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/sb" # an empty string here means all files in the project
+    values:
+      lang: sb
+      layout: "post"
+      permalink: "/sb/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
