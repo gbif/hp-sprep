@@ -1,0 +1,30 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Abaotim disfala peij
+  href: /sb/abaotim
+- text: Oloketa informeson en statistiks
+  href: /sb/oloketa-informeson-en-statistiks
+- text: Samfala weis, konneksons or contakts 
+  menu: # Dropdown menu (one level deep only)
+   - text: Potaaga he tau koloa tohi
+     href: https://piln.sprep.org/
+   - text: Matakau Gahua mo e tau akau Fofō Kaina he Pasifika
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific
+   - text: Kupega hila he Matakau Takatakai Motu he Pasifika
+     href: https://pacific-data.sprep.org/
+   - text: Tufatufaaga he tau  lotomatala he tau akau Fofō kaina he Pasifka
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
+   - text: Tau Matakau ne Gahua Fakalataha ke he tau akau Fofō kaina he Pasifika
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
+   - text: Kupega hila he matakau ne tokaga he tau vala motu leveki he Pasifika
+     href: https://pipap.sprep.org/
+   - text: Sekretariet blong Pasifik Riginol Envaeroment Prokram (SPREP)
+     href: https://www.sprep.org/
+- text: Oloketa copi or informeson wea iu save daonlodim, tekem  or copim.
+  menu:
+   - text: Fetufatufaaki e tau iloaaga – Fakapalagi Pelitania
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
+   - text: Fetufatufaaki e tau iloaaga faka vagahau Falani
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
+- text: Nius
+  href: /sb/nius/
