@@ -16,7 +16,6 @@ cta:
     isPrimary: true
 permalink: /
 composition:
-- type: heroImage
 - type: stats
   data: home.stats
 - type: latestPosts
