@@ -1,8 +1,8 @@
+klass: about
 stats:
-  features:
+features:
       # we can also use the graphql API to allow richer queries
     - title: <span data-ajax-url="http://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0"></span>
-      klass: about
       description: Occurrences
       background: //assets/images/Metric_Icons/1.png
       href: https://www.gbif.org/occurrence/search?country=AS&country=WS&country=CK&country=TL&country=FM&country=FJ&country=PF&country=GU&country=KI&country=MH&country=NR&country=NC&country=NU&country=MP&country=PW&country=PG&country=SB&country=TK&country=TO&country=TV&country=VU&country=WF
