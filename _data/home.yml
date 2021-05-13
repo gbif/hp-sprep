@@ -3,7 +3,7 @@ stats:
   background: "#ffffff11"
   features:
       # we can also use the graphql API to allow richer queries
-    - title: <span data-ajax-url="http://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0"></span>
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22CO%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
       description: Occurrences
       background: /assets/images/GBIF_Icons/1.png
       href: https://www.gbif.org/occurrence/search?country=AS&country=WS&country=CK&country=TL&country=FM&country=FJ&country=PF&country=GU&country=KI&country=MH&country=NR&country=NC&country=NU&country=MP&country=PW&country=PG&country=SB&country=TK&country=TO&country=TV&country=VU&country=WF
