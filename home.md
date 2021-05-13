@@ -21,11 +21,4 @@ composition:
     data: home.stats
   - type: latestPosts
     data: we_do_not_want_any_header # weird hack as the block layout looks for a data element and falls back to the page if none is present
-  - type: heroImage
 ---
-```
-<div class="powr-countdown-timer" id="a2188642_1620913542"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
-```
-```
-<iframe src="https://www.powr.io/countdown-timer/u/a2188642_1620913542#platform=iframe" style="width:100%;" height="635px" frameborder="0"></iframe>
-```
