@@ -3,7 +3,7 @@ stats:
   background: "#ffffff11"
   features:
       # we can also use the graphql API to allow richer queries
-    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20equals%2C%20key%3A%20%22countryCode%22%2C%20value%3A%20%22CO%22%7D%2C%20%7Btype%3A%20equals%2C%20key%3A%20%22notIssues%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">100,000</span>
+    - title: <span data-ajax-url="http://api.gbif.org/v1/occurrence/search?mediaType=StillImage&networkKey=3aee7756-565e-4dc5-b22c-f997fbd7105c&limit=0"></span>
       description: Occurrences
       background: /assets/images/GBIF_Icons/1.png
       href: /data
@@ -12,12 +12,12 @@ stats:
       description: List of Species
       background: /assets/images/GBIF_Icons/2.png
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
-    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?publishing_country=AS&publishing_country=CK&country=TL&publishing_country=FM&country=FJ&limit=0&isEndorsed=true"></span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/organization?limit=0"></span>
       description: Publishers
       background: /assets/images/GBIF_Icons/3.png
       href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
       # Hard coded value     
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0"></span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/network/3aee7756-565e-4dc5-b22c-f997fbd7105c/constituents?limit=0"></span>
       description: Datasets
       background: /assets/images/GBIF_Icons/4.png
       href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
