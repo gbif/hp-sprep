@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GBIF Pacific # the title of your site should go here
+title: PBIF # the title of your site should go here
 description: >- # this means to ignore newlines (until baseurl:)
   The Pacific portal to present all of the Pacific occurrence biodiversity data currently available on GBIF. 
   So only using a geographical scope to filter the GBIF dataset as a whole.
