@@ -26,3 +26,33 @@ stats:
     #  description: Publishers
     #  background: /assets/images/Metric_Icons/3.png
     #  href: https://www.gbif.org/publisher/search?country=FJ&country=FM&country=NC&country=PW&country=PG&country=WS&country=SB&country=TO&country=VU&country=WF
+    
+stats2:
+  #background: "#ffffff55"
+  background: "#ffffff11"
+  features:
+      # we can also use the graphql API to allow richer queries
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7B%0A%20%20%20%20type%3A%20and%2C%20%0A%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20or%2C%20%0A%20%20%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20equals%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20key%3A%20%22gadmGid%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20value%3A%20%22USA.12_1%22%0A%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%7Btype%3A%20in%2C%20key%3A%20%22countryCode%22%2C%20values%3A%20%5B%22AS%22%2C%22CK%22%2C%22TL%22%2C%22FM%22%2C%22FJ%22%2C%22PF%22%2C%22GU%22%2C%22KI%22%2C%22MH%22%2C%22NR%22%2C%22NC%22%2C%22NU%22%2C%22MP%22%2C%22PW%22%2C%22PG%22%2C%22WS%22%2C%22SB%22%2C%22TK%22%2C%22TO%22%2C%22TV%22%2C%22VU%22%2C%22WF%22%5D%7D%0A%20%20%09%09%09%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20equals%2C%20%0A%20%20%20%20%20%20%20%20key%3A%20%22notIssues%22%2C%20%0A%20%20%20%20%20%20%20%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">6.000.000</span>
+      description: Occurrences
+      background: /assets/images/GBIF_Icons/1.png
+      href: /data
+      # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span> # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
+      description: Checklist
+      background: /assets/images/GBIF_Icons/2.png
+      href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+      # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF&facetMultiselect=true&limit=0"></span>
+      description: Literature
+      background: /assets/images/GBIF_Icons/4.png
+      href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
+      # datasets
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span>
+      description: Datasets
+      background: /assets/images/GBIF_Icons/3.png
+      href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+    #- title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FM&isEndorsed=true" + "https://api.gbif.org/v1/organization?country=WS&isEndorsed=true" ></span>
+    #  description: Publishers
+    #  background: /assets/images/Metric_Icons/3.png
+    #  href: https://www.gbif.org/publisher/search?country=FJ&country=FM&country=NC&country=PW&country=PG&country=WS&country=SB&country=TO&country=VU&country=WF
+
