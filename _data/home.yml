@@ -43,12 +43,12 @@ stats2:
       #NC
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=NC&isEndorsed=true"></span>
       description: New Calendonia
-      background: /assets/images/Country_Flags/NC.jpg
+      background: /assets/images/Country_Flags/NC.png
       href: https://www.gbif.org/publisher/search?country=NC
       #Palau
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=PW&isEndorsed=true"></span>
       description: Palau
-      background: /assets/images/MCountry_Flags/PW.jpg
+      background: /assets/images/Country_Flags/PW.jpg
       href: https://www.gbif.org/publisher/search?country=PW
       #PNG
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=PG&isEndorsed=true"></span>
