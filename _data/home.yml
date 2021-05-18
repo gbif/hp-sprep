@@ -22,7 +22,7 @@ stats:
       description: Datasets
       background: /assets/images/GBIF_Icons/3.png
       href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
-    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FJ,FM&isEndorsed=true"></span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?inCountires=FJ,FM,WS&isEndorsed=true"></span>
       description: Publishers
       background: /assets/images/Metric_Icons/3.png
       href: https://www.gbif.org/publisher/search?country=FJ&country=FM&country=NC&country=PW&country=PG&country=WS&country=SB&country=TO&country=VU&country=WF
