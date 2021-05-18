@@ -1,0 +1,8 @@
+stats:
+  #background: "#ffffff55"
+  background: "#ffffff11"
+  features:
+   - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FJ&isEndorsed=true"></span>
+      description: Fiji
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=FJ
