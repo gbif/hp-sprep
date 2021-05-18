@@ -2,7 +2,7 @@
 klass: "about"
 layout: compose
 lang-ref: 
-title: How to
+title: Publishers
 description:
 background: assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
