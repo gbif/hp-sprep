@@ -4,8 +4,8 @@ layout: compose
 lang-ref: 
 title: Publishers
 description: Pacific Publishers/Instituitions
-background: assets/images/Niue-Project-Banner.png
-imageLicense: Photo by Huggard Tongatule
+background: assets/images/Crimson_crowned_fruit_dove.jpg
+imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
 height: 50vh
