@@ -1,6 +1,6 @@
 ---
 klass: "about"
-layout: compose
+layout: documentation
 lang-ref: 
 title: How to
 description:
