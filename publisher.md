@@ -3,7 +3,7 @@ klass: "about"
 layout: compose
 lang-ref: 
 title: Publishers
-description: Pacific Publishers
+description: Pacific Publishers/Instituitions
 background: assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
