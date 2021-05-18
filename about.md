@@ -2,7 +2,7 @@
 klass: "about"
 lang-ref: about
 layout: heroImage
-title:About Us
+title: About Us
 description:
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 background: assets/images/Niue-Project-Banner.png
