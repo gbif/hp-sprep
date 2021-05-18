@@ -3,7 +3,7 @@
 - text: Data
   href: /data
 - text: Publishers
-  href: /publishers
+  href: /publisher
 - text: Links
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
