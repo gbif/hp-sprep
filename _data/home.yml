@@ -19,7 +19,7 @@ stats:
       href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
       # datasets
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span>
-      description: Fiji
+      description: Literature
       background: /assets/images/GBIF_Icons/3.png
       href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
     #- title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FM&isEndorsed=true" + "https://api.gbif.org/v1/organization?country=WS&isEndorsed=true" ></span>
@@ -30,8 +30,48 @@ stats2:
   #background: "#ffffff55"
   background: "#ffffff11"
   features:
-      # we can also use the graphql API to allow richer queries
+      #Fiji
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FJ&isEndorsed=true"></span>
       description: Fiji
       background: /assets/images/Metric_Icons/3.png
       href: https://www.gbif.org/publisher/search?country=FJ
+      #FSM
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FM&isEndorsed=true"></span>
+      description: Federated States of Micronesia
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=FM
+      #NC
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=NC&isEndorsed=true"></span>
+      description: New Calendonia
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=NC
+      #Palau
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=PW&isEndorsed=true"></span>
+      description: Palau
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=PW
+      #PNG
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=PG&isEndorsed=true"></span>
+      description: Papua New Guinea
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=PG
+      #Solomon Islands
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=SB&isEndorsed=true"></span>
+      description: Solomon Islands
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=SB
+      #Tonga
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=TO&isEndorsed=true"></span>
+      description: Tonga
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=TO
+      #Vanuatu
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=VU&isEndorsed=true"></span>
+      description: Vanuatu
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=VU
+      #Wallis & Futuna
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=WF&isEndorsed=true"></span>
+      description: Wallis & Futuna
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=WF
