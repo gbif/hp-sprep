@@ -6,3 +6,11 @@ stats:
       description: Fiji
       background: /assets/images/Metric_Icons/3.png
       href: https://www.gbif.org/publisher/search?country=FJ
+   - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FM&isEndorsed=true"></span>
+      description: Federated States of Micronesia
+      background: /assets/images/GBIF_Icons/4.png
+      href: https://www.gbif.org/publisher/search?country=FM
+   - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FM&isEndorsed=true"></span>
+      description: New Calendonia
+      background: /assets/images/GBIF_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=NC
