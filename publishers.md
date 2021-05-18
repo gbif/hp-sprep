@@ -15,4 +15,6 @@ hasTextShadow: true
 hasBlackText: false
 composition:
 - type: heroImage
+- type: stats
+  data: publisher.stats
 ---
