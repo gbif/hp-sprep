@@ -1,6 +1,7 @@
 ---
 klass: "about"
 lang-ref: about
+layout: heroImage
 title:
 description:
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
