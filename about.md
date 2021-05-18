@@ -8,7 +8,7 @@ description:
 background: assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
-height: 70vh
+height: 75vh
 ---
 
 The Pacific portal is to present all of the occurence biodiversity data currrently available on Global Biodiversity Information Facility (GBIF) from the following Pacific Island Countries and territories: American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Calendonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
