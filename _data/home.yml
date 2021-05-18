@@ -26,3 +26,12 @@ stats:
     #  description: Publishers
     #  background: /assets/images/Metric_Icons/3.png
     #  href: https://www.gbif.org/publisher/search?country=FJ&country=FM&country=NC&country=PW&country=PG&country=WS&country=SB&country=TO&country=VU&country=WF
+stats2:
+  #background: "#ffffff55"
+  background: "#ffffff11"
+  features:
+      # we can also use the graphql API to allow richer queries
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FJ&isEndorsed=true"></span>
+      description: Publishers
+      background: /assets/images/Metric_Icons/3.png
+      href: https://www.gbif.org/publisher/search?country=FJ
