@@ -18,7 +18,6 @@
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
      href: https://piln.sprep.org/
-     icon: fa-github
    - text: Invasive Species Management in the Pacific
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
    - text: Pacific Environment Portal (PEP)
