@@ -5,8 +5,8 @@ layout: heroImage
 title: About Us
 description:
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
-background: assets/images/Eye_sea_of_Vavau.jpg
-imageLicense: Photo by Stuart Chape
+background: assets/images/Scott_Niue.jpg
+imageLicense: Photo by Scott
 parallax: true # OPTION - default is false
 height: 75vh
 ---
