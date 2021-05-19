@@ -4,7 +4,7 @@ layout: compose
 lang-ref: 
 title: How to
 description:
-background: assets/images/SVG/Niue-Project-Banner.svg
+background: assets/images/Niue-Project-Banner.jpg
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
