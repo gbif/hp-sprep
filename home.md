@@ -8,7 +8,7 @@ background: /assets/images/Crimson_crowned_fruit_dove.jpg
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
-height: 120vh
+height: 90vh
 cta:
   - text: Get Data
     href: /data
