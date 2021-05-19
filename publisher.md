@@ -4,7 +4,7 @@ layout: compose
 lang-ref: 
 title: Pacific Publishers
 description:
-background: assets/images/Eye_sea_of_Vavau.jpg
+background: assets/images/SVG/Eye_sea_of_Vavau.svg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
