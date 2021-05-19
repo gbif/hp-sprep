@@ -4,11 +4,11 @@ layout: documentation
 lang-ref: 
 title: How to
 description:
-background: assets/images/Niue-Project-Banner.png
-imageLicense: Photo by Huggard Tongatule
+background: assets/images/Crimson_crowned_fruit_dove.png
+imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
-height: 65vh
+height: 75vh
 parallax: true
 #overlayColor: "#ffffffbb"
 hasTextShadow: true
