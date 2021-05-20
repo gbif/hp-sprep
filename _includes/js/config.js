@@ -4,7 +4,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 
 var siteConfig = {
   occurrenceSearchTabs: ['TABLE', 'DATASETS', 'GALLERY', 'MAP'],
-  highlightedFilters: ['country', 'taxonKey', 'year', 'occurrenceStatus', 'establishmentMeans', 'datasetKey', 'occurrenceIssue'],
+  highlightedFilters: ['country', 'taxonKey', 'datasetKey','year', 'occurrenceStatus', 'establishmentMeans', 'q', 'hostingOrganizationKey'],
   rootPredicate: {
     "type": "and",
     "predicates": [
