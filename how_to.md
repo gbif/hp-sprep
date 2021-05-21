@@ -195,5 +195,6 @@ Darwin Core Quick Reference
 * [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/) <br>
 * Web page with definitions for Drawing Core terms <br>
 
-Copyrights for Data [http://vertnet.org/resources/dataliceningguide.html](http://vertnet.org/resources/dataliceningguide.html) <br>
+Copyrights for Data 
+* [http://vertnet.org/resources/dataliceningguide.html](http://vertnet.org/resources/dataliceningguide.html) <br>
 * Description of the choice of license for published data <br>
