@@ -15,15 +15,15 @@ hasTextShadow: true
 hasBlackText: false
 composition:
 - type: heroImage
-- type: pageMarkdown
-- type: heroImage
-  data: example.compose.overlay.heroHeadlineA
-- type: markdown
-  data: example.compose.overlay.text
-- type: heroImage
-  data: example.compose.overlay.heroHeadlineB
-- type: markdown
-  data: example.compose.overlay.text
+#- type: pageMarkdown
+#- type: heroImage
+#  data: example.compose.overlay.heroHeadlineA
+#- type: markdown
+#  data: example.compose.overlay.text
+#- type: heroImage
+#  data: example.compose.overlay.heroHeadlineB
+#- type: markdown
+#  data: example.compose.overlay.text
 ---
 
 ## How do I use GBIF to find data?
@@ -182,7 +182,7 @@ and strengthen GBIF-related activities.
 Maybe a global unique identifier or an identifier specific to the data set.
 
 ## For More Information
-**Websites**
+### Websites <br>
 GBIF Homepage 
 * www.gbif.org](https://www.gbif.org) <br>
 * Access, explore and publish biodiversity data <br>
