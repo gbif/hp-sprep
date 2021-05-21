@@ -15,7 +15,7 @@ hasTextShadow: true
 hasBlackText: false
 composition:
 - type: heroImage
-#- type: pageMarkdown
+- type: pageMarkdown
 #- type: heroImage
 #  data: example.compose.overlay.heroHeadlineA
 #- type: markdown
