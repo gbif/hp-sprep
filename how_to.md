@@ -184,7 +184,7 @@ Maybe a global unique identifier or an identifier specific to the data set.
 ## For More Information
 ### Websites <br>
 GBIF Homepage 
-* www.gbif.org](https://www.gbif.org) <br>
+* [www.gbif.org](https://www.gbif.org) <br>
 * Access, explore and publish biodiversity data <br>
 
 IPT User Manual 
