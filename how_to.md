@@ -183,16 +183,17 @@ Maybe a global unique identifier or an identifier specific to the data set.
 
 ## For More Information
 **Websites**
-GBIF Homepage [www.gbif.org](https://www.gbif.org)
-<br>* Access, explore and publish biodiversity data
-<br> IPT User Manual [https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki)
-* How-to guide to using Integrated Publishing Toolkit
-<br>Darwin Core Quick Reference [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/)
-* Web page with definitions for Drawing Core terms
-<br> Copyrights for Data [http://vertnet.org/resources/dataliceningguide.html](http://vertnet.org/resources/dataliceningguide.html)
-* Description of the choice of license for published data
+GBIF Homepage 
+* www.gbif.org](https://www.gbif.org) <br>
+* Access, explore and publish biodiversity data <br>
 
+IPT User Manual 
+* [https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki) <br>
+* How-to guide to using Integrated Publishing Toolkit <br>
 
+Darwin Core Quick Reference 
+* [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/) <br>
+* Web page with definitions for Drawing Core terms <br>
 
-
-
+Copyrights for Data [http://vertnet.org/resources/dataliceningguide.html](http://vertnet.org/resources/dataliceningguide.html) <br>
+* Description of the choice of license for published data <br>
