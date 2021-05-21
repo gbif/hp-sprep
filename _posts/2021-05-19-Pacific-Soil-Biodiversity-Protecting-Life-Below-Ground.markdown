@@ -1,6 +1,6 @@
 ---
 klass: "newspost"
-title:  "A New Approach to Improve the Safety and Health of Pacific Invasive Species Battlers"
+title:  "Pacific Soil Biodiversity: Protecting Life Below Ground"
 date:   2021-05-19 09:51:00 +1300
 categories: [Biodiversity]
 lang-ref: 
