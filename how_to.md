@@ -27,11 +27,11 @@ composition:
 ---
 
 ## How do I use GBIF to find data?
-<br>The site [www.gbif.org](https://www.gbif.org) contains over one billion records of species, specimens, observations, and
-samples. Each record will have information about how to download and cite the data. Try exploring
-the site!
-Start by searching from the homepage or clicking on “Get Data” in the top panel. You can look for
+<br>The site [www.pbif.sprep.org](https://www.pbif.sprep.org) contains over one 1.5 million records of species, specimens, observations, and samples for the Pacific. 
+Each record will have information about how to download and cite the data. Try exploring the site!
+Start by searching from the homepage or clicking on “Data” in the top panel. You can look for
 occurrence data, search by species, look for whole datasets, and more.
+
 
 ![Image of How-to-1](/assets/images/How-to/1.png)
 
@@ -54,25 +54,31 @@ growing as you and your colleagues publish more data!
 
 ![Image of How-to-1](/assets/images/How-to/4.png)
 
-Click on a dataset name to find out more. You can also download the whole dataset if you want, in
-a few different formats:
+Click on a dataset name to find out more. 
 
 ![Image of How-to-1](/assets/images/How-to/5.png)
 
+<br>You can also download the whole dataset if you want, in
+a few different formats:
+
+![Image of How-to-1](/assets/images/How-to/6.png)
+
 There are many ways to search, using filters, keywords, and more. One of the most common ways
-to search is for a single species, and you can use either the scientific name (Latin name) or the
+to search on the hosted portal is for a single species using the text search filter, and you can use either the scientific name (Latin name) or the
 common name (vernacular) to search. However, it is important to remember that the vernacular
 name might be different in different places, or the same name might be used for different species.
 For example, here is a search for “crown of thorns”. The search results include the sea star or starfish
 called “crown of thorns” but also include a plant, a fish, an insect, and more. For best results, you
 may want to search a few times using different names.
 
-![Image of How-to-1](/assets/images/How-to/6.png)
-
-You can also choose to search “everything” (occurrences, species, whole datasets, and more) by
-entering a search, then clicking on the top left arrow here:
 
 ![Image of How-to-1](/assets/images/How-to/7.png)
+
+![Image of How-to-1](/assets/images/How-to/8.png)
+
+You can also choose to search “table” (occurrences, species, whole datasets, and more) by using the various filter options such as “country”, “scientific name” etc.
+
+![Image of How-to-1](/assets/images/How-to/9.png)
 
 ## How do I publish data on GBIF?
 First, you must register your organisation to GBIF, indicating that you’ll be using the SPREP
@@ -142,3 +148,51 @@ term “institution” throughout these instructions.
 6. A notification email will be sent to the contact person (Data Publisher) and a notification email will be sent to SPREP as the GBIF Participant Node.
 7. Once the Participant Node has endorsed the institution for GBIF, the registration will be complete and now has a new publisher added to the GBIF site.
 8. GBIF will send the contact person a password for the newly registered institution. This password will be required by the Node Manager to assist with registering new datasets to GBIF in the IPT.
+
+## Glossary of definitions
+
+**Data Publisher** – any organisation / institution that shares data via GBIF.
+
+**Darwin Core Terms** – Darwin Core Terms are a list of terms or fields that are of interest in the field
+of Biodiversity. A quick reference guide for Darwin Core terms can be found here: http://rs.tdwg.
+org/dwc/terms/, including definitions and examples of each term. A 2012 paper describing the
+Darwin Core Standard is here: https://doi.org/10.1371/journal.pone.0029715
+
+**Integrated Publishing Toolkit (IPT)** – A software tool developed by GBIF to carry out dataset
+publishing, installed on a local or regional server. Participant Nodes often have one or more IPT
+instances for Data Publishers to use. The IPT we use in this instance is the SPREP IPT.
+
+**Metadata** – data about the data, including the “who, what, where and when”. For example, if the
+piece of data that you want to publish is the occurrence of a species in a certain forest in May,
+your metadata may include who you are (name of your organisation, etc.), the purpose of data
+collection, methodology, range of sampling dates and geographic scope.
+
+**Node Manager** – a person who manages the Participant Node. The Node Manager either is or
+directs the technical point of contact for data publishers.
+
+**OccurrenceID** – An identifier for the Occurrence (as opposed to a particular digital record of
+the occurrence). In the absence of a persistent global unique identifier, construct one from a
+combination of identifiers in the record that will most closely make the occurrenceID globally
+unique.
+
+**Participant Node** – a coordinating team (within a country or organisation) that works to establish
+and strengthen GBIF-related activities.
+
+**TaxonID** – An identifier for the set of taxon information (data associated with the Taxon class).
+Maybe a global unique identifier or an identifier specific to the data set.
+
+## For More Information
+**Websites**
+GBIF Homepage [www.gbif.org](https://www.gbif.org)
+<br>* Access, explore and publish biodiversity data
+<br> IPT User Manual [https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki)
+* How-to guide to using Integrated Publishing Toolkit
+<br>Darwin Core Quick Reference [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/)
+* Web page with definitions for Drawing Core terms
+<br> Copyrights for Data [http://vertnet.org/resources/dataliceningguide.html](http://vertnet.org/resources/dataliceningguide.html)
+* Description of the choice of license for published data
+
+
+
+
+
