@@ -155,9 +155,8 @@ term “institution” throughout these instructions.
 **Data Publisher** – any organisation / institution that shares data via GBIF.
 
 **Darwin Core Terms** – Darwin Core Terms are a list of terms or fields that are of interest in the field
-of Biodiversity. A quick reference guide for Darwin Core terms can be found here: http://rs.tdwg.
-org/dwc/terms/, including definitions and examples of each term. A 2012 paper describing the
-Darwin Core Standard is here: https://doi.org/10.1371/journal.pone.0029715
+of Biodiversity. A quick reference guide for Darwin Core terms can be found here: http://rs.tdwg.org/dwc/terms/, including definitions and examples of each term. 
+A 2012 paper describing the Darwin Core Standard is here: https://doi.org/10.1371/journal.pone.0029715
 
 **Integrated Publishing Toolkit (IPT)** – A software tool developed by GBIF to carry out dataset
 publishing, installed on a local or regional server. Participant Nodes often have one or more IPT
