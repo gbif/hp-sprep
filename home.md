@@ -6,7 +6,7 @@ title: PBIF
 description: Pacific Biodiversity Information Facility portal to present all of the Pacific occurrence biodiversity data available on GBIF.
 background: assets/images/Niue-Project-Banner.png
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
-imageLicense: Photo by Stuart Chape
+imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 90vh
 cta:
