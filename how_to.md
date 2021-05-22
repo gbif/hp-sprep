@@ -5,7 +5,7 @@ lang-ref:
 title: How to
 description:
 background: /assets/images/Crimson_crowned_fruit_dove.jpg
-background-padding: 100px 
+top-padding: 100px 
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
