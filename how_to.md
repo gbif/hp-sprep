@@ -60,7 +60,7 @@ Click on a dataset name to find out more.
 ![Image of How-to-1](/assets/images/How-to/5.png)
 
 <br>You can also download the whole dataset if you want, in
-a few different formats. You will be redirected to [www.gbif.org](https://www.gbif.org/occurrence/download/request?predicate=%7B%22type%22:%22and%22,%22predicates%22:%5B%7B%22type%22:%22or%22,%22predicates%22:%5B%7B%22type%22:%22equals%22,%22key%22:%22GADM_GID%22,%22value%22:%22USA.12_1%22%7D,%7B%22type%22:%22in%22,%22key%22:%22COUNTRY%22,%22values%22:%5B%22AS%22,%22CK%22,%22TL%22,%22FM%22,%22FJ%22,%22PF%22,%22GU%22,%22KI%22,%22MH%22,%22NR%22,%22NC%22,%22NU%22,%22MP%22,%22PW%22,%22PG%22,%22WS%22,%22SB%22,%22TK%22,%22TO%22,%22TV%22,%22VU%22,%22WF%22%5D%7D%5D%7D,%7B%22type%22:%22equals%22,%22key%22:%22ISSUE%22,%22value%22:%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D#create) also please note an account is required. 
+a few different formats. You will be redirected to [www.gbif.org](https://www.gbif.org/occurrence/download/request?predicate=%7B%22type%22:%22and%22,%22predicates%22:%5B%7B%22type%22:%22or%22,%22predicates%22:%5B%7B%22type%22:%22equals%22,%22key%22:%22GADM_GID%22,%22value%22:%22USA.12_1%22%7D,%7B%22type%22:%22in%22,%22key%22:%22COUNTRY%22,%22values%22:%5B%22AS%22,%22CK%22,%22TL%22,%22FM%22,%22FJ%22,%22PF%22,%22GU%22,%22KI%22,%22MH%22,%22NR%22,%22NC%22,%22NU%22,%22MP%22,%22PW%22,%22PG%22,%22WS%22,%22SB%22,%22TK%22,%22TO%22,%22TV%22,%22VU%22,%22WF%22%5D%7D%5D%7D,%7B%22type%22:%22equals%22,%22key%22:%22ISSUE%22,%22value%22:%22COUNTRY_COORDINATE_MISMATCH%22%7D%5D%7D#create) also please note an account is required to download the content.
 
 ![Image of How-to-1](/assets/images/How-to/6.png)
 
