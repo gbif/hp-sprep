@@ -4,7 +4,7 @@ title:  "Pacific Soil Biodiversity: Protecting Life Below Ground"
 date:   2021-05-19 09:51:00 +1300
 categories: [Biodiversity]
 lang-ref: 
-background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Pandanus%20and%20fern%20forest_Samoa_Stuart%20Chape_0.jpg?itok=VK2h37hg
+background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Soils%20photo.jpg?itok=_zZilH8f
 preTitle: May 19th 2021
 ---
 *by Angelica Salele-Sefo.*
