@@ -6,11 +6,11 @@ title: How to
 description:
 
 background: /assets/images/Crimson_crowned_fruit_dove.jpg
-width: 200px
+width: 1000px
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
-height: 100%
+height: 745px
 parallax: true
 #overlayColor: "#ffffffbb"
 hasTextShadow: true
