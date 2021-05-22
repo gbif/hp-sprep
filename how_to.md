@@ -6,6 +6,7 @@ title: How to
 description:
 
 background: /assets/images/Crimson_crowned_fruit_dove.jpg
+margin: 100px
 width: 1000px
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
