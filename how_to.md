@@ -28,7 +28,7 @@ composition:
 ---
 
 ## How do I use GBIF to find data?
-<br>The site [www.pbif.sprep.org](https://www.pbif.sprep.org) contains over one 6 million records of species, specimens, observations, and samples for the Pacific. 
+<br>The site [www.pbif.sprep.org](https://www.pbif.sprep.org) contains over six million records of species, specimens, observations, and samples for the Pacific. 
 Each record will have information about how to download and cite the data. Try exploring the site!
 Start by searching from the homepage or clicking on “Data” in the top panel. You can look for
 occurrence data, search by species, look for whole datasets, and more.
@@ -50,7 +50,7 @@ included in your search.
 
 For those of us in the Pacific, a useful way to find related datasets from our region is to look at the
 datasets hosted by the SPREP Node. Here, we searched using “Secretariat of the Pacific Regional
-Environment Programme” as the Host. There were 52 results at the time, and this number is
+Environment Programme” as the Host Organisation. There were 52 results at the time, and this number is
 growing as you and your colleagues publish more data!
 
 ![Image of How-to-1](/assets/images/How-to/4.png)
@@ -137,7 +137,7 @@ registered to provide access to metadata, even if they are not ready to publish 
 A publisher may be a ministry, institute, organisation, and so on. For simplicity, we will use the
 term “institution” throughout these instructions.
 
-1. Access the GBIF website at www.gbif.org. Click on Share tab – Become a Publisher and search for your institution to confirm whether or not your institution is already registered. If your institution is not registered, proceed to Step 2.
+1. Access the GBIF website at [www.gbif.org](www.gbif.org). Click on Share tab – Become a Publisher and search for your institution to confirm whether or not your institution is already registered. If your institution is not registered, proceed to Step 2.
 2. There is a data publisher agreement to consider. Agree to continue.
 3. Fill in the details requested (e.g., name of institution, primary contact, website address, description of organisation, map location, etc.). 
 <br>Remember to select that the endorsing node, as well as access to an IPT, will be through the SPREP node. 
@@ -155,8 +155,8 @@ term “institution” throughout these instructions.
 **Data Publisher** – any organisation / institution that shares data via GBIF.
 
 **Darwin Core Terms** – Darwin Core Terms are a list of terms or fields that are of interest in the field
-of Biodiversity. A quick reference guide for Darwin Core terms can be found here: http://rs.tdwg.org/dwc/terms/, including definitions and examples of each term. 
-A 2012 paper describing the Darwin Core Standard is here: https://doi.org/10.1371/journal.pone.0029715
+of Biodiversity. A quick reference guide for Darwin Core terms can be found here: [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/), including definitions and examples of each term. 
+A 2012 paper describing the Darwin Core Standard is here: [https://doi.org/10.1371/journal.pone.0029715](https://doi.org/10.1371/journal.pone.0029715)
 
 **Integrated Publishing Toolkit (IPT)** – A software tool developed by GBIF to carry out dataset
 publishing, installed on a local or regional server. Participant Nodes often have one or more IPT
