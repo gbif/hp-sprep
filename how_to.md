@@ -4,8 +4,8 @@ layout: compose
 lang-ref: 
 title: How to
 description:
-background: /assets/images/Crimson_crowned_fruit_dove.jpg
-background-position: relative
+background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Image%202_Turtle%20in%20banner.png?itok=W10KaMZz
+#background-position: cover
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
