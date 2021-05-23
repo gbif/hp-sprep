@@ -4,9 +4,8 @@ layout: compose
 lang-ref: 
 title: How to
 description:
-background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Image%202_Turtle%20in%20banner.png?itok=W10KaMZz
-#background-position: cover
-imageLicense: Photo by Stuart Chape
+background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20180804_121351_543.jpg?itok=kvkkIg5F
+imageLicense: 
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
 height: 85vh
@@ -194,6 +193,8 @@ Maybe a global unique identifier or an identifier specific to the data set.
 
 ## For More Information
 ### Websites
+
+|                             |                                                              |                                                         |
 | :-------------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
 | GBIF Homepage               | [www.gbif.org](https://www.gbif.org)                         | Access, explore and publish biodiversity data           |
 | IPT User Manual             | [https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki) | How-to guide to using Integrated Publishing Toolkit     |
