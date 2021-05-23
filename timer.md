@@ -1,7 +1,7 @@
 ---
 klass: "about"
 layout: default
-title: 
+title: Timer
 permalink: /timer
 description:
 ---
