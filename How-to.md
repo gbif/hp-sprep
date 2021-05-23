@@ -194,8 +194,6 @@ Maybe a global unique identifier or an identifier specific to the data set.
 
 ## For More Information
 ### Websites
-
-|                             |                                                              |                                                         |
 | :-------------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
 | GBIF Homepage               | [www.gbif.org](https://www.gbif.org)                         | Access, explore and publish biodiversity data           |
 | IPT User Manual             | [https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki) | How-to guide to using Integrated Publishing Toolkit     |
