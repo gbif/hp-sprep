@@ -3,7 +3,7 @@ klass: "about"
 layout: compose
 lang-ref: 
 title: Publishers
-description: Organisations in the Pacific that are approved publishers
+description: Organisations in the Pacific that have been endorsed to be GBIF publishers
 background: assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
