@@ -2,8 +2,8 @@
 klass: "about"
 layout: compose
 lang-ref: 
-title: Pacific Publishers
-description:
+title: Publishers
+description: Organisations in the Pacific that are approved publishers
 background: assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
