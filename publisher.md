@@ -14,7 +14,6 @@ parallax: true
 hasTextShadow: true
 hasBlackText: false
 composition:
-- type: default
 - type: heroImage
 - type: stats
   data: home.stats2
