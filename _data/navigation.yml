@@ -16,7 +16,7 @@
    - text: Download
      href: https://hp-sprep.gbif-staging.org/data?view=download
 #- text: Publishers
-#  href: /publisher
+# href: /publisher
 - text: Links
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
