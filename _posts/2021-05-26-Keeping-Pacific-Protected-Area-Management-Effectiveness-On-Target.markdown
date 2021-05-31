@@ -1,7 +1,7 @@
 ---
 klass: "newspost"
 title:  "Keeping Pacific Protected Area Management Effectiveness On Target"
-date:   2021-05-26 09:51:00 +1300
+date:   2021-05-26 13:26:00 +1300
 categories: [Biodiversity]
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Mitiaro%2C%20Cook%20Islands_Credit%20Hayley%20Weeks.jpg?itok=sc3TMUKD
@@ -52,4 +52,3 @@ The Introduction to the Global Database on Protected Area Management Effectivene
 *To learn more about the BIOPAMA Programme, please contact Mr. Paul van Nimwegen, Protected and Conserved Areas Programme Coordinator / BIOPAMA Regional Coordinator, IUCN ORO on email: [Paul.vanNimwegen@iucn.org](https://www.sprep.org/news/Paul.vanNimwegen@iucn.org).* 
 
 *For more information on the GD-PAME, you can visit the website at [pame.protectedplanet.net](https://www.sprep.org/news/protectedareas@unep-wcmc.org) or email us at [protectedareas@unep-wcmc.org](https://www.sprep.org/news/protectedareas@unep-wcmc.org).* 
-
