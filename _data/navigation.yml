@@ -2,7 +2,7 @@
   href: /about
 - text: Data
   menu:
-   - text: Occurrence
+   - text: Occurrences
      href: /data
    - text: Datasets
      href: https://hp-sprep.gbif-staging.org/data?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
