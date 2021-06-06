@@ -3,7 +3,7 @@
 - text: Faamatalaga
   href: /sm/faamatalaga
 - text: Faamaumauga
-   menu:
+  menu:
    - text: Occurrences
      href: /data
    - text: Datasets
