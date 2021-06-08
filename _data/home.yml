@@ -25,7 +25,7 @@ stats:
       background: /assets/images/GBIF_Icons/2.png
       href: /issg
     - title: 20
-      description: Publishers
+      description: Pacific Publishers
       background: /assets/images/GBIF_Icons/4.png
       href: /publisher
     - title: 34
