@@ -51,7 +51,7 @@ composition:
 | Global Register of Introduced and Invasive Species  - Tuvalu | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-tuvalu) |                                                              |
 | Global Register of  Introduced and Invasive Species - Tokelau | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-tokelau) |                                                              |
 
-### How do I open files downloaded in Excel?
+### How to open downloaded files in Excel?
 
 1. After downloading you will get a zip file with a name beginning with **dwca-griis**. To extract right click on the file and select extract all
 
