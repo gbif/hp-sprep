@@ -30,7 +30,7 @@ composition:
 
 | Checklist Name                                               | Download                                                     | Excel                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Global Register of Introduced  and Invasive Species - Federated States of Micronesia | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-federated-states-of-micronesia) | [ISSG Checklist.xlsx](..\..\..\ISSG Checklist\ISSG Checklist.xlsx) |
+| Global Register of Introduced  and Invasive Species - Federated States of Micronesia | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-federated-states-of-micronesia) | [Click here](..\..\..\ISSG Checklist\ISSG Checklist.xlsx) |
 | Global Register of  Introduced and Invasive Species - Marshall Islands | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-marshall-islands) |                                                              |
 | Global Register of Introduced and Invasive Species  - Palau  | [Click here](https://cloud.gbif.org/griis/archive.do?r=palau_griis_gbif) |                                                              |
 | Global Register of  Introduced and Invasive Species- Cook Islands | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-gbif-cook-islands) |                                                              |
