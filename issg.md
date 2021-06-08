@@ -87,7 +87,7 @@ composition:
 
    3. Import text file (Data → Get Data → From File → From Text/CSV)
 
-   4. Select the extracted text file (e.g. taxon.txt)
+   4. Select the extracted text file (e.g. **taxon**.txt)
 
    5. Select "Tab" as Delimiter and "Unicode (UTF-8)" as File Origin
 
