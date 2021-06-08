@@ -4,8 +4,8 @@ layout: compose
 lang-ref: 
 title: Invasive Species Specialist Group Checklists
 description: The Invasive Species Specialist Group ISSG of the Species Survival Commission of the International Union for Conservation of Nature is a global network of scientific and policy experts on invasive species. 
-background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
-imageLicense: 
+background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20180804_121351_543.jpg?itok=kvkkIg5F
+imageLicense: Photo by D.McFadzien
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
 height: 85vh
@@ -26,7 +26,7 @@ composition:
 #  data: example.compose.overlay.text
 ---
 
-## Invasive Species Specialist Group Checklists
+## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Invasive Species Specialist Group Checklists
 
 | Checklist Name                                               | Download                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
