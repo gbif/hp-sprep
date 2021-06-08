@@ -23,7 +23,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&publishing_org=cdef28b1-db4e-4c58-aa71-3c5238c2d0b5&project_id=BID-PA2016-0005-REG&limit=0">1,000</span>
       description: Invasive Species Specialist Group Checklist
       background: /assets/images/GBIF_Icons/2.png
-      href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_org=cdef28b1-db4e-4c58-aa71-3c5238c2d0b5&project_id=BID-PA2016-0005-REG
+      href: /issg
     - title: 20
       description: Publishers
       background: /assets/images/GBIF_Icons/4.png
