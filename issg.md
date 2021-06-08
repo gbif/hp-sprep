@@ -38,7 +38,7 @@ composition:
 | Global Register of  Introduced and Invasive Species -Samoa   | [Click here](https://cloud.gbif.org/griis/archive.do?r=samoa_griis_gbif) |
 | Global Register of Introduced and Invasive Species  - American Samoa | [Click here](https://cloud.gbif.org/griis/archive.do?r=american-samoa_griis_gbif) |
 | Global Register of  Introduced and Invasive Species - Niue   | [Click here](https://cloud.gbif.org/griis/archive.do?r=niue_griis_gbif) |
-| Global Register of Introduced and Invasive Species  - Pohnpei, Federated States of Micronesia | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-federated_states_of_micronesia-pohnpei) |
+| Global Register of Introduced and Invasive Species  - Pohnpei, Federated States of Micronesia | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-federated_states_of_micornesia-pohnpei) |
 | Global Register of  Introduced and Invasive Species - Solomon Islands | [Click here](https://cloud.gbif.org/griis/archive.do?r=solomon_islands_griis) |
 | Global Register of Introduced and Invasive Species  - Vanuatu | [Click here](https://cloud.gbif.org/griis/archive.do?r=vanuatu-griis-gbif) |
 | Global Register of  Introduced and Invasive Species - Kosrae, Federated States of Micronesia | [Click here](https://cloud.gbif.org/griis/archive.do?r=federated_states_of_micronesia_kosrae-griis) |
