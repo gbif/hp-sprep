@@ -69,11 +69,11 @@ Shyama Narayan Pagad
 
 2. Select the location where the files will be extracted and press next.
 
-![1](assets/images/Open-files-to-excel/2.png)
+![2](assets/images/Open-files-to-excel/2.png)
 
 3. A new window will appear with the files. The file you will focus on is called **taxon**
 
-![1](assets/images/Open-files-to-excel/3.png)
+![3](assets/images/Open-files-to-excel/3.png)
 
 4. To open the **taxon** file into an excel file please follow the following steps.
 
