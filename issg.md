@@ -3,7 +3,7 @@ klass: "about"
 layout: compose
 lang-ref: 
 title: Invasive Species Specialist Group Checklists
-description: The Invasive Species Specialist Group (ISSG) of the Species Survival Commission of the International Union for Conservation of Nature is a global network of scientific and policy experts on invasive species. 
+description: The Invasive Species Specialist Group ISSG of the Species Survival Commission of the International Union for Conservation of Nature is a global network of scientific and policy experts on invasive species. 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 imageLicense: 
 parallax: true # OPTION - default is false
@@ -28,6 +28,8 @@ composition:
 
 ## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Invasive Species Specialist Group Checklists
 
+------
+
 | Checklist Name                                               | Download                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Global Register of Introduced  and Invasive Species - Federated States of Micronesia | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-federated-states-of-micronesia) |
@@ -51,6 +53,8 @@ composition:
 | Global Register of Introduced and Invasive Species  - Tuvalu | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-tuvalu) |
 | Global Register of  Introduced and Invasive Species - Tokelau | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-tokelau) |
 
+------
+
 ### Contacts
 
 Shyama Narayan Pagad
@@ -60,6 +64,8 @@ Shyama Narayan Pagad
 - Technical point of contact
 - [s.pagad@auckland.ac.nz](mailto:s.pagad@auckland.ac.nz)
 - [+64-210754381](unsafe:tel:+64-210754381)
+
+------
 
 ### How to open downloaded files in Excel
 
