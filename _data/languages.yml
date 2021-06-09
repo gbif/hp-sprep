@@ -4,6 +4,7 @@ en:
 sm:
   label: Samoan
   icon: #
+  archive_permalink: /post/
 nu:
   label: Niuean
   icon: #
