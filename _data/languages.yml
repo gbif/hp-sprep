@@ -1,10 +1,11 @@
 en:
   label: English
   icon: 
+  archive_permalink: /post/
 sm:
   label: Samoan
   icon: #
-  archive_permalink: /_post/
+  archive_permalink: /post/
 nu:
   label: Niuean
   icon: #
