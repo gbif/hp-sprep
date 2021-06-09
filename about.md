@@ -15,12 +15,11 @@ PBIF  is focused on the Pacific region and is hosted by the GBIF Secretariat.
 
 **What the hosted portal can offer?**
 
-Currently, the hosted portals available for pilot can offer:
-* A place for GBIF nodes and data mobilization partners to describe themselves, their team or network, and activities (editable narrative text).
-* Ability to provide simple branding (colour scheme, font and logos).
-Ability to change language of the user interface (translations and languages other than English need to be provided by the community).
-* Advanced occurrence data search, browse, map visualization and image gallery capabilities similar to that of GBIF.org (see note below). The results will be scoped to include a relevant defined subset of GBIF-mediated data (e.g. all data mobilized by a thematic network, or published by organizations within a country). Only public data published and indexed in GBIF will be available for search and to the same data quality control and taxonomic backbone as GBIF.org.
-* A redirect from search results, sending users to GBIF.org for data downloads, ensuring that the downloads receive GBIF’s citable unique identifiers (DOIs) linking back to the datasets included.
+Currently, PBIF   offers:
+*	Advanced occurrence data search, browse, map visualization and image gallery capabilities similar to that of GBIF.org 
+*	Search results are scoped to include a relevant defined subset of GBIF-mediated data (e.g. all data mobilized by a thematic network, or published by organizations within a country). Only public data published and indexed in GBIF will be available for search and to the same data quality control and taxonomic backbone as GBIF.org.
+*	A redirect from search results, sending users to GBIF.org for data downloads, ensuring that the downloads receive GBIF’s citable unique identifiers (DOIs) linking back to the datasets included.
+* A place for GBIF nodes and data mobilization partners to describe themselves, their team or network, and activities (editable narrative text). PBIF is available in more than eight languages. 
 
 **What is GBIF?**
 
