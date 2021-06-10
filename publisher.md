@@ -1,7 +1,7 @@
 ---
 klass: "about"
 layout: compose
-lang-ref: issg
+lang-ref: publisher
 title: Publishers
 description: Organisations in the Pacific that have been endorsed to be data publishers
 background: assets/images/Eye_sea_of_Vavau.jpg
