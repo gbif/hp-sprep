@@ -100,7 +100,7 @@ defaults:
     scope:
       path: "_posts" # an empty string here means all files in the project
     values:
-      lang:
+      lang: en
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   - # Samoan
@@ -108,12 +108,14 @@ defaults:
       path: "sm"
     values:
       lang: sm
+      layout: "post"
+      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   - # Niuean
     scope:
       path: "nu"
     values:
-      lang: niu
-  - # Togan
+      lang: nu
+  - # Tongan
     scope:
       path: "to"
     values:
@@ -122,14 +124,14 @@ defaults:
     scope:
       path: "tk"
     values:
-      lang: tkl
+      lang: tk
   - # Tuvaluan
     scope:
       path: "tv"
     values:
-      lang: tvl
+      lang: tv
   - # Solomons Pidgen
     scope:
       path: "sb"
     values:
-      lang: pis
+      lang: sb
