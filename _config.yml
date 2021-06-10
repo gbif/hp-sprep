@@ -108,6 +108,7 @@ defaults:
       path: "_posts" # an empty string here means all files in the project
     values:
       lang: sm
+  - # Niue
     scope:
       path: "nu"
     values:
