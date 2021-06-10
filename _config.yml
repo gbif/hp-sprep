@@ -90,12 +90,12 @@ exclude:
   - .README.md
 
 defaults:
-  -
+  - # English
     scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
-      lang: en     
+      lang: en
   -
     scope:
       path: "_posts" # an empty string here means all files in the project
@@ -103,34 +103,33 @@ defaults:
       lang:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-  -
+  - # Samoan
     scope:
       path: "sm"
     values:
       lang: sm
-  -
+  - # Niuean
     scope:
       path: "nu"
     values:
-      lang: nu
-  -
+      lang: niu
+  - # Togan
     scope:
       path: "to"
     values:
       lang: to
-  -
+  - # Tokelauan
     scope:
       path: "tk"
     values:
-      lang: tk
-  -
+      lang: tkl
+  - # Tuvaluan
     scope:
       path: "tv"
     values:
-      lang: tv
-  -
+      lang: tvl
+  - # Solomons Pidgen
     scope:
       path: "sb"
     values:
-      lang: sb
-
+      lang: pis
