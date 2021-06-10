@@ -105,9 +105,15 @@ defaults:
   - # Samoan
     scope:
       path: "sm"
+    values:
+      lang: sm
+  -
+    scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       lang: sm
+      layout: "post"
+      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   - # Niue
     scope:
       path: "nu"
