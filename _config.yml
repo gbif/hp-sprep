@@ -92,7 +92,7 @@ exclude:
 defaults:
   - # English
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "_posts" # an empty string here means all files in the project
     values:
       layout: "page"
       lang: en
