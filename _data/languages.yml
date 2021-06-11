@@ -8,15 +8,19 @@ sm:
 nu:
   label: Niuean
   icon: #
+  languageCode: niu
 to:
   label: Tongan
   icon: #
 tk:
   label: Tokelaun
   icon: #
+  languageCode: tkl
 tv:
   label: Tuvaluan
   icon: #
+  languageCode: tvl
 sb:
   label: Solomon Islands
   icon: #
+  languageCode: pis
