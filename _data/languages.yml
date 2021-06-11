@@ -4,11 +4,11 @@ en:
 sm:
   label: Samoan
   icon: #
-  archive_permalink: /sm/
+  archive_permalink: /_posts/
 nu:
   label: Niuean
   icon: #
-  archive_permalink: /nu/
+  archive_permalink: /_posts/
 to:
   label: Tongan
   icon: #
