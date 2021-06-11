@@ -132,5 +132,5 @@ defaults:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
-      lang: [sm,nu,to]
+      lang: [en,sm,nu,to,tk,tv,sb]
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
