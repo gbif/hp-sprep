@@ -1,6 +1,7 @@
 en:
   label: English
   icon: 
+  archive_permalink: /_posts/
 sm:
   label: Samoan
   icon: #
