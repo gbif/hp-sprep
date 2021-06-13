@@ -104,7 +104,7 @@ defaults:
       lang: sm
   - # Niue
     scope:
-      path: "/nu/"
+      path: "nu/"
     values:
       lang: nu
   - # Tongan
