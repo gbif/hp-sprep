@@ -99,7 +99,7 @@ defaults:
       
   - # Samoan
     scope:
-      path: "/sm/"
+      path: "sm/"
     values:
       lang: sm
   - # Niue
@@ -109,22 +109,22 @@ defaults:
       lang: nu
   - # Tongan
     scope:
-      path: "/to/"
+      path: "to/"
     values:
       lang: to
   - # Tokelauan
     scope:
-      path: "/tk/"
+      path: "tk/"
     values:
       lang: tk
   - # Tuvaluan
     scope:
-      path: "/tv/"
+      path: "tv/"
     values:
       lang: tv
   - # Solomons Pidgen
     scope:
-      path: "/sb/"
+      path: "sb/"
     values:
       lang: sb
   -
