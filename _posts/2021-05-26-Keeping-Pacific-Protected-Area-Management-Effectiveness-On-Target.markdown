@@ -4,6 +4,7 @@ title:  "Keeping Pacific Protected Area Management Effectiveness On Target"
 date:   2021-05-26 13:26:00 +1300
 categories: [Biodiversity]
 lang-ref: 
+lang: [en,sm,nu]
 background: assets/images/Mitiaro_Cook_Islands_Credit_Hayley_Weeks.jpg
 imageLicense: Mitiaro, Cook Islands Photo by Hayley Weeks
 preTitle: May 26th 2021
