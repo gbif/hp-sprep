@@ -1,6 +1,7 @@
 en:
   label: English
   icon: 
+  archive_permalink: /news
 sm:
   label: Samoan
   icon: #
@@ -8,19 +9,20 @@ sm:
 nu:
   label: Niuean
   icon: #
-  languageCode: niu
+  archive_permalink: /nu/news
 to:
   label: Tongan
+  archive_permalink: /to/ko-e-ongoongo
   icon: #
 tk:
   label: Tokelaun
   icon: #
-  languageCode: tkl
+  archive_permalink: /tk/talafou
 tv:
   label: Tuvaluan
   icon: #
-  languageCode: tvl
+  archive_permalink: /tv/tala
 sb:
   label: Solomon Islands
   icon: #
-  languageCode: pis
+  archive_permalink: /sb/nius
