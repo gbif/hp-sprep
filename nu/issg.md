@@ -69,17 +69,14 @@ Shyama Narayan Pagad
 
 ### How to open downloaded files in Excel
 
-1. After downloading you will get a zip file with a name beginning with **dwca-griis**. To extract right click on the file and select extract all
-
-![1](assets/images/Open-files-to-excel/1.png)
+1. After downloading you will get a zip file with a name beginning with **"dwca-griis"**. To extract right click on the file and select extract all.
+![a](assets/images/Open-files-to-excel/1.png)
 
 2. Select the location where the files will be extracted and press next.
+![b](assets/images/Open-files-to-excel/2.png)
 
-![2](assets/images/Open-files-to-excel/2.png)
-
-3. A new window will appear with the files. The file you will focus on is called **taxon**
-
-![3](assets/images/Open-files-to-excel/3.png)
+3. A new window will appear with the files. The file you will focus on is called **"taxon"**
+![c](assets/images/Open-files-to-excel/3.png)
 
 4. To open the **taxon** file into an excel file please follow the following steps.
 
