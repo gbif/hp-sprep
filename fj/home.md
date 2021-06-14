@@ -4,7 +4,7 @@ lang-ref: home
 layout: home
 title: PBIF
 description: Na Pacific portal e na sokomuna ka katona na vei tukutuku e so me baleta na iYaubula e na Pasifika ka tiko e na GBIF
-background: assets/images/Niue-Project-Banner.png
+background: /assets/images/Niue-Project-Banner.png
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
