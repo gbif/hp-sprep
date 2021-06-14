@@ -100,9 +100,9 @@ defaults:
   - # Samoan
     scope:
       path: "sm/"
+      archive_permalink: /sm/talafou/
     values:
       lang: sm
-      archive_permalink: /sm/talafou/
   - # Niue
     scope:
       path: "nu/"
