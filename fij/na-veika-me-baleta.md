@@ -1,6 +1,7 @@
 ---
 klass: "about"
 lang-ref: about
+layout: heroImage
 title: Na veika me baleta
 description: 
 background: /assets/images/Scott_Niue.JPG
