@@ -102,6 +102,7 @@ defaults:
       path: "sm/"
     values:
       lang: sm
+      archive_permalink: /sm/talafou
   - # Niue
     scope:
       path: "nu/"
