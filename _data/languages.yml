@@ -4,24 +4,24 @@ en:
 sm:
   label: Samoan
   icon: #
-  archive_permalink: sm/talafou/
+  archive_permalink: /sm/talafou
 nu:
   label: Niuean
   icon: #
-  archive_permalink: nu/news/
+  archive_permalink: /nu/news
 to:
   label: Tongan
-  archive_permalink: to/ko-e-ongoongo/
+  archive_permalink: /to/ko-e-ongoongo
   icon: #
 tk:
   label: Tokelaun
   icon: #
-  archive_permalink: tk/talafou/
+  archive_permalink: /tk/talafou
 tv:
   label: Tuvaluan
   icon: #
-  archive_permalink: tv/tala/
+  archive_permalink: /tv/tala
 sb:
   label: Solomon Islands
   icon: #
-  archive_permalink: sb/nius/
+  archive_permalink: /sb/nius
