@@ -1,6 +1,6 @@
 en:
   label: English
-  icon: 
+  icon: #
 sm:
   label: Samoan
   icon: #
@@ -21,11 +21,11 @@ tv:
   label: Tuvaluan
   icon: #
   archive_permalink: /tv/tala
-#sb:
- # label: Solomon Islands
- # icon: #
- # archive_permalink: /sb/nius
+sb:
+  label: Solomon Islands
+  icon: #
+  archive_permalink: /sb/nius
 fj:
   label: Fijian
   icon: #
-  archive_permalink: /fj/iTukutuku
+  archive_permalink: /fij/iTukutuku
