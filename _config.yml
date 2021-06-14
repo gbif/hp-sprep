@@ -102,7 +102,7 @@ defaults:
       path: "sm/"
     values:
       lang: sm
-  - # Niue
+  - # Fijian
     scope:
       path: "fj/"
     values:
@@ -127,7 +127,7 @@ defaults:
       path: "sb/"
     values:
       lang: sb
-  - # Fijian
+  - # Niue
     scope:
       path: "nu/"
     values:
