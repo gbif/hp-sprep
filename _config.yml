@@ -104,9 +104,9 @@ defaults:
       lang: sm
   - # Fijian
     scope:
-      path: "fj/"
+      path: "fij/"
     values:
-      lang: fj
+      lang: fij
   - # Tongan
     scope:
       path: "to/"
@@ -137,5 +137,5 @@ defaults:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
-      lang: [en,fj,sm,nu,to,tk,tv,sb]
+      lang: [en,fij,sm,nu,to,tk,tv,sb]
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
