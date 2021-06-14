@@ -26,8 +26,6 @@ composition:
 #  data: example.compose.overlay.text
 ---
 
----
-
 ## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Invasive Species Specialist Group Checklists
 
 ------
@@ -88,27 +86,42 @@ Shyama Narayan Pagad
    **If you are using Excel on a Windows**
 
    1. Open Excel
+   
    2. Create a new empty spreadsheet (File → New)
+   
    3. Click the **Data** tab
+   
    4. From "Get External Data", click **From text**
+   
    5. Select the extracted txt file (e.g. **taxon**.txt)
+
    6. Click **Import**
+
    7. Select "Delimited" as Data Type and "Unicode (UTF-8)" as File Origin
+
    8. Click **Finish**
+
    9. Click **OK** to import data into current sheet
 
+      **OR**
+
+   1. Open **"taxon"** text file
+   2. Select all contents (Ctrl + A) and Copy (Ctrl + C)
+   3. Open Excel
+   4. Paste (Ctrl + V)
+   
    **If you are using Excel on a Mac**
-
+   
    1. Open Excel
-
+   
    2. Create a new empty spreadsheet (File → New)
-
+   
    3. Import text file (Data → Get Data → From File → From Text/CSV)
-
+   
    4. Select the extracted text file (e.g. **taxon**.txt)
-
+   
    5. Select "Tab" as Delimiter and "Unicode (UTF-8)" as File Origin
-
+   
    6. Click **Load**
-
+   
       
