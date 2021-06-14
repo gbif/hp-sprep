@@ -104,9 +104,9 @@ defaults:
       lang: sm
   - # Niue
     scope:
-      path: "nu/"
+      path: "fj/"
     values:
-      lang: nu
+      lang: fj
   - # Tongan
     scope:
       path: "to/"
@@ -129,9 +129,9 @@ defaults:
       lang: sb
   - # Fijian
     scope:
-      path: "fj/"
+      path: "nu/"
     values:
-      lang: fj     
+      lang: nu     
   -
     scope:
       path: "_posts" # an empty string here means all files in the project
