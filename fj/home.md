@@ -11,9 +11,9 @@ parallax: true # OPTION - default is false
 height: 90vh
 cta:
   - text: Nai tukutuku vakasokumuni
-    href: /data
+    href: /fj/nai-tukutuku-vakasokumuni
     isPrimary: true
-permalink: /
+permalink: /fj/
 composition:
   - type: heroImage # the block type
   - type: stats
