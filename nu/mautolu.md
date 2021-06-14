@@ -1,7 +1,7 @@
 ---
 klass: "about"
 lang-ref: about
-title:
+title: Ko Mautolu
 description: 
 background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
