@@ -1,7 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: Na veika me baleta
-  href: /fj/na-veika-me-baleta
+  href: /fj/na-veika-me-baleta.html
 - text: Nai tukutuku vakasokumuni
   menu:
    - text: Occurrences
