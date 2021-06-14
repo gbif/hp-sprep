@@ -1,11 +1,13 @@
 ---
 klass: "about"
 lang-ref: about
+layout: heroImage
 title: Na veika me baleta
-description: 
-background: /assets/images/Scott_Niue.JPG
+description:
+#background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
+background: assets/images/Scott_Niue.JPG
 imageLicense: Photo by Scott
-parallax: true
+parallax: true # OPTION - default is false
 height: 75vh
 ---
 # Veika Baleti 
