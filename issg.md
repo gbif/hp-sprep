@@ -1,5 +1,4 @@
 ---
-​---
 klass: "about"
 layout: compose
 lang-ref: issg
@@ -25,9 +24,6 @@ composition:
 #  data: example.compose.overlay.heroHeadlineB
 #- type: markdown
 #  data: example.compose.overlay.text
-​---
----
-
 ---
 
 ## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Invasive Species Specialist Group Checklists
