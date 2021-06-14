@@ -10,7 +10,7 @@ imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 90vh
 cta:
-  - text: Nai tukutuku vakasokumuni
+  - text: Taura mai na iTukutuku
     href: /fij/nai-tukutuku-vakasokumuni
     isPrimary: true
 permalink: /fij/
