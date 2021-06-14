@@ -3,11 +3,11 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Kaufakatahi 
+  - name: O ira e ra veotokoni 
     links:
-    - text: Fakamaumauga ki te hokotaga o lakau ma meaola kehekehe i te lalolagi.
+    - text: Global Biodiversity Information Facility (GBIF).
       href: https://www.gbif.org/
-    - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
+    - text: Parokaramu ni iWasewase Levu ni Wasewase levu na Veiliutaki ena Pasivika 
       href: https://www.sprep.org/
 
  # - name: Code
