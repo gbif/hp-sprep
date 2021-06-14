@@ -40,7 +40,7 @@ composition:
 | Global Register of Introduced and Invasive Species  - Pohnpei, Federated States of Micronesia | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-federated_states_of_micornesia-pohnpei) |
 | Global Register of  Introduced and Invasive Species - Yap, Federated States of Micronesia | [Click here](https://cloud.gbif.org/griis/archive.do?r=federated_states_of_micronesia_yap_griis_gbif) |
 | Global Register of Introduced and Invasive Species  - Kiribati | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-kiribati) |
-| Global Register of  Introduced and Invasive Species- Nauru   | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-nauru) |
+| Global Register of  Introduced and Invasive Species - Nauru   | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-nauru) |
 | Global Register of Introduced and Invasive Species  - New Caledonia, France | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-new-caledonia) |
 | Global Register of  Introduced and Invasive Species - Niue   | [Click here](https://cloud.gbif.org/griis/archive.do?r=niue_griis_gbif) |
 | Global Register of  Introduced and Invasive Species - Marshall Islands | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-marshall-islands) |
