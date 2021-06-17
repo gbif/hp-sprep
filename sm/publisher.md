@@ -16,6 +16,6 @@ hasBlackText: false
 composition:
 - type: heroImage
 - type: stats
-  data: home.stats2
+  data: sm.home.stats2
 #- type: pageMarkdown
 ---
