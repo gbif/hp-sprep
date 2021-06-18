@@ -23,15 +23,15 @@
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base
      href: https://piln.sprep.org/
-   - text: Lewai ni Veiyauyau ena Pasifika
+   - text: Lewai ni Veiyauyau ena Pasivika
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
-   - text: Tikina ni Draki ni Draki ni Pasifika
+   - text: Tikina ni Draki ni Draki ni Pasivika
      href: https://pacific-data.sprep.org/
-   - text: iSema Vakavuli Gone ena Pasifika 
+   - text: iSema Vakavuli Gone ena Pasivika 
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
-   - text: Veitokani Vakaisa ni Vanuasa ni Pasifika
+   - text: Veitokani Vakaisa ni Vanuasa ni Pasivika
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
-   - text: Tikina Taqomaki mai na iWasewase na Pasifika
+   - text: Tikina Taqomaki mai na iWasewase na Pasivika
      href: https://pipap.sprep.org/
    - text: Parokaramu ni iWasewase Levu ni Wasewase levu na Veiliutaki ena Pasivika
      href: https://www.sprep.org/
