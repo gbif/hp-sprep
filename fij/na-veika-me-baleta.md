@@ -9,7 +9,6 @@ imageLicense: Photo by Scott
 parallax: true
 height: 75vh
 ---
-# Veika Baleti 
 
 Na Pacific portal e na sokomuna ka katona na vei tukutuku e so me baleta na iYaubula e na Pasifika ka tiko e na GBIF ka ra wili tiko kina na vei matanitu oqo: American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
 
