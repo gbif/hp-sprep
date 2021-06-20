@@ -1,12 +1,13 @@
 ---
 klass: "about"
+layout: heroImage
 lang-ref: about
 title: FA'ATATAU IA MATOU
 description: 
 background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true
-height: 70vh
+height: 75vh
 ---
 ## FA'ATATAU IA MATOU
 
