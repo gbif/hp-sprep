@@ -2,7 +2,7 @@
 klass: "about"
 layout: heroImage
 lang-ref: about
-title: Faamatalaga
+title: Fa'amatalaga
 description: 
 background: /assets/images/Scott_Niue.JPG
 imageLicense: Photo by Scott
