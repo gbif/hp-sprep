@@ -1,7 +1,7 @@
 ---
 klass: "about"
 lang-ref: about
-title:FA'ATATAU IA MATOU
+title: FA'ATATAU IA MATOU
 description: 
 background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
