@@ -3,7 +3,7 @@ klass: "about"
 layout: compose
 lang-ref: publisher
 title: Publishers
-description: Faalapotopotoga i le Pasifika e mafai ona tuuina faamaumauga i luga le GBIF.
+description: Faalapotopotoga i le Pasifika ua faatagaina ona tuu atu faamaumauga i luga le GBIF.
 background: /assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
