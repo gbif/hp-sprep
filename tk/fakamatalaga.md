@@ -1,14 +1,14 @@
 ---
 klass: "about"
 lang-ref: about
-title:
+title: Fakamatalaga
 description: 
 background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true
 height: 70vh
 ---
-# TALAAGA 
+# Talaaga
 
 Talaaga
 Ko te hihitemi GBIF tenei e ona mafai ai ke tuku atu ni fakamatalaga ki na gaoioiga ki te hokotaga a lakau ma meaola kehekehe i to latou hikomaga, mai na fenua o te pahefika e takua: Amelika Samoa, Lalotoga, East Timor, Federated States of Micronesia, Fiti, French Polynesia, Guam, Hawaii, Kilipati, Marshall Islands, Nauru, Niu Kaletonia, Niue, Northern Marianas, Palau, Papua Niu Kini, Samoa, Solomona, Tokelau, Toga, Tuvalu, Vanuatu ma Wallis & Futuna.
