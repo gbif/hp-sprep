@@ -1,12 +1,13 @@
 ---
 klass: "about"
 lang-ref: about
+layout: heroImage
 title: Fakamatalaga
 description: 
 background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true
-height: 70vh
+height: 75vh
 ---
 # Talaaga
 
