@@ -10,7 +10,7 @@ imageLicense: Photo by Scott
 parallax: true # OPTION - default is false
 height: 75vh
 ---
-# KO MAUTOLU 
+# Ko Mautolu
 
 Hanai a mautolu mai he atu Pasifika:
 Amelika Samoa, Atu Luga/Kuki Island, atu motu Timoa Uta, tau Atu motu Micronesia, Atu motu ko Fiti, Atu motu Tahiti, Kuama, Hawaii, Atu Kilipati, Atu Motu Marshall Islands, Naulu, Niu Kaletonia, Niue, Atu motu Marianas, Palau, Papua Niu Kini, Samoa, Atu Solomona, Tokelau, Tonga, Tuvalu, Vanuatu, Atu Ualisi mo Futuna.
