@@ -1,14 +1,14 @@
 ---
 klass: "about"
 lang-ref: about
-title:
+title: Taumua
 description: 
 background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true
 height: 70vh
 ---
-# FEKAU'AKI MO KIMAUTOLU 
+# Fekau'aki mo kimautolu 
 
 Ko e Pasifiki Potolo pe koe fakamatala fakaikiiki ni, ‘oku tuku atu ia fekau’aki mo e ngaahi felalave’i ‘oku hoko ki he me’amo’ui he Pasifiki ‘oku ha atu ia he ngaahi fakamatala ‘a e Global Biodiversity Information Facility (GBIF) mei he ngaahi fonua ko ‘eni ‘i he Pasifiki ‘o kau ki ai 'a 'Amelika Samoa, 'Otumotu Kuki, Timoa Hahake, Ngaahi 'Otu motu iiki 'o Maikolonisia ,Fisi, Tahiti, Guam, Hauai’i , Kilipati, 'Otu motu Masolo, Naulu, Niu Kaletonia, Niue, 'Otu motu Maliana, Palau, Papua Niukini, Samoa,'Otu motu Solomone, Tokelau, Tonga, Tuvalu, Vanuatu pea mo Wallis mo Futuna.
 
