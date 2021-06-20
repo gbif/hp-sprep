@@ -4,8 +4,8 @@ layout: heroImage
 lang-ref: about
 title: Faamatalaga
 description: 
-background: /assets/images/Niue-Project-Banner.png
-imageLicense: Photo by Huggard Tongatule
+background: /assets/images/Scott_Niue.JPG
+imageLicense: Photo by Scott
 parallax: true
 height: 75vh
 ---
