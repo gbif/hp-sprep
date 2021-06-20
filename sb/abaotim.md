@@ -1,7 +1,7 @@
 ---
 klass: "about"
-layout: heroImage
 lang-ref: about
+layout: heroImage
 title: Abaotim
 description: 
 background: /assets/images/Scott_Niue.JPG
