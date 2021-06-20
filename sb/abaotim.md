@@ -1,10 +1,10 @@
 ---
 klass: "about"
 lang-ref: about
-title:
+title: Abaotim
 description: 
-background: /assets/images/Niue-Project-Banner.png
-imageLicense: Photo by Huggard Tongatule
+background: /assets/images/Scott_Niue.JPG
+imageLicense: Photo by Scott
 parallax: true
 height: 70vh
 ---
