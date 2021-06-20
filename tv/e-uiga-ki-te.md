@@ -1,14 +1,14 @@
 ---
 klass: "about"
 lang-ref: about
-title:
+title: E uiga ki te
 description: 
 background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
 parallax: true
 height: 70vh
 ---
-# E UIGA MO MATOU
+# E uiga mo matou
 
 The Itulau o te Pasefika ka fakaasi i ei a fakamatalaga mo fuainumela kesekese ki mea-ola kola e maua foki nei i te Fakapotopotoga o te Lalogi tela e onono ki fakamatalaga kesekese mō mea-ola (GBIF) mai fenua mo kogaa fenua o te Pasefika: Amelika Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu mo Wallis & Futuna.
 
