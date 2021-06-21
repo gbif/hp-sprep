@@ -28,7 +28,7 @@ stats:
       description: Pacific Publishers
       background: /assets/images/GBIF_Icons/4.png
       href: /tk/publisher
-    - title: 34
+    - title: 35
    # - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF&limit=0"></span>
       description: Literature
       background: /assets/images/GBIF_Icons/5.png
