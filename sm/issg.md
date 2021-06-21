@@ -30,7 +30,7 @@ composition:
 
 ------
 
-| Checklist Name                                               | Download                                                     |
+| Igoa o le lisi                                               | Download                                                     |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | Global Register of Introduced and Invasive Species - American Samoa | [Click here](https://cloud.gbif.org/griis/archive.do?r=american-samoa_griis_gbif) |
 | Global Register of Introduced and Invasive Species - Cook Islands | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-gbif-cook-islands) |
@@ -55,7 +55,7 @@ composition:
 
 ------
 
-### Contacts
+### Auala o Fesootaiga
 
 Shyama Narayan Pagad
 
