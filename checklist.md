@@ -1,7 +1,7 @@
 ---
 klass: "about"
 layout: compose
-lang-ref: Checklist
+lang-ref: Checklists
 title: Checklists
 description: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Still%201.jpg?itok=ZtVOFLw2
@@ -25,11 +25,13 @@ composition:
 #- type: markdown
 #  data: example.compose.overlay.text
 ---
+
 ## Checklists
+
 ------
 
-| Checklist Name                                               | Download                                                     |
-| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| Checklist Name                                               |                        Download list                         |
+| :----------------------------------------------------------- | :----------------------------------------------------------: |
 | [Benthic foraminifera of Laucala Bay, Suva, Fiji](https://www.gbif.org/dataset/c9099bac-616c-44bf-8319-0b9b1f589121) | [Click here](https://ipt.sprep.org/archive.do?r=sharma_foram) |
 | [Checklist of the Vanuatu National Herbarium (PVNH)](https://www.gbif.org/dataset/7214d7ff-b8a4-4d70-b9b5-98420a63ff09) | [Click here](https://ipt.gbif.fr/archive.do?r=pvnh_checklist) |
 | [Liste des taxons évalués  RLA Flore NC](https://www.gbif.org/dataset/b81670bc-a67c-480c-b91b-ed0ebdfc569b) | [Click here](https://ipt.gbif.fr/archive.do?r=endemia_nc_rl) |
