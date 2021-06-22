@@ -26,10 +26,6 @@ composition:
 #  data: example.compose.overlay.text
 ---
 
-## Checklists
-
-------
-
 | Checklist Name                                               | Download                                                     |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | [Benthic foraminifera of Laucala Bay, Suva, Fiji](https://www.gbif.org/dataset/c9099bac-616c-44bf-8319-0b9b1f589121) | [Click here](https://ipt.sprep.org/archive.do?r=sharma_foram) |
