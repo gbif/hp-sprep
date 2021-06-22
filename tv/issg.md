@@ -30,7 +30,7 @@ composition:
 
 ------
 
-| Checklist Name   (*Click on the name for more information*)  |                        Download list                         |
+| Checklist Name   (*Click on the name for more information*)  |                        Download                          |
 | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | [Global Register of Introduced and Invasive Species - American Samoa](https://www.gbif.org/dataset/61e1cb71-4e14-4b36-9e4c-72db90c1210a) | [Click here](https://cloud.gbif.org/griis/archive.do?r=american-samoa_griis_gbif) |
 | [Global Register of Introduced and Invasive Species - Cook Islands](https://www.gbif.org/dataset/85183816-d5ea-460c-81fa-e934ceacae10) | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-gbif-cook-islands) |
