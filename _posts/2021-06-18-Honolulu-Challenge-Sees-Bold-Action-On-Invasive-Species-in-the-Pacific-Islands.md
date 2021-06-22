@@ -12,9 +12,6 @@ preTitle: June 18th 2021
 
 *by Angelica Salele-Sefo.*
 
-![Setting Traps in Mt Talau, Tonga](https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Setting%20Traps%20in%20Tonga_Mt%20Talau_0.jpg?itok=El1_Dpm7)
-
-
 *A Pacific Invasive Species Feature from the Pacific Regional Invasive Species Management Support Service (PRISMSS).*
 
 Pacific island partners have stepped up to meet the Honolulu Challenge for bold action on invasive alien species since it was launched at the World Conservation Congress in 2016 in Hawaii.
