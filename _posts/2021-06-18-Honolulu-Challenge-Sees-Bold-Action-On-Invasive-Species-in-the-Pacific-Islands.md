@@ -26,7 +26,7 @@ Four partners of the [Pacific Regional Invasive Species Management Support Servi
 
 The [PRISMSS](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss) itself is a response to SPREP’s commitment *to “increase the capacity of the SPREP Invasive Species Programme to further assist Pacific countries and territories including the development of a regional support service with partners.”*
 
-*![David Moverley_Honolulu](https://www.sprep.org/sites/default/files/users/angelicas/Talking%20to%20a%20tree.jpg)*
+![David Moverley_Honolulu](https://www.sprep.org/sites/default/files/users/angelicas/Talking%20to%20a%20tree.jpg){:standalone .has-text-centered}
 
 The PRISMSS is delivering five regional programmes aimed at stepping up on-the-ground management action in the Pacific with a current PRISMSS portfolio value of USD 12.5 Million. 
 
@@ -92,6 +92,6 @@ With ongoing work to address Invasive Species across the Pacific, the outcomes a
 > “We aim to build on and increase this work further with our Pacific invasive battlers into the future.”
 >
 
-*To learn more about the Honolulu Challenge that was launched in 2016 during the International Union for Conservation of Nature (IUCN) World Conservation Congress please visit: https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species**.*
+*To learn more about the Honolulu Challenge that was launched in 2016 during the International Union for Conservation of Nature (IUCN) World Conservation Congress please visit: [https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species](https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species).*
 
-*To learn more about PRISMSS please visit: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss.*
+*To learn more about PRISMSS please visit: [https://www.sprep.org/invasive-species-management-in-the-pacific/prismss](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss).*
