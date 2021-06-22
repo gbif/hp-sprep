@@ -82,6 +82,6 @@ With ongoing work to address Invasive Species across the Pacific, the outcomes a
 
 “We aim to build on and increase this work further with our Pacific invasive battlers into the future.”
 
-*To learn more about the Honolulu Challenge that was launched in 2016 during the International Union for Conservation of Nature (IUCN) World Conservation Congress please visit: https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species**.*
+*To learn more about the Honolulu Challenge that was launched in 2016 during the International Union for Conservation of Nature (IUCN) World Conservation Congress please visit: [https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species](https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species).*
 
-*To learn more about PRISMSS please visit: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss.*
+*To learn more about PRISMSS please visit: [https://www.sprep.org/invasive-species-management-in-the-pacific/prismss](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss).*
