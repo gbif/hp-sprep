@@ -2,7 +2,7 @@
 klass: "about"
 layout: compose
 lang-ref: Checklist
-title: Checklist
+title: Checklists
 description: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Still%201.jpg?itok=ZtVOFLw2
 imageLicense: Oceanic whitetip shark and pilot fish, Central Pacific Ocean. © naturepl.com/Doug Perrine/WWF
@@ -25,6 +25,8 @@ composition:
 #- type: markdown
 #  data: example.compose.overlay.text
 ---
+## Checklists
+------
 
 | Checklist Name                                               | Download                                                     |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
