@@ -26,11 +26,11 @@ Four partners of the [Pacific Regional Invasive Species Management Support Servi
 
 The [PRISMSS](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss) itself is a response to SPREP’s commitment *to “increase the capacity of the SPREP Invasive Species Programme to further assist Pacific countries and territories including the development of a regional support service with partners.”*
 
-![David Moverley_Honolulu](https://www.sprep.org/sites/default/files/users/angelicas/Talking%20to%20a%20tree.jpg){:standalone .has-text-centered}
+![David Moverley at Honolulu](https://www.sprep.org/sites/default/files/users/angelicas/Talking%20to%20a%20tree.jpg){:standalone .has-text-centered}
 
 The PRISMSS is delivering five regional programmes aimed at stepping up on-the-ground management action in the Pacific with a current PRISMSS portfolio value of USD 12.5 Million. 
 
-In addition, SPREP also committed to double the volume of operational multi-country projects by 2020.  This has also been achieved with the volume quadrupling including the European Union Funded [Pacific Territories Regional Project for Sustainable Ecosystem Management Project (PROTÉGÉ)](https://protege.spc.int/en/themes/invasive-species) invasive species component, the Global Environment Facility [GEF6 Regional Invasive Project](https://www.sprep.org/gef6-rip), and the New Zealand Ministry of Foreign Affairs and Trade funded project [Managing Invasive Species for Climate Change Adaptation in the Pacific ](https://www.sprep.org/sites/default/files/documents/publications/MISCCAP-newsletter.pdf).
+In addition, SPREP also committed to double the volume of operational multi-country projects by 2020.  This has also been achieved with the volume quadrupling including the European Union Funded [Pacific Territories Regional Project for Sustainable Ecosystem Management Project (PROTÉGÉ)](https://protege.spc.int/en/themes/invasive-species) invasive species component, the Global Environment Facility [GEF6 Regional Invasive Project](https://www.sprep.org/gef6-rip), and the New Zealand Ministry of Foreign Affairs and Trade funded project [Managing Invasive Species for Climate Change Adaptation in the Pacific (MISCCAP)](https://www.sprep.org/sites/default/files/documents/publications/MISCCAP-newsletter.pdf).
 
 A further commitment was to improve regional invasive species information and knowledge for which you can visit the SPREP [Invasive Species information hub](https://www.sprep.org/invasive-species-management-in-the-pacific) to peruse the knowledge and resources now available.
 
@@ -72,7 +72,7 @@ In the first five years of Predator Free 2050, the New Zealand government has in
 
 Four new tools are already available for purchase. Long term research projects relating to predator behaviour and new tools and techniques to target predators are also underway. It is likely that this goal could be achieved in the future through a composite of new technologies and operational techniques.
 
-Support continues from the Government of New Zealand for action against invasive species across the Pacific islands’ region also. The New Zealand government have committed NZD 9 Million to the project - Managing Invasive Species for Climate Change Adaptation in the Pacific (MISCCAP).
+Support continues from the Government of New Zealand for action against invasive species across the Pacific islands’ region also. The New Zealand government have committed NZD 9 Million to the project - [Managing Invasive Species for Climate Change Adaptation in the Pacific (MISCCAP)](https://www.sprep.org/sites/default/files/documents/publications/MISCCAP-newsletter.pdf).
 
 Coordinated over four years, the MISCCAP will enable Pacific islands to take stronger action against invasive species resulting in stronger resilience to climate change.
 
