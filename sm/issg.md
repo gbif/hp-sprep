@@ -3,7 +3,7 @@ klass: "about"
 layout: compose
 lang-ref: issg
 title: Invasive Species Specialist Group Checklists
-description: The Invasive Species Specialist Group ISSG of the Species Survival Commission of the International Union for Conservation of Nature is a global network of scientific and policy experts on invasive species. 
+description: O lenei faalapotopotoga faapitoa mo manu ma laau faalafua se tasi o latou anavatau o le faalauiloa ma faasoa o latou atamai i faavae ma suesuega faasainitisi faatatau i manu ma laau faalafua.
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 imageLicense: 
 parallax: true # OPTION - default is false
@@ -30,7 +30,7 @@ composition:
 
 ------
 
-| Checklist Name   (*Click on the name for more information*)  |                        Download list                         |
+| Igoa o le lisi   (*Click on the name for more information*)  |                        Download list                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | [Global Register of Introduced and Invasive Species - American Samoa](https://www.gbif.org/dataset/61e1cb71-4e14-4b36-9e4c-72db90c1210a) | [Click here](https://cloud.gbif.org/griis/archive.do?r=american-samoa_griis_gbif) |
 | [Global Register of Introduced and Invasive Species - Cook Islands](https://www.gbif.org/dataset/85183816-d5ea-460c-81fa-e934ceacae10) | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-gbif-cook-islands) |
@@ -55,7 +55,7 @@ composition:
 
 ------
 
-### Contacts
+### Tagata autu e faafesootai faatatau i lisi
 
 Shyama Narayan Pagad
 
