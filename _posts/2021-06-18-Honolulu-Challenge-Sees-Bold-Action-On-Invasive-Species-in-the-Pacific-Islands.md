@@ -12,15 +12,23 @@ preTitle: June 18th 2021
 
 *by Angelica Salele-Sefo.*
 
+![Setting Traps in Mt Talau, Tonga](https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Setting%20Traps%20in%20Tonga_Mt%20Talau_0.jpg?itok=El1_Dpm7)
+
+JUNE 18, 2021 BY ANGELICAS
+
+Island and Ocean Ecosystems
+
 *A Pacific Invasive Species Feature from the Pacific Regional Invasive Species Management Support Service (PRISMSS).*
 
 Pacific island partners have stepped up to meet the Honolulu Challenge for bold action on invasive alien species since it was launched at the World Conservation Congress in 2016 in Hawaii.
 
 Four partners of the [Pacific Regional Invasive Species Management Support Service](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss) (PRISMSS) have declared specific commitments towards meeting the challenge. These are [BirdLife International](https://www.birdlife.org/worldwide/programmes), [Island Conservation](https://www.islandconservation.org/), [New Zealand Department of Conservation](https://www.doc.govt.nz/), and the [Secretariat of the Pacific Regional Environment Programme](https://www.sprep.org/).
 
-"Although the PRISMSS wasn’t formed until 2019 we knew that as a region, we all needed to step up to the Honolulu Challenge. We had to do something to play our part in protecting our Pacific island biodiversity which plays such a huge part in the lives of Pacific island communities, said Mr. David Moverley, SPREP Invasive Species Adviser.
+> "Although the PRISMSS wasn’t formed until 2019 we knew that as a region, we all needed to step up to the Honolulu Challenge. We had to do something to play our part in protecting our Pacific island biodiversity which plays such a huge part in the lives of Pacific island communities, said Mr. David Moverley, SPREP Invasive Species Adviser.
+>
 
-“The fact that many of our PRISMSS partners their own commitments prior to the PRISMSS being formed is a testament to their belief and commitment.”
+> “The fact that many of our PRISMSS partners their own commitments prior to the PRISMSS being formed is a testament to their belief and commitment.”
+>
 
 The [PRISMSS](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss) itself is a response to SPREP’s commitment *to “increase the capacity of the SPREP Invasive Species Programme to further assist Pacific countries and territories including the development of a regional support service with partners.”*
 
@@ -28,7 +36,7 @@ The [PRISMSS](https://www.sprep.org/invasive-species-management-in-the-pacific/p
 
 The PRISMSS is delivering five regional programmes aimed at stepping up on-the-ground management action in the Pacific with a current PRISMSS portfolio value of USD 12.5 Million. 
 
-In addition, SPREP also committed to double the volume of operational multi-country projects by 2020.  This has also been achieved with the volume quadrupling including the European Union Funded [Pacific Territories Regional Project for Sustainable Ecosystem Management Project (PROTEGE)](https://protege.spc.int/en/themes/invasive-species) invasive species component, the Global Environment Facility [GEF6 Regional Invasives Project](https://www.sprep.org/gef6-rip), and the New Zealand Ministry of Foreign Affairs and Trade funded project [Managing Invasive Species for Climate Change Adaptation in the Pacific ](https://www.sprep.org/sites/default/files/documents/publications/MISCCAP-newsletter.pdf).
+In addition, SPREP also committed to double the volume of operational multi-country projects by 2020.  This has also been achieved with the volume quadrupling including the European Union Funded [Pacific Territories Regional Project for Sustainable Ecosystem Management Project (PROTÉGÉ)](https://protege.spc.int/en/themes/invasive-species) invasive species component, the Global Environment Facility [GEF6 Regional Invasive Project](https://www.sprep.org/gef6-rip), and the New Zealand Ministry of Foreign Affairs and Trade funded project [Managing Invasive Species for Climate Change Adaptation in the Pacific ](https://www.sprep.org/sites/default/files/documents/publications/MISCCAP-newsletter.pdf).
 
 A further commitment was to improve regional invasive species information and knowledge for which you can visit the SPREP [Invasive Species information hub](https://www.sprep.org/invasive-species-management-in-the-pacific) to peruse the knowledge and resources now available.
 
@@ -40,19 +48,23 @@ One of the calls of the Honolulu Challenge was to “Greatly increase the number
 
 While COVID-19 may have provided a speed bump to action on the ground in 2020, a further 12 eradication operations have also been developed, eight are scheduled to take place in 2021 and 2022 and will benefit a further nine globally threatened bird species and seven KBAs.
 
-Operations supressing introduced predators, including Little Fire Ant, have been sustained across four sites in Fiji and French Polynesia. This has resulted in the recovery of highly threatened birds such as the Critically Endangered Fatu Hiva Monarch and Tahiti Monarch with the latter having increased to over 100 birds for the first time in decades.
+Operations suppressing introduced predators, including Little Fire Ant, have been sustained across four sites in Fiji and French Polynesia. This has resulted in the recovery of highly threatened birds such as the Critically Endangered Fatu Hiva Monarch and Tahiti Monarch with the latter having increased to over 100 birds for the first time in decades.
 
-“Safeguarding predator free islands through biosecurity has been successfully sustained for 15 islands in four countries and established for a further nine islands in Fiji and French Polynesia,” said Mr. Steve Cranwell of BirdLife International.
+> “Safeguarding predator free islands through biosecurity has been successfully sustained for 15 islands in four countries and established for a further nine islands in Fiji and French Polynesia,” said Mr. Steve Cranwell of BirdLife International.
+>
 
-“The approach taken has instilled community capacity to prevent, identify and respond to incursions with the assistance of local authorities and regional expertise.”
+> “The approach taken has instilled community capacity to prevent, identify and respond to incursions with the assistance of local authorities and regional expertise.”
+>
 
 The positive outcomes from work to meet the Honolulu Challenge continues.
 
 Island Conservation led and implemented restoration projects on 17 different islands that protected more than 50 threatened species between 2016 and 2020. In addition, they supported partners to implement projects on a further eight islands protecting at least another 15 threatened species, in the process, they also improved livelihoods for a number of Pacific island communities.
 
-“Although we didn’t fully meet our commitments to the Honolulu Challenge, we made great progress towards it” said Mr Richard Griffiths, Island Conservation’s Head of Operations for the South and West Pacific.
+> “Although we didn’t fully meet our commitments to the Honolulu Challenge, we made great progress towards it” said Mr Richard Griffiths, Island Conservation’s Head of Operations for the South and West Pacific.
+>
 
-“The progress we made gives us hope that we can continue to increase the pace, scale and scope of restoration efforts to turn the tide on invasive species. Through increased innovation and investment, we can save our world’s most threatened species, but we need to act now.”
+> “The progress we made gives us hope that we can continue to increase the pace, scale and scope of restoration efforts to turn the tide on invasive species. Through increased innovation and investment, we can save our world’s most threatened species, but we need to act now.”
+>
 
 This is exactly what New Zealand has done with bold commitments in line with the Honolulu Challenge.
 
@@ -70,18 +82,22 @@ Support continues from the Government of New Zealand for action against invasive
 
 Coordinated over four years, the MISCCAP will enable Pacific islands to take stronger action against invasive species resulting in stronger resilience to climate change.
 
-“We’re proud to support a great initiative that’s going to enhance Pacific island biodiversity,” said Mr Lou Sanson, Director-General of New Zealand’s Department of Conservation.
+> “We’re proud to support a great initiative that’s going to enhance Pacific island biodiversity,” said Mr Lou Sanson, Director-General of New Zealand’s Department of Conservation.
+>
 
-“A healthy biodiversity and environment help builds resilience to climate change, and the support we can provide through taking action against invasive species, to help make this happen – is always a step in the right direction.”
+> “A healthy biodiversity and environment help builds resilience to climate change, and the support we can provide through taking action against invasive species, to help make this happen – is always a step in the right direction.”
+>
 
 Manaaki Whenua Landcare Research, New Zealand Department of Conservation, New Zealand’s Ministry of Foreign Affairs and Trade, and SPREP have partnered to enhance invasive species management capability and on-the-ground action in participating countries through the provision of specialist support, technical assistance, advice, training and awareness raising.
 
 With ongoing work to address Invasive Species across the Pacific, the outcomes are hopeful.
 
-“We will always have challenges, but we know that through PRISMSS and the great partners we have to work with in our Pacific island communities – we’re in a great position to step up the practical management of this threat to our Pacific biodiversity and environment,” said Mr Moverley.
+> “We will always have challenges, but we know that through PRISMSS and the great partners we have to work with in our Pacific island communities – we’re in a great position to step up the practical management of this threat to our Pacific biodiversity and environment,” said Mr Moverley.
+>
 
-“We aim to build on and increase this work further with our Pacific invasive battlers into the future.”
+> “We aim to build on and increase this work further with our Pacific invasive battlers into the future.”
+>
 
-*To learn more about the Honolulu Challenge that was launched in 2016 during the International Union for Conservation of Nature (IUCN) World Conservation Congress please visit: [https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species](https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species).*
+*To learn more about the Honolulu Challenge that was launched in 2016 during the International Union for Conservation of Nature (IUCN) World Conservation Congress please visit: https://www.iucn.org/theme/species/our-work/invasive-species/honolulu-challenge-invasive-alien-species**.*
 
-*To learn more about PRISMSS please visit: [https://www.sprep.org/invasive-species-management-in-the-pacific/prismss](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss).*
+*To learn more about PRISMSS please visit: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss.*
