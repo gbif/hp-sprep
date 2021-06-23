@@ -14,7 +14,7 @@ columns:
  #   description: | # Can be Markdown
  #     This project is open source. See `_data/footer.yml` to customize the footer.
 
-  - name: [David Moverley](https://www.gbif.org/contact-us/directory?personId=3960)
+  - name: David Moverley
     description: | # Can be Markdown
       * [Head of Delegation](https://www.gbif.org/contact-us/directory?personId=3960)
       * Secretariat of the Pacific Regional Environment Programme (SPREP)
