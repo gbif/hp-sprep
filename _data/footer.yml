@@ -20,6 +20,16 @@ columns:
       * Invasive Species Adviser
       * Secretariat of the Pacific Regional Environment Programme (SPREP)
       * Email: [davidm@sprep.org](davidm@sprep.org)
+  - name: Bradley Myer
+    description: | # Can be Markdown
+      * Project Manager
+      * Secretariat of the Pacific Regional Environment Programme (SPREP)
+      * Email: [bradleym@sprep.org](bradleym@sprep.org)
+  - name: Ainsof So'o
+    description: | # Can be Markdown
+      * System Developer
+      * Secretariat of the Pacific Regional Environment Programme (SPREP)
+      * Email: [ainsofs@sprep.org](ainsofs@sprep.org)
     #connectIcons: true
        #Social icons links defined in `_config.yml`
    #* 1234 postal code
