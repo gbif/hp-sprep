@@ -18,14 +18,14 @@
      href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
    - text: Download
      href: https://hp-sprep.gbif-staging.org/data?view=download
-#- text: Publishers
-# href: /publisher
 - text: Links
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
      href: https://piln.sprep.org/
    - text: Global Biodiversity Information Facility (GBIF)
      href: https://www.gbif.org/
+   - text: GBIF Contacts/Directory
+     href: https://www.gbif.org/contact-us/directory
    - text: Invasive Species Management in the Pacific
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
    - text: Pacific Environment Portal (PEP)
