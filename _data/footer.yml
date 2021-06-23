@@ -19,7 +19,7 @@ columns:
     description: | # Can be Markdown
       * Invasive Species Adviser
       * Secretariat of the Pacific Regional Environment Programme (SPREP)
-      * Email: davidm@sprep.org
+      * Email: [davidm@sprep.org](davidm@sprep.org)
     #connectIcons: true
        #Social icons links defined in `_config.yml`
    #* 1234 postal code
