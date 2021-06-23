@@ -15,10 +15,11 @@ columns:
  #   description: | # Can be Markdown
  #     This project is open source. See `_data/footer.yml` to customize the footer.
 
-  #- name: David Moverley
-   # description: | # Can be Markdown
-    #  * Invasive Species Adviser
-     # * Secretariat of the Pacific Regional Environment Programme (SPREP)
+  - name: David Moverley
+    description: | # Can be Markdown
+      * Invasive Species Adviser
+      * Secretariat of the Pacific Regional Environment Programme (SPREP)
+      * Email: davidm@sprep.org
     #connectIcons: true
        #Social icons links defined in `_config.yml`
    #* 1234 postal code
