@@ -1,4 +1,5 @@
 ---
+klass: "about"
 title: Privacy policy
 description: Privacy policy
 permalink: /privacy
