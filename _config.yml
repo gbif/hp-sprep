@@ -47,10 +47,10 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # for usage in the standard privacy layout
 privacy:
-  name: the name should be filled
-  domain: your-domain.org
-  contactEmail: contact@your-domain.org
-  helpdeskEmail: helpdesk@your-domain.org
+  name: PBIF
+  domain: pbif.sprep.org
+  contactEmail: davidm@sprep.org
+  helpdeskEmail: davidm@sprep.org
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
