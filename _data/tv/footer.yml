@@ -32,3 +32,5 @@ columns:
   #  - text: link title 2
   #    href: http://example2.com
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
+other: |
+  [Privacy policy](/privacy)
