@@ -1,7 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: A propos
-  href: /fre/apropos
+  href: /fre/a-propos
 - text: Données
   menu:
    - text: Nombre total d’entrées
