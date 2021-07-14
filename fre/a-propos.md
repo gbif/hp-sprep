@@ -1,6 +1,7 @@
 ---
 klass: "about"
 lang-ref: about
+layout: heroImage
 title: A propos
 description: 
 background: /assets/images/Scott_Niue.JPG
