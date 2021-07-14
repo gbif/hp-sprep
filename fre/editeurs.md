@@ -4,7 +4,7 @@ layout: compose
 lang-ref: publisher
 title: Editeurs
 description: Organisations du Pacifique qui ont participé à la publication des données
-background: assets/images/Eye_sea_of_Vavau.jpg
+background: /assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
