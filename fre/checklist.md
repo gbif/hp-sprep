@@ -74,9 +74,7 @@ composition:
 
    1. Ouvrez Excel
 
-   2. Créez un nouveau classeur
-
-      (Fichier -> Nouveau classeur)
+   2. Créez un nouveau classeur (Fichier -> Nouveau classeur)
 
    3. Importez le fichier texte (Onglet Données → A partir d’un fichier texte/CSV)
 
