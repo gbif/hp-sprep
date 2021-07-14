@@ -11,7 +11,7 @@ parallax: true # OPTION - default is false
 height: 90vh
 cta:
   - text: Obtenir des données
-    href: /données
+    href: /fre/data
     isPrimary: true
 permalink: /fre/
 composition:
