@@ -13,7 +13,7 @@ cta:
   - text: Obtenir des données
     href: /données
     isPrimary: true
-permalink: /fre/home
+permalink: /fre/
 composition:
   - type: heroImage # the block type
   - type: stats
