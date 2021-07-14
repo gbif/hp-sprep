@@ -51,7 +51,7 @@ stats2:
       href: https://www.gbif.org/publisher/search?country=FJ
       #NC
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=NC&isEndorsed=true"></span>
-      description: New Calendonia
+      description: New Caledonia
       background: /assets/images/Country_Flags/nc.png
       href: https://www.gbif.org/publisher/search?country=NC
       #Palau
