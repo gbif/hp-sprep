@@ -30,4 +30,4 @@ Actuellement, le portail test du PBIF peut offrir :
 
 Le GBIF, pour Global Biodiversity Information Facility, est un réseau international et une base de données, financé par les gouvernements du monde entier. Il vise à fournir à quiconque, n’importe où, un accès libre aux données sur toutes les formes de vie sur Terre.
 
-Pour plus d’informations, rendez-vous sur leur site web: https://www.gbif.org/what-is-gbif
+Pour plus d’informations, rendez-vous sur leur site web: [https://www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
