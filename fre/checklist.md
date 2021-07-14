@@ -54,28 +54,46 @@ composition:
 
 4. Pour ouvrir le fichier « **taxon** » dans un classeur Excel, suivez les étapes suivantes.
 
-     **Si vous utilisez Excel sous Windows**
+   **Si vous utilisez Excel sous Windows**
 
    1. Ouvrez Excel
+   
    2. Créez un nouveau classeur (Fichier -> Nouveau classeur)
+   
    3. Cliquez sur l’onglet **Données**
+   
    4. Dans l’encart « récupérer et transformer des données », sélectionnez « **A partir d’un fichier texte/CSV** »
+   
    5. Sélectionnez le fichier texte à extraire (par exemple : **taxon**.txt)
+   
    6. Cliquez sur **Ouvrir**
+   
    7. Sélectionnez « Unicode (UTF-8) comme origine du fichier.
+
    8. Cliquez sur Charger
+
    9. Cliquez sur OK pour importer les données dans la feuille actuelle
+
    10. Ouvrez le fichier texte « **taxon** »
-     **OU**
-   12. Sélectionnez tout le texte (CTRL + A) et copiez-le dans le presse-papiers (CTRL + C)
-   13. Ouvrez Excel
-   14. Coller le texte (CTRL + V)
+
+       **OU**
+
+   11. Sélectionnez tout le texte (CTRL + A) et copiez-le dans le presse-papiers (CTRL + C)
+
+   12. Ouvrez Excel
+
+   13. Coller le texte (CTRL + V)
 
    **Si vous utilisez Excel sur un Mac**
-
+   
    1. Ouvrez Excel
+   
    2. Créez un nouveau classeur (Fichier -> Nouveau classeur)
+   
    3. Importez le fichier texte (Onglet Données → A partir d’un fichier texte/CSV)
+   
    4. Sélectionnez le fichier texte à extraire (par exemple, **taxon**.txt)
+   
    5. Sélectionnez la tabulation en tant que délimiteur et « Unicode (UTF-8) » comme Origine du fichier
+   
    6. Cliquez sur **Charger**
