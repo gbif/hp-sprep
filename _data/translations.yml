@@ -10,9 +10,11 @@ differentLanguage:
   tv: "Te Itulau tenei e avanoa i 'gana konei"
   sb: "Disfala peij hemi garem oloketa narafala lagus ia"
   fij: "Oqo na vei vosa e vakaurataki kina nai tukutuku"
+  fre: "Cette page est disponible dans les langues suivantes"
 tocTitle:
   en: "On this page"
   sm: "Itulau o le Upegatafailagi"
+  fre: "Sur cette page"
 terms:
   en: |
     We use cookies on our website. Some are technically necessary, others help us improve your user experience. You can decline non-essential cookies by selecting “Reject”. Please see our [Privacy Policy](/privacy) for further information about our privacy practices and use of cookies.
