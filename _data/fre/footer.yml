@@ -12,12 +12,12 @@ columns:
       
   - name: David Moverley
     description: | # Can be Markdown
-      * [Head of Delegation](https://www.gbif.org/contact-us/directory?personId=3960)
+      * [Chef de délégation](https://www.gbif.org/contact-us/directory?personId=3960)
       * [Secrétariat du Pacific Regional Environment Programme](https://www.sprep.org/)
       * E-mail: [davidm@sprep.org](davidm@sprep.org)
   - name: Bradley Myer
     description: | # Can be Markdown
-      * [Project Manager](https://www.sprep.org/our-team)
+      * [Chef de projet](https://www.sprep.org/our-team)
       * [Secrétariat du Pacific Regional Environment Programme](https://www.sprep.org/)
       * E-mail: [bradleym@sprep.org](bradleym@sprep.org)
   - name: Ainsof So'o
