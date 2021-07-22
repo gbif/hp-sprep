@@ -22,25 +22,25 @@
      href: https://hp-sprep.gbif-staging.org/data?view=download
 - text: Samfala weis, konneksons or contakts 
   menu: # Dropdown menu (one level deep only)
-   - text: Potaaga he tau koloa tohi
+   - text: Battler Resource Base (BRB)
      href: https://piln.sprep.org/
-   - text: Matakau Gahua mo e tau akau Fofō Kaina he Pasifika
+   - text: Invasive Species Management in the Pacific
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
    - text: Kupega hila he Matakau Takatakai Motu he Pasifika
      href: https://pacific-data.sprep.org/
-   - text: Tufatufaaga he tau  lotomatala he tau akau Fofō kaina he Pasifka
+   - text: Pacific Invasive Learning Network (PILN)
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
-   - text: Tau Matakau ne Gahua Fakalataha ke he tau akau Fofō kaina he Pasifika
+   - text: Pacific Invasive Partnerships
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
-   - text: Kupega hila he matakau ne tokaga he tau vala motu leveki he Pasifika
+   - text: Pacific Protected Area Portal
      href: https://pipap.sprep.org/
    - text: Sekretariet blong Pasifik Riginol Envaeroment Prokram (SPREP)
      href: https://www.sprep.org/
 - text: Oloketa copi or informeson wea iu save daonlodim, tekem  or copim.
   menu:
-   - text: Fetufatufaaki e tau iloaaga – Fakapalagi Pelitania
+   - text: Battler Sharing Data-English
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Fetufatufaaki e tau iloaaga faka vagahau Falani
+   - text: Battler Sharing Data-French
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: Nius
   href: /sb/nius/
