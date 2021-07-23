@@ -2,7 +2,7 @@
 klass: "about"
 layout: compose
 lang-ref: publisher
-title: Editeurs
+title: Rechercher des fournisseurs de données
 description: Organisations du Pacifique qui ont participé à la publication des données
 background: /assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
