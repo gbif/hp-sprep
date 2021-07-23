@@ -18,7 +18,7 @@
      href: /fre/editeurs
    - text: Littérature
      href: https://www.gbif.org/fr/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
-   - text: Téléchargements
+   - text: Télécharger
      href: https://hp-sprep.gbif-staging.org/fre/data?view=download
 - text: Liens
   menu: # Dropdown menu (one level deep only)
