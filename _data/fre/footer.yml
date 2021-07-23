@@ -8,8 +8,7 @@ columns:
     - text: Fond mondial d’information sur la biodiversité 
       href: https://www.gbif.org/
     - text: Secrétariat du Pacific Regional Environment Programme
-      href: https://www.sprep.org/
-      
+      href: https://www.sprep.org/    
   - name: David Moverley
     description: | # Can be Markdown
       * [Head of Delegation](https://www.gbif.org/contact-us/directory?personId=3960)
