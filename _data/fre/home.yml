@@ -26,7 +26,7 @@ stats:
       background: /assets/images/GBIF_Icons/6.png
       href: /fre/issg
     - title: 20
-      description: Editeurs 
+      description: Rechercher des fournisseurs de données 
       background: /assets/images/GBIF_Icons/4.png
       href: /fre/editeurs
     - title: 35
