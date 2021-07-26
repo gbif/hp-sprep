@@ -2,8 +2,8 @@
 klass: "about"
 layout: compose
 lang-ref: issg
-title: Groupes de spécialistes des espèces invasives Checklists
-description: L’Invasive Species Specialist Group (ISSG) de la CSE (Commission pour la sauvegarde des espèces) crée par l’Union internationale pour la conservation de la nature (UICN) est un réseau mondial de scientifiques et d’experts spécialisés dans les espèces invasives.
+title: Invasive Species Specialist Group Checklists
+description: The Invasive Species Specialist Group ISSG of the Species Survival Commission of the International Union for Conservation of Nature is a global network of scientific and policy experts on invasive species. 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 imageLicense: 
 parallax: true # OPTION - default is false
@@ -26,11 +26,11 @@ composition:
 #  data: example.compose.overlay.text
 ---
 
-## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Groupes de spécialistes des espèces invasives Checklists
+## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Invasive Species Specialist Group Checklists
 
 ------
 
-| Checklist Name   (*Click on the name for more information*)  |                        Download list                         |
+| Checklist Name   (*Click on the name for more information*)  |                        Download                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | [Global Register of Introduced and Invasive Species - American Samoa](https://www.gbif.org/dataset/61e1cb71-4e14-4b36-9e4c-72db90c1210a) | [Click here](https://cloud.gbif.org/griis/archive.do?r=american-samoa_griis_gbif) |
 | [Global Register of Introduced and Invasive Species - Cook Islands](https://www.gbif.org/dataset/85183816-d5ea-460c-81fa-e934ceacae10) | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-gbif-cook-islands) |
@@ -55,7 +55,7 @@ composition:
 
 ------
 
-### Contact
+### Contacts
 
 Shyama Narayan Pagad
 
@@ -67,66 +67,59 @@ Shyama Narayan Pagad
 
 ------
 
-### Comment ouvrir des fichiers téléchargés avec Excel
+### How to open downloaded files in Excel
 
-1. Après le téléchargement, vous obtiendrez une archive au format zip au nom commençant par « **dwca-griis** ». Pour l’extraire, faites un clic droit sur le fichier et sélectionnez « Extraire tout »
+1. After downloading you will get a zip file with a name beginning with **"dwca-griis"**. To extract right click on the file and select extract all
 
    ![1](/assets/images/Open-files-to-excel/1.png)
 
-2. Sélectionnez le dossier dans lequel le fichier sera extrait, et cliquez sur « suivant ».
+2. Select the location where the files will be extracted and press next.
 
    ![2](/assets/images/Open-files-to-excel/2.png)
 
-3. Une nouvelle fenêtre va s’ouvrir, contenant les fichiers de l’archive, dont un nommé « **taxon** », celui sur lequel vous allez vous concentrer.
+3. A new window will appear with the files. The file you will focus on is called **"taxon"**
 
    ![3](/assets/images/Open-files-to-excel/3.png)
 
-4. Pour ouvrir le fichier « **taxon** » dans un classeur Excel, suivez les étapes suivantes.
+4. To open the **"taxon"** file into an excel file please follow the following steps.
 
-   **Si vous utilisez Excel sous Windows**
+   **If you are using Excel on a Windows**
 
-   1. Ouvrez Excel
+   1. Open Excel
    
-   2. Créez un nouveau classeur (Fichier -> Nouveau classeur)
+   2. Create a new empty spreadsheet (File → New)
    
-   3. Cliquez sur l’onglet **Données**
+   3. Click the **Data** tab
    
-   4. Dans l’encart « récupérer et transformer des données », sélectionnez « **A partir d’un fichier texte/CSV** »
+   4. From "Get External Data", click **From text**
    
-   5. Sélectionnez le fichier texte à extraire (par exemple : **taxon**.txt)
-   
-   6. Cliquez sur **Ouvrir**
-   
-   7. Sélectionnez « Unicode (UTF-8) comme origine du fichier.
+   5. Select the extracted txt file (e.g. **taxon**.txt)
 
-   8. Cliquez sur Charger
+   6. Click **Import**
 
-   9. Cliquez sur OK pour importer les données dans la feuille actuelle
+   7. Select "Delimited" as Data Type and "Unicode (UTF-8)" as File Origin
 
-   10. Ouvrez le fichier texte « **taxon** »
+   8. Click **Finish**
 
-       **OU**
+   9. Click **OK** to import data into current sheet
 
-   11. Sélectionnez tout le texte (CTRL + A) et copiez-le dans le presse-papiers (CTRL + C)
+      **OR**
 
-   12. Ouvrez Excel
-
-   13. Coller le texte (CTRL + V)
-
-       
-
-   **Si vous utilisez Excel sur un Mac**
+   1. Open **"taxon"** text file
+   2. Select all contents (Ctrl + A) and Copy (Ctrl + C)
+   3. Open Excel
+   4. Paste (Ctrl + V)
    
-   1. Ouvrez Excel
+   **If you are using Excel on a Mac**
    
-   2. Créez un nouveau classeur (Fichier -> Nouveau classeur)
+   1. Open Excel
    
-   3. Importez le fichier texte (Onglet Données → A partir d’un fichier texte/CSV)
+   2. Create a new empty spreadsheet (File → New)
    
-   4. Sélectionnez le fichier texte à extraire (par exemple, **taxon**.txt)
+   3. Import text file (Data → Get Data → From File → From Text/CSV)
    
-   5. Sélectionnez la tabulation en tant que délimiteur et « Unicode (UTF-8) » comme Origine du fichier
+   4. Select the extracted text file (e.g. **taxon**.txt)
    
-   6. Cliquez sur **Charger**
+   5. Select "Tab" as Delimiter and "Unicode (UTF-8)" as File Origin
    
-      
+   6. Click **Load**
