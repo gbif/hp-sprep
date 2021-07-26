@@ -11,7 +11,7 @@ parallax: true # OPTION - default is false
 height: 90vh
 cta:
   - text: Bok melele
-    href: /melele
+    href: /rmi/melele
     isPrimary: true
 permalink: /rmi/
 composition:
