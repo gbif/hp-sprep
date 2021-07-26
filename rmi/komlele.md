@@ -1,11 +1,13 @@
 ---
 klass: "about"
 lang-ref: about
-title: Komelele ko
-description: 
-background: /assets/images/Scott_Niue.JPG
+layout: heroImage
+title: Komlele ko
+description:
+#background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
+background: assets/images/Scott_Niue.JPG
 imageLicense: Photo by Scott
-parallax: true
+parallax: true # OPTION - default is false
 height: 75vh
 ---
 # KOMELELE KO
