@@ -23,7 +23,7 @@ Ilo torein, jerbal eo imaan tata ilo portal in ej komeleleik:
 - Jikin kabok melele, pija, im map ko remanlok einwot GBIF.org eo. Melele ko wot renaaj walok ilo portal in ej melele ko emoj komalik nan aolep. 
 - Kabidodo an ro rej kabok melele maron etal nan GBIF.org nan download melele ilo juon jekjek eo ej kalikar ke melele ko buki ak download i rej itok jen GBIF dataset eo. 
 
-**Ta in GBIF? **
+**Ta in GBIF?**
 
 GBIF- ej Gblobal Biodiersity Information Facility - ej jikin ebok melele eo aolep lalin ej kile im ej ejaaki ak funded jen kien ko otemjej an lal ko kajojo nan jiban letok letak melele nan aolep armij im jen aolep lal.
 
