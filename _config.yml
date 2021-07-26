@@ -150,15 +150,15 @@ defaults:
       path: "nu/"
     values:
       lang: nu    
-  #- # RMI
-  #  scope:
-  #    path: "rmi/"
-  #  values:
-  #    lang: rmi
+  - # RMI
+    scope:
+      path: "rmi/"
+    values:
+      lang: rmi
   -
     scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
-      lang: [en,fij,fre,sm,nu,to,tk,tv,sb]
+      lang: [en,fij,fre,sm,nu,to,tk,tv,sb,rmi]
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
