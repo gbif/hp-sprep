@@ -1,0 +1,47 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Komlele ko
+  href: /rmi/komlele
+- text: Melele ko
+  menu:
+   - text: Occurrences ko
+     href: /rmi/melele
+   - text: Datasets ko
+     href: https://hp-sprep.gbif-staging.org/data?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
+     #href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+   - text: Checklist ko
+     href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+   - text: Invasive Species Specialist Group Checklist
+     href: /rmi/issg
+   - text: Publisher ko
+     href: /rmi/publisher
+   - text: Literature ko
+     href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
+   - text: Download ko
+     href: https://hp-sprep.gbif-staging.org/data?view=download
+- text: Link ko
+  menu: # Dropdown menu (one level deep only)
+   - text: Battler Resource Base (BRB)
+     href: https://piln.sprep.org/
+   - text: Invasive Species Management in the Pacific
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific
+   - text: Pacific Environment Portal eo
+     href: https://pacific-data.sprep.org/
+   - text: Pacific Invasive Learning Network eo
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
+   - text: Pacific Invasive Partnership eo
+     href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
+   - text: Pacific Island Protected Area Portal eo
+     href: https://pipap.sprep.org/
+   - text: Secretariat of the Pacific Regional Environment Programme eo
+     href: https://www.sprep.org/
+- text: How to
+     href: /rmi/How-to
+- text: Download ko
+  menu:
+   - text: Battlers Sharing Data - Kajin palle
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
+   - text: Battlers Sharing Data - Kajin French
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
+- text: Nuuj ko
+  href: /rmi/nuuj/
