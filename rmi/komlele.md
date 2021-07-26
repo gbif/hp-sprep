@@ -29,4 +29,4 @@ Ilo torein, jerbal eo imaan tata ilo portal in ej komeleleik:
 
 GBIF- ej Gblobal Biodiersity Information Facility - ej jikin ebok melele eo aolep lalin ej kile im ej ejaaki ak funded jen kien ko otemjej an lal ko kajojo nan jiban letok letak melele nan aolep armij im jen aolep lal.
 
-Nan melele ko relablok, etal nan:  https://www.gbif.org/what-is-gbif
+Nan melele ko relablok, etal nan:  [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
