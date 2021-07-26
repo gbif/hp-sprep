@@ -1,7 +1,7 @@
 ---
 klass: "about"
 layout: compose
-lang-ref: 
+lang-ref: how_to
 title: How to
 description:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20180804_121351_543.jpg?itok=kvkkIg5F
