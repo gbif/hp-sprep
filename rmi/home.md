@@ -13,7 +13,7 @@ cta:
   - text: Bok melele
     href: /melele
     isPrimary: true
-permalink: /
+permalink: /rmi/
 composition:
   - type: heroImage # the block type
   - type: stats
