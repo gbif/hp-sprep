@@ -32,8 +32,8 @@ fij:
 fre:
   label: Français
   icon: #
-  archive_permalink: /fre/Actualités
+  archive_permalink: /fre/actualités
 rmi:
   label: Marshallese
   icon: #
-  archive_permalink: /rmi.nuuj
+  archive_permalink: /rmi/nuuj
