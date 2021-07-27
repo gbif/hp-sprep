@@ -1,5 +1,6 @@
 ---
 klass: "about"
+lang-ref: privacy
 title: Privacy policy
 description: Privacy policy
 permalink: /sb/privacy
