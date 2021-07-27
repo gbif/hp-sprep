@@ -33,4 +33,4 @@ columns:
   #    href: http://example2.com
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
 other: |
-  [Privacy policy](/privacy)
+  [Privacy policy](/nu/privacy)
