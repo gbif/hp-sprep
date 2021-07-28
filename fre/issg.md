@@ -2,7 +2,7 @@
 klass: "about"
 layout: compose
 lang-ref: issg
-title: Groupes de spécialistes des espèces invasives Checklists
+title: Groupe de spécialistes des espèces envahissantes Checklists
 description: L’Invasive Species Specialist Group (ISSG) de la CSE (Commission pour la sauvegarde des espèces) crée par l’Union internationale pour la conservation de la nature (UICN) est un réseau mondial de scientifiques et d’experts spécialisés dans les espèces invasives.
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 imageLicense: 
