@@ -50,7 +50,7 @@ composition:
 | [Registre mondial des espèces introduites et envahissantes - Îles Salomon](https://www.gbif.org/fr/dataset/27b457b5-198a-4d84-b1a8-d4c5b3f0ce2f) | [Cliquez ici](https://cloud.gbif.org/griis/archive.do?r=solomon_islands_griis) |
 | [Registre mondial des espèces introduites et envahissantes - Tokelau](https://www.gbif.org/fr/dataset/b2e5f15d-44e2-480d-b68c-c6d0627288f2) | [Cliquez ici](https://cloud.gbif.org/griis/archive.do?r=griis-tokelau) |
 | [Registre mondial des espèces introduites et envahissantes - Tonga](https://www.gbif.org/fr/dataset/828f8713-6462-465c-b35f-25e4800e3881) | [Cliquez ici](https://cloud.gbif.org/griis/archive.do?r=tonga_griis_gbif) |
-| [GRegistre mondial des espèces introduites et envahissantes - Tuvalu](https://www.gbif.org/fr/dataset/9df5cb8b-c433-47b3-b077-d6f09c0c7aaa) | [Cliquez ici](https://cloud.gbif.org/griis/archive.do?r=griis-tuvalu) |
+| [Registre mondial des espèces introduites et envahissantes - Tuvalu](https://www.gbif.org/fr/dataset/9df5cb8b-c433-47b3-b077-d6f09c0c7aaa) | [Cliquez ici](https://cloud.gbif.org/griis/archive.do?r=griis-tuvalu) |
 | [Registre mondial des espèces introduites et envahissantes - Vanuatu](https://www.gbif.org/fr/dataset/cec980b2-63d3-4a38-a70a-3af3e6b7e6f5) | [Cliquez ici](https://cloud.gbif.org/griis/archive.do?r=vanuatu-griis-gbif) |
 
 ------
