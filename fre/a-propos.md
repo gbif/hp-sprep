@@ -9,8 +9,6 @@ imageLicense: Photo by Scott
 parallax: true
 height: 75vh
 ---
-# NOUS CONNAITRE
-
 Le portail du Pacific Biodiversity Information Facility présente toutes les données sur la biodiversité actuellement disponibles depuis le Global Biodiversity Information Facility (GBIF) pour les pays et territoires insulaires du Pacifique suivants : Samoa Américaines, Îles Cook, Timor Oriental, Etats Fédérés de Micronésie, Fidji, Polynésie Française, Guam, Hawaï, Kiribati, îles Marshall, Nauru, Nouvelle-Calédonie, Niue, Mariannes du Nord, Palau, Papouasie-Nouvelle-Guinée, Samoa, îles Salomon, Tokelau, Tonga, Tuvalu, Vanuatu et Wallis & Futuna.
 
 Ces portails personnalisables, sont axés sur la région Pacifique et sont hébergés par le secrétariat du GBIF. 
