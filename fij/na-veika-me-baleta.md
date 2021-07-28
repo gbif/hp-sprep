@@ -9,8 +9,6 @@ imageLicense: Photo by Scott
 parallax: true
 height: 75vh
 ---
-# Veika Baleti 
-
 Na Pacific portal e na sokomuna ka katona na vei tukutuku e so me baleta na iYaubula e na Pasifika ka tiko e na GBIF ka ra wili tiko kina na vei matanitu oqo: American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
 
 Nai tukutuku e vakarautaki e na vakatabikdua ga ki na wasewase ena Pasivika ka ra na qarava na GBIF. Era na vakarautaka na kena vakasaqarai nai tukutuku, dikevi, raitayaloyalotaki e na mape ka wili talega kina na kena tabaki me vaka ga na veika e ratou sa qarava rawa tiko na GBIF.org. E dua nai tavi bibi e tiko vei ira ya dua era lewena na GBIF o ya na kena cuqeni ka vakayagataki tiko nai tukutuku me baleta nai Yaubula ka vakarautaka nai soqosoqo me baleti ira na lewena e na vei vanua e ra veiqaravi kina. E sa cakacakataka tale tikoga oqo na GBIF me sotavi na gagadre ni kena vakarawarawataki na nodra vakayagataka na lewenivanua na vei tukutuku vakasokumuni e na mona livaliva. E ratou sa cakacaka tiko qo na GBIF e na kena laurai e so me ra na mai sevuta nai matai ni wasewase ni veiqaravi ka me dua toka na yabaki na nodra veiqaravi.   
