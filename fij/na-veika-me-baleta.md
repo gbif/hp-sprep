@@ -26,5 +26,5 @@ E vica sara na ka oqo e sa qaravi rawa tiko:
 
 GBIF- Global Biodiversity Information Facility- e isoqosqoso ka vakailavotaki mai na vei matanitu e Vuravura me vukea na kena maroroi ka vaka talega kina na kena soli nai tukutuku ki vua e dua (dau ni vakadidike) me baleta na vei ka bula e noda vuravura e na vanua e ra tiko voli kina
 
-Nai kuri ni tukutuku e rawa ni kune e na: [www.gbif.org](https://www.gbif.org/what-is-gbif) 
+Nai kuri ni tukutuku e rawa ni kune e na: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
 
