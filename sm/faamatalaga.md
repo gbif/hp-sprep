@@ -20,3 +20,10 @@ I le taimi nei o loo mafai ona tuuina atu :
 * O le mafai lea ona tuuina atu o auala faigofie mo le faalauiloaina o a latou auaunaga aemaise o le mafai lea ona sui le gagana ( o le faaliliuina e mafai ona tuuina mai e tagatanuu)
 * Tulaga maualuga o le suesueina ma le mauaina mai o tali o faafesili o loo moomia. O faaiuga o le aofia ai 
 
+**O le a lea faalapotopotoga e igoa ile GBIF?**
+
+GBIF poo le Faalapotopotoga o lo'o tuufaatasi faamaumauga punaoa fa'alenatura a le lalolagi.
+
+Asiasi atu i lo latou upegatafailagi mo nisi faamatalaga: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
+
+
