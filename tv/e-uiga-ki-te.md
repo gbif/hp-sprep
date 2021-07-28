@@ -9,8 +9,6 @@ imageLicense: Photo by Scott
 parallax: true
 height: 75vh
 ---
-# E uiga mo matou
-
 The Itulau o te Pasefika ka fakaasi i ei a fakamatalaga mo fuainumela kesekese ki mea-ola kola e maua foki nei i te Fakapotopotoga o te Lalogi tela e onono ki fakamatalaga kesekese mō mea-ola (GBIF) mai fenua mo kogaa fenua o te Pasefika: Amelika Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu mo Wallis & Futuna.
 
 A Itulau fakapitoa konei e kilo fakapitoa eiloa mo atufenua i loto i te vasa Pasefika, kae ka fakateletelegina io me fakagaluegina katoa mai lalo i te Ofisa o te GBIF. A Itulau konaa ka mafai o fakaaogaa mo 'sala a fakamatalaaga ki tulaga o mea-ola, penaa foki a fafanua mo ata. A vaaega i loto i Itulau konaa ka faka'paupau eiloa ki mea e mafai o maua i loto i te GBIF.org, tela e olo tasi io me atafia i ei a fakamatalaaga a te GBIF. A potu kolaa e tausi kae tufa mai i ei a fakamatalaaga mo fuainumela i fenua kolaa e 'kau i te GBIF, se avanoaga taaua 'kii o fakalausa a fakamatalaaga mo fuainumela, a atufenua, fakapotopotoga, mo te vasa Pasefika ki tulaga o mea-ola.  Ona ko te fakatagi ke fakafaigofie aka a te kau atu ki te GBIF, a te ofisa o te GBIF ko faite nei ne ia ne potu i te 'neti moo fakamatalaaga ki tulaga o mea-ola, ke fakafaigofie ki tino kolaa e ma'nako o fakaaoga a fakamatalaga mo fuainumela kesekese ki mea-ola. Tela la a te ofisa o te GBIF ko sala nei ki a laaua kolaa e fiafia o 'kau ki te tofotofooga o potu o fakamatalaaga konei ke mafai o galue tasi mo latou i se leva e 'tusa mo te 1 tausaga.
