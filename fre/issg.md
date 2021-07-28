@@ -30,7 +30,7 @@ composition:
 
 ------
 
-| Liste d’espèces    (*Cliquez sur le nom pour plus d'informations*)  |                        Téléchargement                         |
+| Liste d’espèces    (*Cliquez sur le nom pour plus d'informations*)  |                        Téléchargements                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | [Registre mondial des espèces introduites et envahissantes - Samoa américaines](https://www.gbif.org/fr/dataset/61e1cb71-4e14-4b36-9e4c-72db90c1210a) | [Cliquez ici](https://cloud.gbif.org/griis/archive.do?r=american-samoa_griis_gbif) |
 | [Registre mondial des espèces introduites et envahissantes - Îles Cook](https://www.gbif.org/fr/dataset/85183816-d5ea-460c-81fa-e934ceacae10) | [Cliquez ici](https://cloud.gbif.org/griis/archive.do?r=griis-gbif-cook-islands) |
