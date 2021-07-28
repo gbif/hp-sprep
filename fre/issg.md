@@ -2,8 +2,8 @@
 klass: "about"
 layout: compose
 lang-ref: issg
-title: Groupe de spécialistes des espèces envahissantes Checklists
-description: L’Invasive Species Specialist Group (ISSG) de la CSE (Commission pour la sauvegarde des espèces) crée par l’Union internationale pour la conservation de la nature (UICN) est un réseau mondial de scientifiques et d’experts spécialisés dans les espèces invasives.
+title: Groupes de spécialistes des espèces envahissantes liste d’espèces
+description: Le Groupe de spécialistes des espèces envahissantes ISSG de la Commission de la sauvegarde des espèces de l'Union internationale pour la conservation de la nature est un réseau mondial d'experts scientifiques et politiques sur les espèces envahissantes.
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 imageLicense: 
 parallax: true # OPTION - default is false
@@ -30,7 +30,7 @@ composition:
 
 ------
 
-| Checklist Name   (*Click on the name for more information*)  |                        Download list                         |
+| Liste d’espèces    (*Click on the name for more information*)  |                        Télécharger                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | [Global Register of Introduced and Invasive Species - American Samoa](https://www.gbif.org/fr/dataset/61e1cb71-4e14-4b36-9e4c-72db90c1210a) | [Click here](https://cloud.gbif.org/griis/archive.do?r=american-samoa_griis_gbif) |
 | [Global Register of Introduced and Invasive Species - Cook Islands](https://www.gbif.org/fr/dataset/85183816-d5ea-460c-81fa-e934ceacae10) | [Click here](https://cloud.gbif.org/griis/archive.do?r=griis-gbif-cook-islands) |
