@@ -2,7 +2,7 @@
 klass: "about"
 lang-ref: about
 layout: heroImage
-title: Komlele ko
+title: Komelele ko
 description:
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 background: /assets/images/Scott_Niue.JPG
@@ -10,8 +10,6 @@ imageLicense: Photo by Scott
 parallax: true # OPTION - default is false
 height: 75vh
 ---
-# KOMELELE KO
-
 Portal in ej kwalok aolep melele ko repad ilo Global Biodiversity Information Facility (GBIF) jen aolep ailin ko ilubilijin Pacific in einwot: American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
 
 Jibadbad in kottobar eo an portal in ej pedped ion jonak ko jen aolepen ailin ko ilo Pacific in im ej host jen GBIF Secretariat ilo an provide jikin kabok melele, kwalok map ko, im pija ko rej einwot GBIF.org eo. Aolep ro rej jerbale GBIF network eo elab ijoko koonaer nan komejajaik jerbal in aini aolep melele ko rekkar im jejot litok jen Secretariat eo nan ejaake portal in ilo juon jekjek eo epidodo im eman. Secretariat eo ej bukot ro remonono in jerbal e pilot phase eo iuwim juon iio aetokan.
