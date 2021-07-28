@@ -27,7 +27,7 @@ I te taimi nei, ko na hihitemi kua fakaaoga nei, e maua ai te:
 
 Ko he hokotaga faka lauaitele kite lalolagi i na mea tau fakamaumauga i luga o te neti ma e fakatupe e na Malo o te lalolagi ke fakaavanoa ki ho he tino i ho he koga e mafai ke maua e ia na fakamaumauga ki te hokotaga o na lakau ma na meola ma ho he mea e ola ai i te lalolagi tenei.
 
-E mafai koe ona aahi atu te laupepa tenei ite neti mo ni ie tahi fakamatalaga:[www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)                                       
+E mafai koe ona aahi atu te laupepa tenei ite neti mo ni ie tahi fakamatalaga: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)                                       
 
 
 
