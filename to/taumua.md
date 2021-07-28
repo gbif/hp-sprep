@@ -9,8 +9,6 @@ imageLicense: Photo by Scott
 parallax: true
 height: 75vh
 ---
-# Fekau'aki mo kimautolu 
-
 Ko e Pasifiki Potolo pe koe fakamatala fakaikiiki ni, ‘oku tuku atu ia fekau’aki mo e ngaahi felalave’i ‘oku hoko ki he me’amo’ui he Pasifiki ‘oku ha atu ia he ngaahi fakamatala ‘a e Global Biodiversity Information Facility (GBIF) mei he ngaahi fonua ko ‘eni ‘i he Pasifiki ‘o kau ki ai 'a 'Amelika Samoa, 'Otumotu Kuki, Timoa Hahake, Ngaahi 'Otu motu iiki 'o Maikolonisia ,Fisi, Tahiti, Guam, Hauai’i , Kilipati, 'Otu motu Masolo, Naulu, Niu Kaletonia, Niue, 'Otu motu Maliana, Palau, Papua Niukini, Samoa,'Otu motu Solomone, Tokelau, Tonga, Tuvalu, Vanuatu pea mo Wallis mo Futuna.
 
 Ko e fakamatala fakaikiiki ni 'oku ‘osi fakataumu'a pe ia ki he ngaahi levolo fakavahefonua pea 'oku fakapa'anga kakato pe ia mei he ngaue 'a e GBIF. 'Oku nau tuku mai 'a e ngaahi fakamatala mahu'inga mo lelei 'aupito tautau tefito ki he ngaahi fekumi ma’u mei ai ha fakamatala , ko e fekumi , ko e vakai ki ha mape ‘o ha feitu’u pea pehe ki hono tanaki ha ngaahi 'ata 'o tatau pe ki he taumu'a ngaue 'a e GBIF, pea mo e ola 'o e fekumi ki ha fakamatala 'oku ‘osi ma'u ‘i he GBIF.
