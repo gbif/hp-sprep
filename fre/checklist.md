@@ -5,7 +5,7 @@ lang-ref: Checklists
 title: Liste d’espèces
 description: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Still%201.jpg?itok=ZtVOFLw2
-imageLicense: Oceanic whitetip shark and pilot fish, Central Pacific Ocean. © naturepl.com/Doug Perrine/WWF
+imageLicense: Requin à pointe blanche océanique et poisson-pilote, océan Pacifique central. © naturepl.com/Doug Perrine/WWF
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
 height: 85vh
