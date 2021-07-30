@@ -3,7 +3,7 @@ klass: "about"
 lang-ref: home
 layout: home
 title: PBIF
-description: Pacific Biodiversity Information Facility portal to present all of the Pacific occurrence biodiversity data available on GBIF.
+description: The Pacific Biodiversity Information Facility portal presents all of the occurrence biodiversity data currently available on the Global Biodiversity Information Facility (GBIF).
 background: assets/images/Niue-Project-Banner.png
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 imageLicense: Photo by Huggard Tongatule
