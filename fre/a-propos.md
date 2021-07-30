@@ -5,7 +5,7 @@ layout: heroImage
 title: À propos
 description: 
 background: /assets/images/Scott_Niue.JPG
-imageLicense: Photo by Scott
+imageLicense: Photo par Scott
 parallax: true
 height: 75vh
 ---
