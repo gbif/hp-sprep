@@ -2,7 +2,7 @@
 klass: "about"
 layout: compose
 lang-ref: Checklists
-title: Checklists
+title: Lisi o manu ma laau i le Pasefika
 description: 
 background: https://www.sprep.org/sites/default/files/styles/imagesize_570_340_/public/images/news/jeremiah-del-mar-cndYGSgEQ2E-unsplash.jpg?itok=oGkMxuQk
 imageLicense: 
