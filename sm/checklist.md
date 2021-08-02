@@ -26,11 +26,11 @@ composition:
 #  data: example.compose.overlay.text
 ---
 
-## Checklists
+## Lisi o manu ma laau i le Pasefika
 
 ------
 
-| Checklist Name                                               |                        Download list                         |
+| Igoa o lisi o manu ma laau i le Pasefika                                               |                        Download list                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | [Benthic foraminifera of Laucala Bay, Suva, Fiji](https://www.gbif.org/dataset/c9099bac-616c-44bf-8319-0b9b1f589121) | [Click here](https://ipt.sprep.org/archive.do?r=sharma_foram) |
 | [Checklist of the Vanuatu National Herbarium (PVNH)](https://www.gbif.org/dataset/7214d7ff-b8a4-4d70-b9b5-98420a63ff09) | [Click here](https://ipt.gbif.fr/archive.do?r=pvnh_checklist) |
