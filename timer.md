@@ -2,7 +2,7 @@
 klass: "about"
 layout: default
 title: Timer
-permalink: /timer
+permalink: 
 description:
 ---
 
