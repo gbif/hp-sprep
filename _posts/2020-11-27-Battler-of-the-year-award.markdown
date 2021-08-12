@@ -8,8 +8,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20150916_101333_b.jpg?itok=WiXD6fs3/600x300
 preTitle: November 27th 2020
 ---
-*by Leanne Moananu.*
-
 Mr Huggard Tongatule of Niue is the recipient of the 2020 Pacific Invasive Species Battler of the Year award. 
 
 Mr Tongatule’s award was announced during the Launch of the Pacific Battler Lounge side event for the 10th Pacific Island Conference on Nature Conservation and Protected Areas, by the Secretariat of the Pacific Regional Environment Programme’s (SPREP) Invasive Species Adviser, Mr David Moverley. 
