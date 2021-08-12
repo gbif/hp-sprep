@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SOEC%20cover.png?itok=e0R_bpmx
 preTitle: December 23rd 2020
 ---
-*by Christina Reed.*
-
 Of all the factors considered in an extensive analysis on the state of the environment and conservation in the Pacific Islands, released recently during the 10th Pacific Islands Conference for Nature Conservation and Protected Areas, the reduction of ozone depleting substances has received the only triple gold crown. It is the only indicator with all three criteria coming in at the top: the status is good, the trend is improving, and managers have a high confidence in the data. Coming in second place with a good status report, high confidence in the data, but showing a trend that is for now only stable, are commercial pelagic fishes.
 
 >“Both of these positive trends have come about as a result of significant government regulations and adherence to the law, combined with actions by individuals and local community members, showcasing the importance of scientific data in demonstrating the need for regulations as well as the comprehension of that data for taking action,” said Mr. Kosi Latu, Director General of the Secretariat of the Pacific Regional Environment Programme (SPREP). “Ozone depletion has benefited from a strong international agreement and financial support, as well as extensive innovation in industries such as refrigeration. Fisheries have benefitted from strong regional coordination and a willingness to pressure distant water fishing nations to comply with regional regulations.”
