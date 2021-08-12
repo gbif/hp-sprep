@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/DSC_0333.JPG?itok=SffmTeEk
 preTitle: December 1st 2020
 ---
-*by Leanne Moananu.*
-
 Bold, urgent action to protect our biodiversity is being called for in a Pacific declaration to tackle the global biodiversity crisis.
 
 The Vemööre Declaration: Commitments to nature conservation action in the Pacific Islands region, 2021-2025 was endorsed at the 10th Pacific Islands Conference on Nature Conservation and Protected Areas this week.
