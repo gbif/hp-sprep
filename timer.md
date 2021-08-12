@@ -1,5 +1,6 @@
 ---
 klass: "about"
+layout: default
 title: Timer
 ---
 
