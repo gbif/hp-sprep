@@ -1,4 +1,4 @@
-$navbar-breakpoint: 1600px;
+$navbar-breakpoint: 1700px;
 @import "theme/_main";
 //You can add additional styling 
 
@@ -11,9 +11,9 @@ $navbar-breakpoint: 1600px;
     background-size: cover;
     background-image: linear-gradient(90deg, rgba(54,199,152,0.9) 0%, rgba(0,12,100,0.9) 100%);
   }
-  // .navbar-menu {
-  //   opacity: 0.98;// then we can control the opacity for the dropdown alone
-  // }
+  .navbar-menu {
+    opacity: 0.90;// then we can control the opacity for the dropdown alone
+  }
 }
 
 @media screen and (min-width: $navbar-breakpoint) {
@@ -27,7 +27,6 @@ $navbar-breakpoint: 1600px;
     }
   }
 }
-
 
 .footer {
   background: url('/assets/images/PBIF-Footer.png');
