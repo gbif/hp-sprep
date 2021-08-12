@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 preTitle: March 9th 2021
 ---
-*by Leanne Moananu.*
-
 A second virtual informal session was held from 24 – 26 February giving the opportunity for participants interested in the 24th meeting of the Subsidiary Body on Scientific, Technical and Technological Advice (SBSTTA 24) of the UN Convention on Biological Diversity (CBD) scheduled for later this year to meet again to discuss key agenda items for the development of the Post-2020 Global Biodiversity Framework. The first informal session was held the week prior.
 
 No negotiations or decisions could be taken during both informal sessions. Instead, it was an opportunity for Parties and observers to discuss important agenda items and concerns regarding the framework, which will be further reviewed for adoption at the 15th meeting of the Conference of the Parties (COP-15) of the CBD.
