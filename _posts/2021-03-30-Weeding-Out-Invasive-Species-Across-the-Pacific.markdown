@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Capture_6.PNG?itok=xp2FpWCS
 preTitle: March 30th 2021
 ---
-*by Leanne Moananu.*<br>
-
 Controlling invasive plants using natural enemies is a technique that has been used to manage weeds worldwide for over 100 years. Known as biological control, this was the topic of a five-day virtual training held for Pacific Island countries, with many now interested in making greater use of this method.
 
 Invasive species are the leading driver of biodiversity loss in the Pacific, negatively impacting on ecosystem resilience, ecosystem services, human health and the ability to adapt to climate change. Invasive weeds pose a threat to Pacific economies and ecosystems — be they the African tulip tree, Singapore daisy, lantana, or merremia vine.  
