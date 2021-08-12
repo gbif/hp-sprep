@@ -2,7 +2,7 @@
 klass: "about"
 lang-ref: home
 layout: home
-title: PBIF
+title: Pacific Biodiversity Information Facility
 description: Portal in ej nan kwalok aolep melele ko kin men ko bwinid ilo aelon jidik kein ad ilo Pacific in.
 background: /assets/images/Niue-Project-Banner.png
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
