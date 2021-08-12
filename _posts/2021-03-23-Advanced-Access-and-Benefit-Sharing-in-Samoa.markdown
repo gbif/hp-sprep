@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Tuilaepa%20ABS%20Launch.JPG?itok=BSM8QW8q
 preTitle: March 23rd 2021
 ---
-*by Angelica Salele-Sefo.*
-
 Showing Pacific leadership, Samoa has made significant progress on how their genetic resources may be accessed. The island nation has advanced how both providers and users agree on the fair and equitable sharing of benefits that may arise from their use.
 
 Faleaseela and Aopo villages in Samoa now have protocols in place to guide how they apply Access and Benefit-Sharing (ABS).  These are one of four achievements made since Samoa became Party to  the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity.  This month Samoa launched four key achievements commemorating the work to advance the Nagoya Protocol: Guideline for Access and Use of Traditional Knowledge Associated with Genetic Resources; Biocultural Community Protocols for Faleaseela and Aopo; Bio-discovery Analysis Report; and the Access and Benefit Sharing Database.  The Guidelines, and the Biocultural Community Protocols for Faleaseela and Aopo are available in both Samoan and English.
