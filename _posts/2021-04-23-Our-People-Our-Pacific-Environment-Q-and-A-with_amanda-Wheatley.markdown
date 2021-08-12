@@ -8,8 +8,6 @@ background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400
 height: 50vh
 preTitle: April 23rd 2021
 ---
-*by Nanette Woontoon.*
-
 *Shining our spotlight on our Pacific People that work for our Pacific environment is this Q and A series from your Secretariat of the Pacific Regional Environment Programme (SPREP).* 
 
 This week we introduce you to Ms Amanda Wheatley, the Biodiversity Adviser of SPREP, based within the Island and Ocean Ecosystems.  Amanda is no stranger to our Pacific islands, she was the former Biodiversity Officer at SPREP, yet many years before that she was also a Volunteer based in Samoa’s Ministry of Natural Resources and Environment as part of the Australian Volunteers Program.
