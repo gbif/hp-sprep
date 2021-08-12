@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/176385757_508867813457046_1042907094669697665_n.jpg?itok=301V9bDW
 preTitle: April 21st 2021
 ---
-*by Angelica Salele-Sefo.*<br>
-
 “Restore Our Earth” is the theme for this year’s Earth Day observed annually on 22 April. This year’s theme focuses on restoring the world’s ecosystems through natural processes, emerging green technologies and innovative thinking.
 
 After a year of living the reality of the COVID-19 pandemic, all around the world people and communities have adapted to our new reality with limited or strict travel bans and a restrictive lifestyle. As a result, our relationship with the environment has also changed. 
