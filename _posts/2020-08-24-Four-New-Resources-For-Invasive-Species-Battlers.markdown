@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Battler%20Series_New%20Pubs.jpg?itok=uLLJpz23/600x300
 preTitle: August 24th 2020
 ---
-*by Angelica Salele-Sefo.*
-
 Four new publications have been added to the ‘Pacific Invasive Battler Series,’ and are now available for free download from the Secretariat of the Pacific Regional Environment Programme (SPREP), to help Pacific practitioners, environmental managers, government and community members in specific areas of invasive species management.
 
 Developed through the [Pacific Regional Invasive Species Management Support Service (PRISMSS)](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss), the Battler Series is an important resource for those working to restore ecosystems and manage invasive species. It provides tested best practice approaches through step by step guidance, case studies and visual aid for those battling invasive species. 
