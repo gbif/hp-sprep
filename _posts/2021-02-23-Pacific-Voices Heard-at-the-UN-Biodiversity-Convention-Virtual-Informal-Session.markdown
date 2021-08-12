@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Marine%20Protected%20Area%2C%20Chelbacheb%2C%20Palau_Stuart%20Chape_0.jpg?itok=QVBkqPKx
 preTitle: February 23rd 2021
 ---
-*by Angelica Salele-Sefo.*
-
 A virtual informal session provided 2000 pre-registered participants the opportunity to exchange opinions on key items for the formal 24th meeting of the Subsidiary Body on Scientific, Technical and Technological Advice (SBSTTA 24) UN Convention on Biological Diversity (CBD) scheduled for later this year.
 
 The informal meeting was an opportunity for Parties to discuss key agenda items for developing the Post-2020 Global Biodiversity Framework, which will be further reviewed for adoption at the 15th meeting of the Conference of the Parties (COP-15) of the CBD.
