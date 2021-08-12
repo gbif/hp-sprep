@@ -1,6 +1,6 @@
 ---
 klass: "about"
-layout: default
+layout: home
 title: Timer
 ---
 
