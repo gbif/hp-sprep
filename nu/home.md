@@ -2,7 +2,7 @@
 klass: "about"
 lang-ref: home
 layout: home
-title: PBIF
+title: Pacific Biodiversity Information Facility
 description: Ko e potaaga he tau talahauaga he tau mena momoui oti he lalolagi.Fakamahao ke he Atu Pasifika.
 background: /assets/images/Niue-Project-Banner.png
 imageLicense: Photo by Huggard Tongatule
