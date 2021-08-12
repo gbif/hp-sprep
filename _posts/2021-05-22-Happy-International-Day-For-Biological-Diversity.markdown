@@ -8,8 +8,6 @@ background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400
 imageLicense: Photo by D.McFadzien
 preTitle: May 22nd 2021
 ---
-*by Nanette Woontoon.*
-
 ‘***We are part of the solution’\*** is the theme for this year’s International Day for Biological Diversity (IDB) celebrated on 22 May each year. The special day serves to remind us that our biodiversity is the foundation upon which we can always build back better. 
 
 We are part of the solution.
