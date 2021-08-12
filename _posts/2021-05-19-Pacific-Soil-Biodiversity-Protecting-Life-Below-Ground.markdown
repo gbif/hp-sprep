@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Soils%20photo.jpg?itok=_zZilH8f
 preTitle: May 19th 2021
 ---
-*by Angelica Salele-Sefo.*
-
 Our Pacific voice is being heard in the global conversation to shape the future of our soil biodiversity. Pacific island agriculture and biodiversity government representatives came together in this collaborative topic which cuts across both the environment and agriculture sectors.
 
 This issue is just one that is on the table for discussion as the world gears towards a new global framework to halt biodiversity loss under the Convention of Biological Diversity (CBD).
