@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Health%20%26%20Safety%20Day%202.JPG?itok=IMrX7Dxm
 preTitle: April 28th 2021
 ---
-*by Angelica Salele-Sefo.*
-
 A new, innovative approach to managing health and safety when dealing with invasive species is being commemorated this World Day for Safety and Health at Work.
 
 Through the Global Environment Facility 6 Regional Invasive Species Project ([GEF6 RIP](https://www.sprep.org/gef6-rip)) - ‘Strengthening national and regional capacities to reduce the impact of Invasive Alien Species on globally significant biodiversity in the Pacific,’ the Secretariat of the Pacific Regional Environment Programme is promoting safety first, in this field.
