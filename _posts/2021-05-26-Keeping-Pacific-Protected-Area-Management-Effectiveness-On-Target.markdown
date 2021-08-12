@@ -8,8 +8,6 @@ background: assets/images/Mitiaro_Cook_Islands_Credit_Hayley_Weeks.jpg
 imageLicense: Mitiaro, Cook Islands Photo by Hayley Weeks
 preTitle: May 26th 2021
 ---
-*by Angelica Salele-Sefo.*
-
 Since 2010 protected areas covering almost 21 million square km have been added to the global network, and within the Pacific islands region, approximately 20 percent of the total marine area is currently protected, indicating good progress for marine protection. However, the figure is lower for terrestrial protection, with only about 6 percent of the total land area currently protected. This indicates the need to scale up efforts at increasing the percentage of terrestrial coverage for the region.
 
 Measuring how well these Protected and Conserved Areas are being managed against their agreed goals and objectives is an important undertaking accomplished through the use of Protected Area Management Effectiveness (PAME) evaluation tools.
