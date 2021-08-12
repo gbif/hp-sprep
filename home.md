@@ -9,6 +9,7 @@ background: assets/images/Niue-Project-Banner.jpg
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 75vh
+permalink: /
 ---
 
 <iframe src="https://www.powr.io/countdown-timer/u/d972089e_1620942720#platform=iframe" style="width:100%;" height="200px" frameborder="0"></iframe>
