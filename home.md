@@ -1,6 +1,6 @@
 ---
 klass: "about"
-lang-ref: home
+lang-ref: 
 layout: home
 title: Pacific Biodiversity Information Facility
 description: The Pacific Biodiversity Information Facility portal presents all of the occurrence biodiversity data currently available on the Global Biodiversity Information Facility (GBIF).
