@@ -9,9 +9,6 @@ imageLicense:
 preTitle: June 18th 2021
 
 ---
-
-*by Angelica Salele-Sefo.*
-
 *A Pacific Invasive Species Feature from the Pacific Regional Invasive Species Management Support Service (PRISMSS).*
 
 Pacific island partners have stepped up to meet the Honolulu Challenge for bold action on invasive alien species since it was launched at the World Conservation Congress in 2016 in Hawaii.
