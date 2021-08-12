@@ -1,5 +1,4 @@
 ---
----
 klass: "about"
 lang-ref: home
 layout: home
