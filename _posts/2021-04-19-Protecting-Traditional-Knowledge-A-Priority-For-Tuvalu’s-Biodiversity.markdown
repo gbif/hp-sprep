@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/PACC%20-%20Tuvalu.JPG?itok=kbPOmo47
 preTitle: April 19th 2021
 ---
-*by Angelica Salele-Sefo.*
-
 Protecting the traditional knowledge associated with biological resources will pave the way for Tuvalu as it rolls out its Access and Benefit-Sharing (ABS) system under the Nagoya Protocol.
 
 The Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (“the Nagoya Protocol) was adopted ten years ago by the Conference of the Parties to the Convention on Biological Diversity at its tenth meeting in Nagoya, Japan.
