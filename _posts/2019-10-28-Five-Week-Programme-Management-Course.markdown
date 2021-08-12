@@ -7,8 +7,6 @@ lang-ref:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/PRISMSS%20Group%20pic.JPG?itok=2g-7iWwt
 preTitle: October 28th 2019
 ---
-*by Leanne Moananu.*
-
 Invasive species coordinators and practitioners from around the Pacific have gathered at the Secretariat of the Pacific Regional Environment Programme (SPREP) in Apia, Samoa for a five-week Invasive Species Programme Management Course.
 
 The course was organised and is being run by the Pacific Regional Invasive Species Management Support Service (PRISMSS), a regional mechanism which facilitates the scaling-up of on-the-ground invasive species management in the Pacific.
