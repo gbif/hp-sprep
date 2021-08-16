@@ -27,7 +27,7 @@ composition:
 ---
 
 ## How do I use GBIF to find data?
-<br>The site [www.pbif.sprep.org](https://www.pbif.sprep.org) contains over six million records of species, specimens, observations, and samples for the Pacific. 
+<br>The site [https://pbif.sprep.org](https://pbif.sprep.org) contains over six million records of species, specimens, observations, and samples for the Pacific. 
 Each record will have information about how to download and cite the data. Try exploring the site!
 Start by searching from the homepage or clicking on “Data” in the top panel. You can look for
 occurrence data, search by species, look for whole datasets, and more.
