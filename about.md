@@ -10,16 +10,16 @@ imageLicense: Photo by Scott
 parallax: true # OPTION - default is false
 height: 75vh
 ---
-The Pacific Biodiversity Information Facility portal presents all of the Pacific biodiversity data currently available on the Global Biodiversity Information Facility (GBIF) from the following Pacific Island Countries and territories: American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu, and Wallis & Futuna.
-PBIF  is focused on the Pacific region and is hosted by the GBIF Secretariat. 
+The Pacific Biodiversity Information Facility portal presents all of the biodiversity data currently available on the Global Biodiversity Information Facility (GBIF) from the following Pacific Island Countries and territories: American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu, and Wallis & Futuna.
+PBIF is focused on the Pacific region and is hosted by the GBIF Secretariat. 
 
-**What the hosted portal can offer?**
+**What the hosted portal offer?**
 
 Currently, PBIF   offers:
-*	Advanced occurrence data search, browse, map visualization and image gallery capabilities similar to that of GBIF.org 
+*	Advanced data search, browse, map visualization and image gallery capabilities similar to that of GBIF.org 
 *	Search results are scoped to include a relevant defined subset of GBIF-mediated data (e.g. all data mobilized by a thematic network, or published by organizations within a country). Only public data published and indexed in GBIF will be available for search and to the same data quality control and taxonomic backbone as GBIF.org.
 *	A redirect from search results, sending users to GBIF.org for data downloads, ensuring that the downloads receive GBIF’s citable unique identifiers (DOIs) linking back to the datasets included.
-* A place for GBIF nodes and data mobilization partners to describe themselves, their team or network, and activities (editable narrative text). PBIF is available in more than eight languages. 
+* A place for GBIF nodes and data mobilization partners to describe themselves, their team or network, and activities (editable narrative text). PBIF is available in more than eight languages.  
 
 **What is GBIF?**
 
