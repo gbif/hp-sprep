@@ -10,6 +10,21 @@ columns:
     - text: Matapatu Ofisa he Matakau ne Gahua ma e tau Takatakai Motu he tau Atu Motu he Pasifika
       href: https://www.sprep.org/
 
+  - name: David Moverley
+    description: | # Can be Markdown
+      * [Head of Delegation](https://www.gbif.org/contact-us/directory?personId=3960)
+      * [Secretariat of the Pacific Regional Environment Programme (SPREP)](https://www.sprep.org/)
+      * Email: [davidm@sprep.org](davidm@sprep.org)
+  - name: Ainsof So'o
+    description: | # Can be Markdown
+      * [Node Manager](https://www.gbif.org/contact-us/directory?personId=3961)
+      * [Secretariat of the Pacific Regional Environment Programme (SPREP)](https://www.sprep.org/)
+      * Email: [gbifnodemanage@sprep.org](gbifnodemanage@sprep.org)
+  - name: Bradley Myer
+    description: | # Can be Markdown
+      * [Project Manager](https://www.sprep.org/our-team)
+      * [Secretariat of the Pacific Regional Environment Programme (SPREP)](https://www.sprep.org/)
+      * Email: [bradleym@sprep.org](bradleym@sprep.org)
  # - name: Code
  #   description: | # Can be Markdown
  #     This project is open source. See `_data/footer.yml` to customize the footer.
