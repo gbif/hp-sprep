@@ -30,7 +30,8 @@ columns:
       * [Project Manager](https://www.sprep.org/our-team)
       * [Secretariat of the Pacific Regional Environment Programme (SPREP)](https://www.sprep.org/)
       * Email: [bradleym@sprep.org](bradleym@sprep.org)
-    #connectIcons: true
+    
+    connectIcons: true
        #Social icons links defined in `_config.yml`
    #* 1234 postal code
 
