@@ -31,8 +31,8 @@ columns:
       * [Secretariat of the Pacific Regional Environment Programme (SPREP)](https://www.sprep.org/)
       * Email: [bradleym@sprep.org](bradleym@sprep.org)
     
-    connectIcons: true
-       #Social icons links defined in `_config.yml`
+    #connectIcons: true
+   #Social icons links defined in `_config.yml`
    #* 1234 postal code
 
   # EXAMPLE
