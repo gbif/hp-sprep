@@ -24,6 +24,6 @@ I le taimi nei o loo mafai ona tuuina atu :
 
 GBIF poo le Faalapotopotoga o lo'o tuufaatasi faamaumauga punaoa fa'alenatura a le lalolagi. O se faalapotpotoga mo fesoʻotaʻiga faʻavaomalo ma faʻamatalaga e faʻatupeina e malo o le lalolagi mo le faʻamoemoe e tuʻuina atu i soʻo se tasi, i soʻo se mea ma ia avanoa i tagata lautele faaamaumauga, e faatatau i soʻo se ituaiga manu ma laau i le Lalolagi.
 
-Asiasi atu i lo latou upegatafailagi mo nisi faamatalaga: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
+Asiasi atu i le upegatafailagi mo nisi faamatalaga: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
 
 
