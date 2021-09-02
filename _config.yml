@@ -169,6 +169,6 @@ defaults:
     values:
       layout: "post"
       lang: sm
-      permalink: "/post/sm/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      permalink: "/posts/sm/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
 
 
