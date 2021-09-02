@@ -59,7 +59,7 @@ siteMeasurements:
   termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
 algae:
-  #rootLang: en
+  rootLang: en
   latestPostLimit: 2
   logo: /assets/images/SPREP-PROE-wide-acronyms-white.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true           # include the title next to the logo
