@@ -5,7 +5,7 @@ en:
 sm:
   label: Samoan
   icon: #
-  archive_permalink: /posts/sm/
+  archive_permalink: /sm/talafou
 nu:
   label: Niuean
   icon: #
@@ -33,7 +33,7 @@ fij:
 fre:
   label: Français
   icon: #
-  archive_permalink: /posts/fre/
+  archive_permalink: /fre/actualités
 rmi:
   label: Marshallese
   icon: #
