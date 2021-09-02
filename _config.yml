@@ -108,8 +108,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
-      lang: en
-      
+      lang: en 
   - # Samoan
     scope:
       path: "sm/"
@@ -170,5 +169,12 @@ defaults:
       layout: "post"
       lang: sm
       permalink: "/posts/sm/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-
+  -
+    scope:
+      path: "_posts/" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: fre
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
 
