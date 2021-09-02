@@ -50,7 +50,7 @@ privacy:
   name: Pacific Biodiversity Information Facility (PBIF)
   domain: pbif.sprep.org
   contactEmail: davidm@sprep.org
-  helpdeskEmail: waynea@sprep.org
+  helpdeskEmail: gbifnodemanager@sprep.org
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
