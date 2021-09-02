@@ -1,9 +1,12 @@
 ---
+klass: "newspost"
 title:  "Early Warning System For New Invasive Species Launched Using INaturalist!"
 date:   2021-08-27 14:00:12 +1300
 categories: invasive
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Coconut_Rhinoceros_Beetle_SPREP.jpg?itok=UGH4BTll
+imageLicense:
+preTitle: August 27th 2021
 ---
 A new project calling upon everyone to participate in ‘early warning systems’ for invasive species in the Pacific islands was launched today.
 
