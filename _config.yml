@@ -48,7 +48,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 # for usage in the standard privacy layout
 privacy:
   name: Pacific Biodiversity Information Facility (PBIF)
-  domain: pbif.sprep.org
+  domain: https://pbif.sprep.org
   contactEmail: davidm@sprep.org
   helpdeskEmail: gbifnodemanager@sprep.org
 
