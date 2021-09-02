@@ -156,13 +156,6 @@ defaults:
       lang: rmi
   -
     scope:
-      path: "_posts" # an empty string here means all files in the project
-    values:
-      layout: "post"
-      lang: [fij,nu,to,tk,tv,sb,rmi]
-      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-  -
-    scope:
       path: "_posts/en" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -184,4 +177,60 @@ defaults:
     values:
       layout: "post"
       lang: fre
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fre" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: fij
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fre" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: nu
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fre" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: to
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fre" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: tk
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fre" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: tv
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fre" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: sb
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fre" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: rmi
       permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
