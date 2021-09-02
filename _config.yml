@@ -159,8 +159,16 @@ defaults:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
-      lang: [en,fij,fre,nu,to,tk,tv,sb,rmi]
+      lang: [en,fij,nu,to,tk,tv,sb,rmi]
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/en" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: en
+      permalink: "/posts/en/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   -
     scope:
       path: "_posts/sm" # an empty string here means all files in the project
@@ -171,10 +179,9 @@ defaults:
       permalink: "/posts/sm/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   -
     scope:
-      path: "_posts/" # an empty string here means all files in the project
+      path: "_posts/fre" # an empty string here means all files in the project
       type: "posts"
     values:
       layout: "post"
       lang: fre
       permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-
