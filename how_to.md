@@ -24,10 +24,12 @@ composition:
 #  data: example.compose.overlay.heroHeadlineB
 #- type: markdown
 #  data: example.compose.overlay.text
+
 ---
 
-## How do I use GBIF to find data?
-<br>The site [https://pbif.sprep.org](https://pbif.sprep.org/) contains over six million records of species, specimens, observations, and samples for the Pacific. 
+## How do I use PBIF portal to find data?
+
+<br>The site [pbif.sprep.org](https://pbif.sprep.org/) contains over six million records of species, specimens, observations, and samples for the Pacific. 
 Each record will have information about how to download and cite the data. Try exploring the site!
 Start by searching from the homepage or clicking on “Data” in the top panel. You can look for
 occurrence data, search by species, look for whole datasets, and more.
@@ -81,10 +83,12 @@ You can also choose to search “table” (occurrences, species, whole datasets,
 ![Image of How-to-1](/assets/images/How-to/9.png)
 
 ## How do I publish data on GBIF?
+
 First, you must register your organisation to GBIF, indicating that you’ll be using the SPREP
 Integrated Publishing Tool (see below). After you have registered as a data publisher, you can
 follow this step-by-step process to publish data on GBIF:
 <br>
+
 1. Enter metadata for your dataset on the SPREP IPT.
 2. Have your source dataset Darwin Core ready (see below: “How do I prepare data for publishing”).
 3. Upload dataset to the IPT.
@@ -94,9 +98,10 @@ follow this step-by-step process to publish data on GBIF:
 7. Register the dataset with GBIF (first time-only).
 8. Receive feedback from GBIF and users.
 9. Update your source data.
-10.Repeat from step 4. Note that the responsibility for maintaining datasets falls on the data publisher.
+   10.Repeat from step 4. Note that the responsibility for maintaining datasets falls on the data publisher.
 
 ### What if my data were published by another institution?
+
 Datasets have unique Identifiers. If the dataset you want to share is already on GBIF,
 it is recommended that you don’t re-publish because GBIF will identify the dataset as
 redundant. A better solution, as a publisher, would be to link to that data already uploaded
@@ -106,6 +111,7 @@ defined in the metadata, they are just the one who did the work to publish it th
 If another institution has already done that for you, go ahead and use it as an asset!
 
 ## Pathways to data publishing
+
 How do you decide what to publish? First, consider the type of species data that you most need and use. 
 Sharing that data can help provide you a stable, recorded copy, and those data are also likely to be
 useful to others.
@@ -127,6 +133,7 @@ You can decide whether it is occurrence data, checklist data, or sample event da
 types requires different amounts and details of data. For more information, see [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/) and [www.gbif.org/data-quality-requirements](www.gbif.org/data-quality-requirements).
 
 ## How do I register as a data publisher on GBIF?
+
 The first step to sharing data with GBIF is to register, identifying your organisation as one that has
 quality data to share. Once you are registered, you can publish as many datasets as you like.
 The GBIF requirement for registration is that you have access to a node – in the Pacific islands,
@@ -192,11 +199,13 @@ and strengthen GBIF-related activities.
 Maybe a global unique identifier or an identifier specific to the data set.
 
 ## For More Information
+
 ### Websites
 
 |                             |                                                              |                                                         |
 | :-------------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
 | GBIF Homepage               | [www.gbif.org](https://www.gbif.org)                         | Access, explore and publish biodiversity data           |
+| PBIF Homepage               | http://pbif.sprep.org                                        | Access and explore Pacific biodiversity data            |
 | IPT User Manual             | [https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki) | How-to guide to using Integrated Publishing Toolkit     |
 | Darwin Core Quick Reference | [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/) | Web page with definitions for Drawing Core terms        |
 | Copyrights for Data         | [http://vertnet.org/resources/dataliceningguide.html](http://vertnet.org/resources/dataliceningguide.html) | Description of the choice of license for published data |
