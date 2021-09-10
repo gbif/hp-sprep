@@ -4,27 +4,27 @@ en:
   #archive_permalink: /news/
 sm:
   label: Samoan
-  icon: #
+  icon: 🇼🇸
   archive_permalink: /sm/talafou
 nu:
   label: Niuean
-  icon: #
+  icon: 🇳🇺
   archive_permalink: /nu/news
 to:
   label: Tongan
   archive_permalink: /to/ko-e-ongoongo
-  icon: #
+  icon: 🇹🇴
 tk:
   label: Tokelaun
-  icon: #
+  icon: 🇹🇰
   archive_permalink: /tk/talafou
 tv:
   label: Tuvaluan
-  icon: #
+  icon: 🇹🇻
   archive_permalink: /tv/tala
 sb:
   label: Solomon Islands
-  icon: #
+  icon: 🇸🇧
   archive_permalink: /sb/nius
 fij:
   label: Fijian
@@ -36,5 +36,5 @@ fre:
   archive_permalink: /fre/actualités
 rmi:
   label: Marshallese
-  icon: #
+  icon: 🇲🇭
   archive_permalink: /rmi/nuuj
