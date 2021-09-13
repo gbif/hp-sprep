@@ -3,7 +3,7 @@ klass: "about"
 layout: compose
 lang-ref: issg
 title: Invasive Species Specialist Group Checklists
-description: The Invasive Species Specialist Group ISSG of the Species Survival Commission of the International Union for Conservation of Nature is a global network of scientific and policy experts on invasive species. 
+description: Roulul eo an ro retijemlok kin menin mour im menin eddok ko rejab eman nan juon lal naetaeer (ISSG)eo ej itok jen doulul eo belakin lalin nan kojebarok men ko bwinid. Doulul in ej bedjaake lalin kin jerbal ko an ro ela aer tijemlok kin menin mour im menin eddok ko rej walok tok ilo joun jikin. 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 imageLicense: 
 parallax: true # OPTION - default is false
