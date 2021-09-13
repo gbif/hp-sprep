@@ -22,6 +22,7 @@ Ilo torein, jerbal eo imaan tata ilo portal in ej komeleleik:
 - Maron kwalok juon jonak eo epidodo (color, scheme ko, font im logo ko) im bareinwot jikin ukot kajin ko ilo portal in jen kajin palle.
 - Jikin kabok melele, pija, im map ko remanlok einwot GBIF.org eo. Melele ko wot renaaj walok ilo portal in ej melele ko emoj komalik nan aolep. 
 - Kabidodo an ro rej kabok melele maron etal nan GBIF.org nan download melele ilo juon jekjek eo ej kalikar ke melele ko buki ak download i rej itok jen GBIF dataset eo. 
+- Juon jikin ilo GBIF node ko im DATA mobilization partner ro nan kwalok kadikdikin jerbal ko im ro mottaer. PBIF ej bed kio ilo rualitok kajin ko.
 
 **Ta in GBIF?**
 
