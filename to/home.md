@@ -3,7 +3,7 @@ klass: "about"
 lang-ref: home
 layout: home
 title: Pacific Biodiversity Information Facility
-description: Ko e ngaahi fakamatala fakaikiiki fekau'aki mo e ngaahi felalave'i 'oku hoko ki he me’amo'ui he Pasifiki 'oku ha atu ia he ngaahi fakamatala ‘a e GBIF.
+description: Tanaki’anga fakamatala faka pasifiki kene tanaki kotoa ae ngaahi fakamatala oku hoko mo asi ihe GBIF
 background: /assets/images/Niue-Project-Banner.jpg
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
