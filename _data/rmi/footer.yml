@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 
 columns:
-  - name: Partners
+  - name: Ri jiban ro
     links:
     - text: Global Biodiversity Information Facility (GBIF)
       href: https://gbif.org
@@ -45,4 +45,4 @@ columns:
   #    href: http://example2.com
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
 other: |
-  [Privacy policy](/rmi/privacy)
+  [Melele ko rejab maron diwojlok](/rmi/privacy)
