@@ -2,8 +2,8 @@
 klass: "about"
 layout: compose
 lang-ref: publisher
-title: Publishers
-description: Organisations in the Pacific that have been endorsed to be data publishers
+title: Ro rej Je new ko ilo Pacific
+description: Doulul ko il Pacific emoj an erom data publisher ro
 background: /assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
