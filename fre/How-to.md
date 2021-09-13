@@ -1,11 +1,11 @@
 ---
 klass: "about"
 layout: compose
-lang-ref: 
+lang-ref: how_to
 title: How to
 description:
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_20180804_121351_543.jpg?itok=kvkkIg5F
-imageLicense: 
+imageLicense: Photo by D.McFadzien
 parallax: true # OPTION - default is false
 toc: true # OPTIONAL - default is false. Should the page have a Table of Contents
 height: 85vh
@@ -26,8 +26,8 @@ composition:
 #  data: example.compose.overlay.text
 ---
 
-## How do I use GBIF to find data?
-<br>The site [www.pbif.sprep.org](https://www.pbif.sprep.org) contains over six million records of species, specimens, observations, and samples for the Pacific. 
+## How do I use PBIF portal to find data?
+<br>The site [pbif.sprep.org](https://pbif.sprep.org/) contains over six million records of species, specimens, observations, and samples for the Pacific. 
 Each record will have information about how to download and cite the data. Try exploring the site!
 Start by searching from the homepage or clicking on “Data” in the top panel. You can look for
 occurrence data, search by species, look for whole datasets, and more.
@@ -197,6 +197,8 @@ Maybe a global unique identifier or an identifier specific to the data set.
 |                             |                                                              |                                                         |
 | :-------------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
 | GBIF Homepage               | [www.gbif.org](https://www.gbif.org)                         | Access, explore and publish biodiversity data           |
+| PBIF Homepage               | http://pbif.sprep.org                                        | Access and explore Pacific biodiversity data            |
 | IPT User Manual             | [https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki) | How-to guide to using Integrated Publishing Toolkit     |
 | Darwin Core Quick Reference | [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/) | Web page with definitions for Drawing Core terms        |
 | Copyrights for Data         | [http://vertnet.org/resources/dataliceningguide.html](http://vertnet.org/resources/dataliceningguide.html) | Description of the choice of license for published data |
+
