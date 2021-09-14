@@ -14,6 +14,12 @@ $navbar-breakpoint: 1700px;
  // .navbar-menu {
  //   opacity: 0.90;// then we can control the opacity for the dropdown alone
 //  }
+
+  // relates to https://github.com/gbif/hp-sprep/issues/23
+  // .is-active {
+  //   max-height: calc(100vh - 4.25rem);
+  //   overflow: auto;
+  // }
 }
 
 @media screen and (min-width: $navbar-breakpoint) {
