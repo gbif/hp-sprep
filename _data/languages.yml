@@ -1,40 +1,31 @@
 en:
   label: English
-  icon: 🇬🇧
   #archive_permalink: /news/
 sm:
   label: Samoan
-  icon: 🇼🇸
+  icon: /assets/images/Country_Flags/ws.svg
   archive_permalink: /sm/talafou
 nu:
   label: Niuean
-  icon: 🇳🇺
   archive_permalink: /nu/news
 to:
   label: Tongan
   archive_permalink: /to/ko-e-ongoongo
-  icon: 🇹🇴
 tk:
   label: Tokelaun
-  icon: 🇹🇰
   archive_permalink: /tk/talafou
 tv:
   label: Tuvaluan
-  icon: 🇹🇻
   archive_permalink: /tv/tala
 sb:
   label: Solomon Islands
-  icon: 🇸🇧
   archive_permalink: /sb/nius
 fij:
   label: Fijian
-  icon: 🇫🇯
   archive_permalink: /fij/iTukutuku
 fre:
   label: Français
-  icon: 🇫🇷
   archive_permalink: /fre/actualités
 rmi:
   label: Marshallese
-  icon: 🇲🇭
   archive_permalink: /rmi/nuuj
