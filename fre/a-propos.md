@@ -9,23 +9,22 @@ imageLicense: Photo par Scott
 parallax: true
 height: 75vh
 ---
-Le portail du Pacific Biodiversity Information Facility présente toutes les données sur la biodiversité actuellement disponibles depuis le Global Biodiversity Information Facility (GBIF) pour les pays et territoires insulaires du Pacifique suivants : Samoa Américaines, Îles Cook, Timor Oriental, Etats Fédérés de Micronésie, Fidji, Polynésie Française, Guam, Hawaï, Kiribati, îles Marshall, Nauru, Nouvelle-Calédonie, Niue, Mariannes du Nord, Palau, Papouasie-Nouvelle-Guinée, Samoa, îles Salomon, Tokelau, Tonga, Tuvalu, Vanuatu et Wallis & Futuna.
+Le PBIF présente toutes les occurrences de données sur la biodiversité actuellement disponibles sur le GBIF pour les pays et territoires insulaires du Pacifique suivants :Samoa Américaine, Iles Cook,Timor oriental, Federated States of Micronesia, Fidji, Polynésie française, Guam, Hawaii, Kiribati, Iles Marshall, Nauru, Nouvelle Calédonie, Nioué, Iles Mariannes du Nord, Palaos, Papouasie-Nouvelle-Guinée, Samoa, Iles Solomon, Tokelau, Tonga, Tuvalu, Vanuatu, et Wallis et Futuna.
 
-Ces portails personnalisables, sont axés sur la région Pacifique et sont hébergés par le secrétariat du GBIF. 
+Le PBIF est axé sur la région du Pacifique et est hébergé par le secrétariat du GBIF. 
 
-### **Que peut-offrir le portail?**
+### **Qu'offre le portail hébergé?**
 
-Actuellement, le portail test du PBIF peut offrir :
+Actuellement, le PBIF offre  :
 
-- Un lieu où les partenaires du GBIF peuvent se présenter, ainsi que leurs équipes, réseaux et activités. (Possibilité d’éditer du texte)
-- La capacité de fournir une image de marque simple (couleur des schémas, polices et images). La possibilité de changer la langue de l’interface (Les traductions dans des langues autre que l’anglais doivent être fournies par la communauté).
-- Une recherche avancée des données, des visualisations de cartes, ainsi qu’une galerie d’images, proches de GBIF.org (voir notes ci-dessous).
-- Résultats de recherche : Les résultats sont limités à un sous-ensemble défini et pertinent de données gérées par le GBIF (par exemple, toutes les données d’une même thématique ou publiées par des organisations dans un même pays). Seulement les données publiques, indexées dans le GBIF seront disponible à la recherche, dans les mêmes conditions que sur GBIF.org
-- Une redirection à partir des résultats de recherche, renvoyant les utilisateurs vers GBIF.org pour télécharger les données, en veillant à ce que les téléchargements reçoivent les identifiants uniques (DOI) du GBIF, renvoyant aux données incluses. 
-- PBIF est disponible dans plus de huit langues.
+- Des capacités avancées de recherche de données sur les occurrences, de navigation, de visualisation de cartes et de galerie d'images similaires à celles de GBIF.org
+- Les résultats de recherche sont un sous-ensemble défini et pertinent de données gérées par le GBIF (par exemple, toutes les données mobilisées par un réseau thématique ou publiées par des organisations dans un pays). Seules les données publiques publiées et indexées dans le GBIF pourront faire l'objet d'une recherche et seront soumises au même contrôle de qualité des données et guide taxonomique que GBIF.org.
+- Une redirection à partir des résultats de recherche, renvoyant les utilisateurs vers GBIF.org pour le téléchargement des données, en veillant à ce que les téléchargements reçoivent les identifiants uniques (DOI) du GBIF, qui renvoient aux jeux de données inclus.
+- Un endroit où les points focaux du GBIF et les partenaires de la mobilisation des données peuvent se décrire, décrire leur équipe ou leur réseau, et décrire leurs activités (texte narratif modifiable). Le PBIF est disponible en plus de huit langues.
+
 
 ### **Qu’est-ce que le GBIF?**
 
-Le GBIF, pour Global Biodiversity Information Facility, est un réseau international et une base de données, financé par les gouvernements du monde entier. Il vise à fournir à quiconque, n’importe où, un accès libre aux données sur toutes les formes de vie sur Terre.
+Le GBIF - le Global Biodiversity Information Facility - est un réseau international et une infrastructure de données financés par les gouvernements du monde entier et visant à fournir à quiconque, en tout lieu, un accès ouvert aux données sur tous les types de vie sur Terre.
 
-Pour plus d’informations, rendez-vous sur leur site web: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
+Visitez leur site internet pour plus d’information: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
