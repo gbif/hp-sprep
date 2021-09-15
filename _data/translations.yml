@@ -7,7 +7,7 @@ differentLanguage:
   nu: "Kua fakaliliu e tohiaaga nai ke he tau vagahau he tau motu"
   to: "‘Oku ngaue’aki ‘ihe peesi ni ‘a e ngaahi lea ko ‘eni"
   tk: "Ko te laupepa tenei e maua ai i na gagana e takua"
-  tv: "Te Itulau tenei e avanoa i 'gana konei"
+  tv: "Te itulau tenei e avanoa i `gana konei"
   sb: "Disfala peij hemi garem oloketa narafala lagus ia"
   fij: "Oqo na vei vosa e vakaurataki kina nai tukutuku"
   fre: "Cette page est disponible dans les langues suivantes"
@@ -18,6 +18,7 @@ tocTitle:
   fre: "Sur cette page"
   rmi: "Ilo page in"
   to: "‘ihe peesi ni"
+  tv: "I luga i te laupepa tenei"
 terms:
   en: |
     We use cookies on our website. Some are technically necessary, others help us improve your user experience. You can decline non-essential cookies by selecting “Reject”. Please see our [Privacy Policy](/privacy) for further information about our privacy practices and use of cookies.
