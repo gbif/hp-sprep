@@ -22,27 +22,27 @@
      href: https://hp-sprep.gbif-staging.org/data?view=download
 - text: Itulau Fakapitoa
   menu: # Dropdown menu (one level deep only)
-   - text: Te koga e maua mai i ei a fakamatalaaga mo fuainumela
+   - text: Ko te koga telaa io me ko fakamaumauuga kolaa e mafai o fakaaogaa ne tino o `sala ki ei a fakamatalaaga mo iloa kesekese, e uiga ki mea ola
      href: https://piln.sprep.org/
-   - text: Matagaluega e onoono ki Manu mo Lakau e Fakamasei ne latou mea-ola
+   - text: Matagaluega e onoono ki manu mo lakau kolaa e fakamasei ne latou a mea ola
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
-   - text: Ko te potu i te `neti o Enevalomene o te Pasefika
+   - text: Ko te potu-o-fakamatalaaga e uiga ki te Enevalomene o te Pasefika
      href: https://pacific-data.sprep.org/
-   - text: Potukau o te Pasefika tela e tauloto ne latou a fakamaseiga ki mea-ola
+   - text: Potukau/ Fakapotopotooga o te Pasefika kolaa e tauloto ne latou a fakamaseiga ki mea ola
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
-   - text: Taugasoa galue tasi kolaa e onoono ki fakamaseiga o mea-ola i te Pasefika
+   - text: Taugasoa galue fakatasi, kolaa e onoono ki fakamaseiga o mea ola i te Pasefika
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
-   - text: Ko te potu i te `neti e autuu ki koga puipui o fenua i te Pasefika 
+   - text: Ko te potu-o-fakamatalaaga o koga puipui o fenua o te Pasefika
      href: https://pipap.sprep.org/
-   - text: Ko te Ofisa o te Polokalame ki mea tau Enevalomene i te Pasefika
+   - text: Ko te Ofisa o te Polokalame ki mea tau  Enevalomene i te Pasefika
      href: https://www.sprep.org/
 - text: How to
   href: /tv/How-to
 - text: Kopi ki tua
   menu:
-   - text: Fakamatalaaga faitasi i te gana Peletania
+   - text: Fakamatalaaga mo fakamaumauuga, i te `gana Peletania, kolaa e mafai o fakaaogaa fakatasi ne tino kolaa e onoono ki mea ola
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Fakamatalaaga faitasi i te gana Falani
+   - text: Fakamatalaaga mo fakamaumauuga, i te `gana Falani, kolaa e mafai o fakaaogaa fakatasi ne tino kolaa e onoono ki mea ola
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: Tala
   href: /tv/tala
