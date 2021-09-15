@@ -22,6 +22,7 @@ sb:
   archive_permalink: /sb/nius
 fij:
   label: Fijian
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/fj.svg
   archive_permalink: /fij/iTukutuku
 fre:
   label: Français
