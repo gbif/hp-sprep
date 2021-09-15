@@ -3,14 +3,14 @@ klass: "about"
 lang-ref: home
 layout: home
 title: Pacific Biodiversity Information Facility
-description: Le portail du Fonds d'information sur la biodiversité du Pacifique présente toutes les données sur la biodiversité des occurrences actuellement disponibles sur le Fonds mondial d'information sur la biodiversité (GBIF).
+description: Le PBIF présente toutes les données relatives à la biodiversité du Pacifique disponibles sur le GBIF.
 background: /assets/images/Niue-Project-Banner.jpg
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 imageLicense: Photo par Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 75vh
 cta:
-  - text: Obtenir des données
+  - text: Accès aux données
     href: /fre/data
     isPrimary: true
 permalink: /fre/
