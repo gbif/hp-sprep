@@ -24,7 +24,7 @@
   menu: # Dropdown menu (one level deep only)
    - text: Ressources sur les espèces invasives
      href: https://piln.sprep.org/
-   - text: Gestion des espèces invasives du Pacifique
+   - text: Gestion des Espèces Envahissantes dans le pacifique
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
    - text: Portail du Pacific Environment
      href: https://pacific-data.sprep.org/
@@ -40,9 +40,9 @@
   href: /fre/How-to
 - text: Téléchargements
   menu:
-   - text: Données sur les espèces invasives en Anglais
+   - text: Battlers Sharing Data-Anglais
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Données sur les espèces invasives en Français
+   - text: Battlers Sharing Data-Français
      href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: Actualités
   href: /fre/actualités/
