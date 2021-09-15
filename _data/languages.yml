@@ -1,5 +1,6 @@
 en:
   label: English
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg
   #archive_permalink: /news/
 sm:
   label: Samoan
@@ -7,18 +8,23 @@ sm:
   archive_permalink: /sm/talafou
 nu:
   label: Niuean
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/nu.svg
   archive_permalink: /nu/news
 to:
   label: Tongan
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/to.svg
   archive_permalink: /to/ko-e-ongoongo
 tk:
   label: Tokelaun
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/tk.svg
   archive_permalink: /tk/talafou
 tv:
   label: Tuvaluan
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/tv.svg
   archive_permalink: /tv/tala
 sb:
   label: Solomon Islands
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/sb.svg
   archive_permalink: /sb/nius
 fij:
   label: Fijian
@@ -26,7 +32,9 @@ fij:
   archive_permalink: /fij/iTukutuku
 fre:
   label: Français
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/fr.svg
   archive_permalink: /fre/actualités
 rmi:
   label: Marshallese
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/mh.svg
   archive_permalink: /rmi/nuuj
