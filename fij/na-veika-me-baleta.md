@@ -2,25 +2,25 @@
 klass: "about"
 lang-ref: about
 layout: heroImage
-title: Na veika me baleta
+title: VEIKA me BALETA na PBIF 
 description: 
 background: /assets/images/Scott_Niue.JPG
 imageLicense: Photo by Scott
 parallax: true
 height: 75vh
 ---
-Na Pacific portal e na sokomuna ka katona na vei tukutuku e so me baleta na iYaubula e na Pasifika ka tiko e na GBIF ka ra wili tiko kina na vei matanitu oqo: American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
+Na tabana ni vakasokumuni tukutuku ni iYaubula ni Pasifika (Pacific portal) e na tabaka ka wasea  na vei tukutuku e so me baleta na iYaubula e tiko e na tabana ni vakasokumuni tukutuku ni iYaubula ni vuravura (GBIF). Sai ira oqo na vei matanitu tu galagala kei na matanitu qali ena Pasifika ena tabaki ka wasei kina nai  tukutuku ni nodra iYaubula : American Samoa, Cook Islands, East Timor, Federated States of Micronesia, Fiji, French Polynesia, Guam, Hawaii, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Marianas, Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu and Wallis & Futuna.
 
-Nai tukutuku e vakarautaki e na vakatabikdua ga ki na wasewase ena Pasivika ka ra na qarava na GBIF. Era na vakarautaka na kena vakasaqarai nai tukutuku, dikevi, raitayaloyalotaki e na mape ka wili talega kina na kena tabaki me vaka ga na veika e ratou sa qarava rawa tiko na GBIF.org. E dua nai tavi bibi e tiko vei ira ya dua era lewena na GBIF o ya na kena cuqeni ka vakayagataki tiko nai tukutuku me baleta nai Yaubula ka vakarautaka nai soqosoqo me baleti ira na lewena e na vei vanua e ra veiqaravi kina. E sa cakacakataka tale tikoga oqo na GBIF me sotavi na gagadre ni kena vakarawarawataki na nodra vakayagataka na lewenivanua na vei tukutuku vakasokumuni e na mona livaliva. E ratou sa cakacaka tiko qo na GBIF e na kena laurai e so me ra na mai sevuta nai matai ni wasewase ni veiqaravi ka me dua toka na yabaki na nodra veiqaravi.   
+Na PBIF e vakatabaki dua ga kina yatu Pasifika, ka vakavaletaki ena vale ni volavola ni GBIF 
 
-**Na cava sara mada e rawa ni qaravi?**
+**Na cava sara mada e ratou qarava?**
 
 E vica sara na ka oqo e sa qaravi rawa tiko:
 
-- E dua na vanua e ra rawa ni veiwasei tukutuku ka vakamacalataki ira kina na lewe ni GBIF kei ira na nodrai tokani ka vaka talega kina na cakacaka era qarava tiko
-- Vakarawarawataka na kena vakadewataki na itukutuku mai na vosa vaka Peretania kina veivosa vakaitaukei
-- Kena vakasaqarai vakatitobu na itukutuku eso, na kena mape kei na itaba vakayaloyalo ni itukutuku ka tautauvata kena veika e tiko ena GBIF.org. Ia, ena vakatarai ga na itukutuku e vakatabakidua kina GBIF ka sema kina GBIF.org.
-- Na vakagolei ni macala ni itukutuku vakasaqarai kina GBIF.org me vakatara na kena semati na itukutuku ka sa soqoni kina vakatakilakila ni GBIF.
+- E dua na vanua e ra rawa ni veiwasei tukutuku ka vakamacalataki ira kina na lewe ni GBIF.org kei ira na nodrai tokani ka vaka talega kina na cakacaka era qarava tiko
+- E vakarawarawataka na kena vakadewataki na itukutuku mai na vosa vaka Peretania kina veivosa vaka itaukei
+- Kena vakasaqarai vakatitobu na itukutuku eso, na kena mape kei na itaba ni itukutuku ka tautauvata kena veika e tiko ena GBIF.org. Ia, ena vakatarai ga na itukutuku e vakatabakidua kina GBIF ka sema kina GBIF.org.
+- Na vakagolei ni macala ni itukutuku vakasaqarai kina GBIF.org me vakatara na kena semati na itukutuku ka sa soqoni kina vakatakilakila ni GBIF
 
 **Na CAVA na GBIF?**
 
