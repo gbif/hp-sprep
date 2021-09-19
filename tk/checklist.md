@@ -2,7 +2,7 @@
 klass: "about"
 layout: compose
 lang-ref: Checklists
-title: Checklists
+title: Lihi fakamaumau
 description: 
 background: https://www.sprep.org/sites/default/files/styles/imagesize_570_340_/public/images/news/jeremiah-del-mar-cndYGSgEQ2E-unsplash.jpg?itok=oGkMxuQk
 imageLicense: 
