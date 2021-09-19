@@ -205,7 +205,7 @@ Maybe a global unique identifier or an identifier specific to the data set.
 |                             |                                                              |                                                         |
 | :-------------------------- | :----------------------------------------------------------- | :------------------------------------------------------ |
 | GBIF Homepage               | [www.gbif.org](https://www.gbif.org)                         | Access, explore and publish biodiversity data           |
-| PBIF Homepage               | http://pbif.sprep.org                                        | Access and explore Pacific biodiversity data            |
+| PBIF Homepage               | [pbif.sprep.org](https://pbif.sprep.org)                                        | Access and explore Pacific biodiversity data            |
 | IPT User Manual             | [https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki) | How-to guide to using Integrated Publishing Toolkit     |
 | Darwin Core Quick Reference | [http://rs.tdwg.org/dwc/terms/](http://rs.tdwg.org/dwc/terms/) | Web page with definitions for Drawing Core terms        |
 | Copyrights for Data         | [http://vertnet.org/resources/dataliceningguide.html](http://vertnet.org/resources/dataliceningguide.html) | Description of the choice of license for published data |
