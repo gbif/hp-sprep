@@ -11,10 +11,6 @@ height: 75vh
 ---
 Ko te hihitemi GBIF tenei e ona mafai ai ke tuku atu ni fakamatalaga ki na gaoioiga ki te hokotaga a lakau ma meaola kehekehe i to latou hikomaga, mai na fenua o te pahefika e takua: Amelika Samoa, Lalotoga, East Timor, Federated States of Micronesia, Fiti, French Polynesia, Guam, Hawaii, Kilipati, Marshall Islands, Nauru, Niu Kaletonia, Niue, Northern Marianas, Palau, Papua Niu Kini, Samoa, Solomona, Tokelau, Toga, Tuvalu, Vanuatu ma Wallis & Futuna.
 
-Ko na hihitemi ienei e fakapatino lava ki te levelo fakalotoifale, ma e fakafoe e te mataeke o te GBIF. E maua mai na fakamatalaga ki te gaoioiga, e mafai ona fakaali fafanua, e mafai ke fakaali ai foki ni ata kua puke, ko na mafai o te hihitemi tenei e tai tutuha ma te hihitemi lahi o te GBIF.org. Ko te kauhaga e a ia na fakamaumauga ki te hihitemi, e taua lele ke atiake e ki latou na aoga o na fakamatalaga ki te hokotaga o na meaola ma na lakau e fakatele ai la e te hihitemi tenei. E puke ai lava ma hitoa ai na fakamaumauga ienei ki ie tahi hihitemi pe ko he fenua fakalotoifale. Kua tautali atu te failautuhi o te polokalame tenei ki ni fakatutuga ke tuku ifo malie ki lalo te.
- 
-Ke tautali ki na talohaga ke fakataikole te kaufakatahi ki loto o te GBIF I na auala kui atu I na mahini, ko te mataeke a tenei fakalapotopotoga e galulue ke fakaola, pe atiake ni auala faigofie o te fakamaumauga ona lakau ma na meaola kehekehe ,mo te hapoti katoatoa ana fakalapoptopotoga/nuku. E hakilikiliki e tenei mataeke mo kilatou e inatalehi kite tukufakatahiga o tenei Hihitemi e tuha i loto o he 1 tauhaga mo te GBIF.
-
 **Hea te maua ai tenei hihitemi?**
 
 I te taimi nei, ko na hihitemi kua fakaaoga nei, e maua ai te:
