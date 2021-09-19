@@ -26,7 +26,7 @@ composition:
 #  data: example.compose.overlay.text
 ---
 
-## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Invasive Species Specialist Group Checklists
+## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Kulupu Fakapitoa mo Manu Fakalāfua Lihi fakamaumau
 
 ------
 
