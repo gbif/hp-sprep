@@ -3,7 +3,7 @@ klass: "about"
 lang-ref: home
 layout: home
 title: Pacific Biodiversity Information Facility
-description: Hihitemi (Portal) a te Pahefika ke fakaali uma na fakamaumauga o na gaoioiga o na lakau ma meaola kehekehe. E maua ai i te GBIF.
+description: Fakamaumauga a te Pahefika agai kite Hokotaga o Lakau ma na meaola kehekehe I te Pahefika.
 background: /assets/images/Niue-Project-Banner.jpg
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
