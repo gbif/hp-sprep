@@ -11,16 +11,11 @@ $navbar-breakpoint: 1700px;
     background-size: cover;
     background-image: linear-gradient(90deg, rgba(54,199,152,0.9) 0%, rgba(0,12,100,0.9) 100%);
   }
-  
+  // relates to https://github.com/gbif/hp-sprep/issues/23
   .is-active {
    max-height: calc(100vh - 4.25rem);
    overflow: auto;
 }
-  // relates to https://github.com/gbif/hp-sprep/issues/23
-  // .is-active {
-  //   max-height: calc(100vh - 4.25rem);
-  //   overflow: auto;
-  // }
 }
 
 @media screen and (min-width: $navbar-breakpoint) {
@@ -37,8 +32,6 @@ $navbar-breakpoint: 1700px;
 
 .footer {
   background: url('/assets/images/PBIF-Footer.png');
-  //background-size: cover;
-  //background-attachment: fixed;
   background-size: 1000px;
   background-position: bottom;
   background-repeat: repeat-x;
@@ -51,39 +44,25 @@ $navbar-breakpoint: 1700px;
   background-attachment: fixed;
 } 
 
-.container {
-  //background: white;
-  background-image: url('/assets/images/carlo_test_3.png');
-  //overflow: hidden;
-  background-size: cover;
-  background-attachment: fixed;
-}
+//.container {
+//  background-image: url('/assets/images/carlo_test_3.png');
+//  background-size: cover;
+//  background-attachment: fixed;
+//}
 
-.article {
-  background: white;
-  //background-image: url('/assets/images/carlo_test_3.png');
-  //background-size: cover;
-  //background-attachment: fixed;  
-}
+//.article {
+//  background: white;
+//}
 
 .about {
   background-image: url('/assets/images/carlo_test_3.png');
-  //overflow: hidden;
   background-size: cover;
   background-attachment: fixed;
 }
 
 .newspost {
-  //background: white;
   background-image: url('/assets/images/carlo_test_3.png');
-  //overflow: hidden;
   background-size: cover;
   background-attachment: fixed;
 }
-//.boxHero .feature-content { 
-  //background: #ffffffee;
-  //border: 1px solid #88888822;
-  //margin-bottom: 2rem;
-//}
-
 
