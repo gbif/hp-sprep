@@ -2,7 +2,7 @@
 klass: "about"
 lang-ref: about
 layout: heroImage
-title: VEIKA me BALETA na PBIF 
+title: Veika me Baleta na PBIF 
 description: 
 background: /assets/images/Scott_Niue.JPG
 imageLicense: Photo by Scott
