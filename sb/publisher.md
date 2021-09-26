@@ -2,8 +2,8 @@
 klass: "about"
 layout: compose
 lang-ref: publisher
-title: Publishers
-description: Organisations in the Pacific that have been endorsed to be data publishers
+title: Olketa publishers lo Pasifik
+description: Olketa oganaeseson lo Pasifik where garem right for publishim data
 background: /assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
