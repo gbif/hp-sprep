@@ -3,13 +3,13 @@ klass: "about"
 lang-ref: home
 layout: home
 title: Pacific Biodiversity Information Facility
-description: Ko e potaaga he tau talahauaga he tau mena momoui oti he lalolagi.Fakamahao ke he Atu Pasifika.
+description: Ko e potaaga he tau talahauaga he tau mena momoui oti he lalolagi, fakamahao ke he Atu Pasifika.
 background: /assets/images/Niue-Project-Banner.jpg
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 height: 75vh
 cta:
-  - text: Lotomatala
+  - text: Tufatufaaga he tau koloa lotomatala
     href: /nu/lotomatala
     isPrimary: true
 permalink: /nu
