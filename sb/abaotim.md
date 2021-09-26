@@ -2,7 +2,7 @@
 klass: "about"
 lang-ref: about
 layout: heroImage
-title: Abaotim
+title: Abaotim disfala peij
 description: 
 background: /assets/images/Scott_Niue.JPG
 imageLicense: Photo by Scott
