@@ -2,8 +2,8 @@
 klass: "about"
 layout: compose
 lang-ref: issg
-title: Invasive Species Specialist Group Checklists
-description: The Invasive Species Specialist Group ISSG of the Species Survival Commission of the International Union for Conservation of Nature is a global network of scientific and policy experts on invasive species. 
+title: Ko e fakamauaga fakamooli he tau he tau pulotu lotomatala he tau koloa momoui fōfō kaina
+description: Ko e veveheaga he tau pulotu he lalolagi ma e tau koloa momoui fōfō kaina, ne tutaki atu ke he Kaugahua Laveaki he tau koloa Momoui, ko e taha he tau vahega he Matakau ne Tōkaga ke he tau Koloa momoui he Tufugatia he lalolagi, ko e tau pulotu saienetisi mo e tau kau gahua foki kua kaufakalataha ma e tau gahua he tau koloa momoui fōfō kaina.
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 imageLicense: 
 parallax: true # OPTION - default is false
