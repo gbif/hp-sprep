@@ -2,8 +2,8 @@
 klass: "about"
 layout: compose
 lang-ref: publisher
-title: Publishers
-description: Organisations in the Pacific that have been endorsed to be data publishers
+title: Lautolu he Pasifika ne lolomi e tau tohi
+description: Tau matakau he atu Pasifika ne kua talia ke eke mo lolomi e tau tātānaki lotomatala.
 background: /assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
