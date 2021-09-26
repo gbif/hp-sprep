@@ -4,35 +4,35 @@
   href: /sb/abaotim
 - text: Oloketa informeson en statistiks
   menu:
-   - text: Occurrences
+   - text: Oloketa things/work where hem happen finis 
      href: /sb/oloketa-informeson-en-statistiks
-   - text: Datasets
+   - text: Grup blo infomeson
      href: https://hp-sprep.gbif-staging.org/sb/oloketa-informeson-en-statistiks?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
      #href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
-   - text: Checklist
+   - text: Oloketa information where umi save lookout for hem
      href: /sb/checklist
      #href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
-   - text: Invasive Species Specialist Group Checklist
+   - text: Invesive Spisis Spesolist Grup cheklist
      href: /sb/issg
-   - text: Pacific Publishers
+   - text: Olketa publishers lo Pasifik
      href: /sb/publisher
-   - text: Literature
+   - text: Olketa waka or story
      href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
    - text: Download
      href: https://hp-sprep.gbif-staging.org/data?view=download
 - text: Samfala weis, konneksons or contakts 
   menu: # Dropdown menu (one level deep only)
-   - text: Battler Resource Base (BRB)
+   - text: Battler Resos Bes
      href: https://piln.sprep.org/
-   - text: Invasive Species Management in the Pacific
+   - text: Invasiv spisis Manejment lo Pasifik
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
    - text: Kupega hila he Matakau Takatakai Motu he Pasifika
      href: https://pacific-data.sprep.org/
-   - text: Pacific Invasive Learning Network (PILN)
+   - text: Pasifik invasive lening netwok
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/piln
-   - text: Pacific Invasive Partnerships
+   - text: Pasifik invasive Patnasip
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
-   - text: Pacific Island Protected Area Portal (PIPAP)
+   - text: Pasifik aelan Protected Areas potol
      href: https://pipap.sprep.org/
    - text: Sekretariet blong Pasifik Riginol Envaeroment Prokram (SPREP)
      href: https://www.sprep.org/
