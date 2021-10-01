@@ -1,6 +1,5 @@
 $navbar-breakpoint: 1700px;
 @import "theme/_main";
-//You can add additional styling 
 
 .navbar {
   background: none;
@@ -43,16 +42,6 @@ $navbar-breakpoint: 1700px;
   background-size: cover;
   background-attachment: fixed;
 } 
-
-//.container {
-//  background-image: url('/assets/images/carlo_test_3.png');
-//  background-size: cover;
-//  background-attachment: fixed;
-//}
-
-//.article {
-//  background: white;
-//}
 
 .about {
   background-image: url('/assets/images/carlo_test_3.png');
