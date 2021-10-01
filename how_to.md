@@ -16,15 +16,6 @@ hasBlackText: false
 composition:
 - type: heroImage
 - type: pageMarkdown
-#- type: heroImage
-#  data: example.compose.overlay.heroHeadlineA
-#- type: markdown
-#  data: example.compose.overlay.text
-#- type: heroImage
-#  data: example.compose.overlay.heroHeadlineB
-#- type: markdown
-#  data: example.compose.overlay.text
-
 ---
 
 ## How do I use PBIF portal to find data?
