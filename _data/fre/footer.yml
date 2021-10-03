@@ -18,17 +18,17 @@ columns:
     description: | # Can be Markdown
       * [Chef de délégation](https://www.gbif.org/contact-us/directory?personId=3960)
       * [Secrétariat du Pacific Regional Environment Programme](https://www.sprep.org/)
-      * E-mail: [davidm@sprep.org](davidm@sprep.org)
+      * E-mail: [davidm@sprep.org](mailto:davidm@sprep.org)
   - name: Ainsof So'o
     description: | # Can be Markdown
       * [Node Manager](https://www.gbif.org/contact-us/directory?personId=3961)
       * [Secrétariat du Pacific Regional Environment Programme](https://www.sprep.org/)
-      * E-mail: [gbifnodemanage@sprep.org](gbifnodemanage@sprep.org)    
+      * E-mail: [gbifnodemanage@sprep.org](mailto:gbifnodemanage@sprep.org)    
   - name: Bradley Myer
     description: | # Can be Markdown
       * [Chef de projet](https://www.sprep.org/our-team)
       * [Secrétariat du Pacific Regional Environment Programme](https://www.sprep.org/)
-      * E-mail: [bradleym@sprep.org](bradleym@sprep.org)
+      * E-mail: [bradleym@sprep.org](mailto:bradleym@sprep.org)
 
     #connectIcons: true
        #Social icons links defined in `_config.yml`
