@@ -62,7 +62,7 @@ algae:
   rootLang: en
   latestPostLimit: 2
   #logo: /assets/images/SPREP-PROE-wide-acronyms-white.png  # Logo in navbar, will be displayed with 28px height
-  logo: /assets/images/PBIF_logo.png
+  logo: /assets/images/PBIF_white.png
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/    # Permalink of page using archive.html layout, required when using post categories
   style:
