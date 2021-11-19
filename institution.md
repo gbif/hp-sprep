@@ -1,4 +1,5 @@
 ---
+klass: "about"
 title: Data
 description: We publish open data
 permalink: /institution/
