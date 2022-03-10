@@ -103,6 +103,8 @@ exclude:
   - .netlify.toml
   - .README.md
 
+permalink: pretty # will strip extensions like .html from urls
+
 defaults:
   - # English
     scope:
