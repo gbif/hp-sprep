@@ -7,7 +7,7 @@
    - text: Mea tupu
      href: /tv/fakamatalaaga
    - text: Fakatokaaga mo fakamatalaaga o fuainumela kesekese
-     href: https://hp-sprep.gbif-staging.org/tv/e-uiga-ki-te?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
+     href: https://pbif.sprep.org/tv/e-uiga-ki-te?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
      #href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
    - text: Fakasolooga o mea kolaa e `tau o fai io me fakamaua
      href: /tv/checklist
@@ -19,11 +19,11 @@
    - text: Tusitusiiga
      href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
    - text: Download
-     href: https://hp-sprep.gbif-staging.org/data?view=download
+     href: https://pbif.sprep.org/data?view=download
 - text: Itulau Fakapitoa
   menu: # Dropdown menu (one level deep only)
    - text: Ko te koga telaa io me ko fakamaumauuga kolaa e mafai o fakaaogaa ne tino o `sala ki ei a fakamatalaaga mo iloa kesekese, e uiga ki mea ola
-     href: https://piln.sprep.org/
+     href: https://brb.sprep.org/
    - text: Matagaluega e onoono ki manu mo lakau kolaa e fakamasei ne latou a mea ola
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
    - text: Ko te potu-o-fakamatalaaga e uiga ki te Enevalomene o te Pasefika
@@ -41,8 +41,8 @@
 - text: Kopi ki tua
   menu:
    - text: Fakamatalaaga mo fakamaumauuga, i te `gana Peletania, kolaa e mafai o fakaaogaa fakatasi ne tino kolaa e onoono ki mea ola
-     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
+     href: https://brb.sprep.org/sites/default/files/2022-02/Battler%20Series-Share%20Pacific%20invasive%20data%20using%20the%20Global%20Biodiversity%20Information%20Facility%28updated%20version%202022%29.pdf
    - text: Fakamatalaaga mo fakamaumauuga, i te `gana Falani, kolaa e mafai o fakaaogaa fakatasi ne tino kolaa e onoono ki mea ola
-     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
+     href: https://brb.sprep.org/sites/default/files/2021-12/battlers-share-pacific-gbif-fre.pdf
 - text: Tala
   href: /tv/tala
