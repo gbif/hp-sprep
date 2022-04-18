@@ -3,7 +3,7 @@ klass: "newspost"
 title:  "Le Service De L'environnement De Wallis Et Futuna A Reçu Le Prix De Battler De L’année 2021"
 date:   2021-12-07 09:29:00 +1300
 categories: Invasive
-lang-ref: 
+lang-ref: fre
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/received_2989710017950368%20%28Medium%29.jpeg?itok=wzAtHWA3
 background-height: 100px
 imageLicense:
