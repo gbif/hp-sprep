@@ -6,7 +6,7 @@ categories: Invasive
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/Screenshot%202022-03-04%20150937.jpg?itok=M_ooX2wx
 background-height: 100px
-imageLicense: Sean Krieg (CC BY SA 4.0)
+imageLicense: Blue Crab|Sean Krieg (CC BY SA 4.0)
 preTitle: March 4th 2022
 ---
 The Pacific’s battle against marine invasive species, has just been bolstered with the launch of new resources which will support marine biosecurity and  invasive species management in the region. 
