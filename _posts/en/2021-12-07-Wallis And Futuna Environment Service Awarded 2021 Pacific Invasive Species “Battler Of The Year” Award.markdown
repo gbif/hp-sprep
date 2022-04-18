@@ -4,13 +4,11 @@ title:  "Wallis And Futuna Environment Service Awarded 2021 Pacific Invasive Spe
 date:   2021-12-07 09:29:00 +1300
 categories: Invasive
 lang-ref: 
-background: https://www.sprep.org/sites/default/files/styles/image_lisow_270_161_/public/images/news/received_2989710017950368%20%28Medium%29.jpeg?itok=z0llnzEH
+background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/received_2989710017950368%20%28Medium%29.jpeg?itok=wzAtHWA3
 background-height: 100px
 imageLicense:
 preTitle: December 7th 2021
 ---
-![Wallis and Futuna](https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/received_2989710017950368%20%28Medium%29.jpeg?itok=wzAtHWA3)
-
 The work completed by the Wallis and Futuna Environment Service to manage invasive species in their country, has earned them the 2021 Pacific Invasive Species “Battler of the Year” Award.
 
 The accolade, which until now has been won by an individual since its inception in 2017, recognises Pacific invasive species field-based practitioners who have worked at the grassroots level and achieved an outstanding outcome for biodiversity from the use of minimal resources.
