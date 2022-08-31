@@ -60,7 +60,7 @@ siteMeasurements:
 
 algae:
   rootLang: en
-  latestPostLimit: 4
+  latestPostLimit: 6
   #logo: /assets/images/SPREP-PROE-wide-acronyms-white.png  # Logo in navbar, will be displayed with 28px height
   logo: /assets/images/PBIF_white.png
   logoAndTitle: false           # include the title next to the logo
