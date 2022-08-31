@@ -16,7 +16,7 @@ The first training was conducted in Nukualofa for the Tonga Department of Enviro
 
 The training also allowed the college science students of Tonga College to learn about invasive species and witness a demonstration of managing Panama rubber trees on their school campus.
 
-![War on Weeds training War on Weeds training in Nukualofa, Photo Credit: Isabell Rasch](https://www.sprep.org/sites/default/files/users/Christine%20Tuioti/WOW%20Training%20Nukualofa%202%20PC%20Isabell%20Rasch.jpg)
+![War on Weeds training in Nukualofa, Photo Credit: Isabell Rasch](https://www.sprep.org/sites/default/files/users/Christine%20Tuioti/WOW%20Training%20Nukualofa%202%20PC%20Isabell%20Rasch.jpg){:standalone .has-text-centered}
 
 The same training was delivered in Vava’u for the Department of Environment, Department of Agriculture, and the Vava’u Environment Protection Association (VEPA). Training participants visited Mount Talau, a conservation site managed by the Department of Environment and the Vava’u Environment Protection Association, with the support from SPREP through the GEF 6 RIP. Participants learned about the importance of eradicating priority weeds and managing invasive species in a high-value site to restore its ecosystem functions.  Two endemic species can be found on Mount Talau, the Tongan whistler bird, locally known as the hengahenga and the *Casaearia buelowii* plant. 
 

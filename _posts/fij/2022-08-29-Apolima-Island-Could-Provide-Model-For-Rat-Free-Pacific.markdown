@@ -18,7 +18,7 @@ While there have been a number of successful rat eradication projects on uninhab
 
 The main aim of the consultation was to seek consent from the community for completing a feasibility study for the eradication of rats on Apolima Island and developing an operational plan which will be led by Samoa’s MNRE and its PRISMSS partner, the New Zealand Department of Conservation (NZDOC).
 
-![Consultation with Apolima ](https://www.sprep.org/sites/default/files/users/Christine%20Tuioti/Apolima2.png)*Apolima Island representatives at the consultation with MNRE and SPREP staff members*
+![Consultation with Apolima Island representatives at the consultation with MNRE and SPREP staff members](https://www.sprep.org/sites/default/files/users/Christine%20Tuioti/Apolima2.png){:standalone .has-text-centered}
 
 Twelve staff members from MNRE and SPREP travelled to Apolima Island for the community consultation which resulted in the community providing its full approval and support for the implementation of the project. If successful, the project could provide a number of direct benefits such as reducing damage to food supplies and buildings as well as increasing the abundance of native bird life.
 
