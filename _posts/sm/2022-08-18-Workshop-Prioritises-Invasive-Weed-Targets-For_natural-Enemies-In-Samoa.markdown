@@ -1,0 +1,31 @@
+---
+klass: "newspost"
+title:  "Workshop Prioritises Invasive Weed Targets For Natural Enemies In Samoa"
+date:   2022-08-18 09:00:00 +1300
+categories: Invasive
+lang-ref: 
+background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/NENS.jpg?itok=jj1T3HfG
+background-height: 100px
+preTitle: August 18th 2022
+---
+Natural Enemies - Natural Solutions (NENS) has been used safely and successfully in the Pacific against weeds for more than a century. This is when natural enemies are used to target invasive weeds. An example of this is, in 2021 scientists successfully released beetles from Ghana as a natural enemy to control the [African tulip tree (*Spathodea campanulata*)](https://nensoption.com/Pacific_Weeds_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=4&FilterOperator%5B1%5D=equal-to&FilterValue%5B1%5D=Spathodea+campanulata) in Rarotonga.
+
+On Wednesday, 17 August 2022, the Ministry of Natural Resources and Environment (MNRE) hosted a national workshop to prioritise invasive weeds that can be targeted by natural enemies to help increase climate resilience in Samoa.
+
+During the official opening of the workshop, MNRE's Chief Executive Officer Ms. Lealaisalanoa Frances Brown-Reupena said Samoa was happy to be part of regional efforts to increase the use of NENS to control invasive weeds that were damaging the resilience of natural island ecosystems.
+
+“NENS is the practice of introducing safe natural enemies into a country to manage invasive weeds when eradication is deemed non-feasible, and the impacts of the weeds are serious enough to require this intervention. Once introduced, the selected natural enemies begin to feed on the target weed in order to keep its population low, thus controlling its population and containing its spread,” she said.
+
+A number of invasive weeds are increasing Samoa’s vulnerability to climate change, biodiversity loss and food security.  For example, the spread of the shallow rooted [Tamaligi (*Falcataria moluccana*)](https://nensoption.com/Pacific_Weeds_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=4&FilterOperator%5B1%5D=equal-to&FilterValue%5B1%5D=Falcataria+moluccana) tree is continuing to destabilise hillsides and putting entire communities at risk from flooding. During Cyclone Evan in 2012 thousands of Tamaligi trees were uprooted, damming rivers and causing flash flooding that damaged houses and infrastructure such as bridges.
+
+The workshop was co-hosted with the Secretariat of the Pacific Regional Environment Program (SPREP) as part of its [Pacific Regional Invasive Species Management Support Service (PRISMSS)](https://www.sprep.org/invasive-species-management-in-the-pacific/prismss). This workshop was made possible with funding from the New Zealand Ministry for Foreign Affairs as part of Managing Invasive Species for Climate Change Adaptation in the Pacific (MISCCAP): a PRISMSS-NZ Collaboration for Pacific resilience.
+
+The workshop was delivered by experts from Manaaki Whenua - Landcare Research in New Zealand (MWLR), the technical lead for the [Natural Enemies - Natural Solutions (NENS)](https://www.sprep.org/prismss/natural-enemies-natural-solutions) programme for the PRISMSS. With the inclusion of Samoa, MWLR are now supporting eight countries in the Pacific to enact NENS programmes.
+
+A key objective of the workshop was to help stakeholders understand how “Natural Enemies” have already been used successfully to control invasive weeds across the Pacific, including work in Samoa to control [giant sensitive plant (*Mimosa* *diplotricha*)](https://nensoption.com/Pacific_Weeds_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=4&FilterOperator%5B1%5D=equal-to&FilterValue%5B1%5D=Mimosa+diplotricha) and [lantana (*Lantana camara*)](https://nensoption.com/Pacific_Weeds_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=4&FilterOperator%5B1%5D=equal-to&FilterValue%5B1%5D=Lantana+Camara). Another key objective was to explore options and agree on priority weed targets for using “natural” control agents under the MISCCAP project. Because there are so many weed species requiring better management in Samoa, it was necessary to convene the workshop to determine and agree on the most appropriate species to target first.
+
+Workshop participants got to hear presentations by the Ministry of Agriculture and Fisheries (MAF), MNRE, and Ms. Lynley Hayes and Mr. Quentin Paynter from MWLR. In-depth discussions then helped to prioritise a long list of invasive weed species into a shorter list of 20 priority weed species. This list was then further refined by considering for which species natural enemies were available. The top three priority weeds identified to initiate a NENS programme for Samoa were [ivy gourd (*Coccinia grandis*)](https://nensoption.com/Pacific_Weeds_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=4&FilterOperator%5B1%5D=equal-to&FilterValue%5B1%5D=Coccinia+grandis), [Koster’s curse (*Miconia crenata* = *Clidemia hirta*)](https://nensoption.com/Pacific_Weeds_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=4&FilterOperator%5B1%5D=equal-to&FilterValue%5B1%5D=Coccinia+grandis), and [African tulip tree](https://nensoption.com/Pacific_Weeds_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=4&FilterOperator%5B1%5D=equal-to&FilterValue%5B1%5D=Spathodea+campanulata). Natural enemies for these three invasive weeds are already being successfully deployed elsewhere in the Pacific.
+
+The use of natural enemies involves careful research against strict criteria to determine safety and to ensure there is no possibility of them causing problems to non-target plants or spreading and becoming invasive themselves. In many situations, NENS is the best, least damaging, cost-effective, and sustainable method for controlling weeds when compared to other control methods such as the use of chemical control (herbicides) – it is also more realistic when compared to manual control methods.
+
+MNRE would like to thank the MWLR, SPREP, and all the stakeholders who were present at the workshop for your valuable contribution to the topic at hand.
