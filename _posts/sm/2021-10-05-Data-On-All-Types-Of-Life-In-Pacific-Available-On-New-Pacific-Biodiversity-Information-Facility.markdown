@@ -2,7 +2,7 @@
 klass: "newspost"
 title:  "Data On All Types Of Life In Pacific Available On New Pacific Biodiversity Information Facility"
 date:   2021-10-05 13:18:12 +1300
-categories: Invasive
+categories: Biodiversity
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/manumea.PNG?itok=dzQMRSF_
 background-height: 100px

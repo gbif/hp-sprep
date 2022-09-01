@@ -2,7 +2,7 @@
 klass: "newspost"
 title:  "An Introduction To The Global Biodiversity Information Facility"
 date:   2022-06-29 09:00:00 +1300
-categories: Invasive
+categories: Biodiversity
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/IMG_2143%20%281%29.JPG?itok=5FsoVTsS
 background-height: 100px
