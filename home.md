@@ -9,11 +9,6 @@ background: /assets/images/Niue-Project-Banner.jpg
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
 
-  <form action="/specimen/search" method="GET">
-    <input name="q" class="input" type="text" placeholder="Name, catalog no, code, …" style="width: 250px">
-    <button type="submit" class="button is-primary">Search specimens</button>
-  </form>
-  
 height: 75vh
 cta:
   - text: Get Data
