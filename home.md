@@ -3,9 +3,9 @@ klass: "about"
 lang-ref: home
 layout: home
 title: Pacific Biodiversity Information Facility
-description: Pacific Biodiversity Information Facility presents all of the Pacific biodiversity data available on GBIF.
+description | Pacific Biodiversity Information Facility presents all of the Pacific biodiversity data available on GBIF.
   <form action="/specimen/search" method="GET">
-    <input name="q" class="input" type="text" placeholder="Name, catalog no, code, …" style="width: 250px">
+    <input name="q" class="input" tye="text" placeholder="Name, catalog no, code, …" style="width: 250px">
     <button type="submit" class="button is-primary">Search specimens</button>
   </form>
 background: /assets/images/Niue-Project-Banner.jpg
