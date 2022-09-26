@@ -8,12 +8,13 @@ background: /assets/images/Niue-Project-Banner.jpg
 #background: https://mixkit.imgix.net/videos/preview/mixkit-white-sand-beach-and-palm-trees-1564-0.jpg?w=1200&h=630&fit=crop
 imageLicense: Photo by Huggard Tongatule
 parallax: true # OPTION - default is false
-height: 75vh
+
   <form action="/specimen/search" method="GET">
     <input name="q" class="input" type="text" placeholder="Name, catalog no, code, …" style="width: 250px">
     <button type="submit" class="button is-primary">Search specimens</button>
   </form>
-
+  
+height: 75vh
 cta:
   - text: Get Data
     href: /data
