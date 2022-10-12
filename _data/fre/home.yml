@@ -25,7 +25,7 @@ stats:
       description: Groupes de spécialistes des espèces envahissantes liste d’espèces
       background: /assets/images/GBIF_Icons/6.png
       href: /fre/issg
-    - title: 23
+    - title: 22
       description: Rechercher des fournisseurs de données 
       background: /assets/images/GBIF_Icons/4.png
       href: /fre/editeurs
