@@ -2,6 +2,7 @@
 klass: "about"
 title: Literature
 description: We publish open data
-permalink: /literature
+permalink: /literature/search
 layout: literature
+noindex: true
 ---
