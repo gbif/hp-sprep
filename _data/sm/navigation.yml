@@ -7,11 +7,11 @@
    - text: Atunuu o lo'o maua ai manu ma laau
      href: /sm/faamaumauga
    - text: Seti o faamaumauga/Tulaga tau fuainumera ma faamaumauga poo Datasets
-     href: https://pbif.sprep.org/sm/faamaumauga?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
-     #href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+     #href: https://pbif.sprep.org/sm/faamaumauga?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
+     href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
    - text: Lisi o manu ma laau i le Pasefika poo Checklists
-     href: /sm/checklist
-     #href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+     #href: /sm/checklist
+     href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
    - text: Kulupu/lisi tagata e iai tomai fa’apitoa i manu ma laau faalafua i le Pasefika
      href: /sm/issg
    - text: Faalapotopotoga ile Pasefika o lo’o tuuina faamaumauga i siosiomaga faalenatura luga le GBIF
