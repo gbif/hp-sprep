@@ -12,20 +12,20 @@ stats:
       description: Jeux de données
       background: /assets/images/GBIF_Icons/3.png
       #href: https://hp-sprep.gbif-staging.org/data?view=DATASETS
-      href: https://pbif.sprep.org//fre/data?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS      
+      href: https://www.gbif.org/fr/dataset/search?hosting_org=cd3512e7-886c-4873-b629-740abe8ae74e&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF    
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span> # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
       description: Liste d’espèces
       background: /assets/images/GBIF_Icons/2.png
       #href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
-      href: /fre/checklist
+      href: https://www.gbif.org/fr/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
     #- title: <span data-ajax-path="https://api.gbif.org/v1/literature/search?countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF&limit=0"></span>
       # adding a static value, it wasn't pulling in the count, maybe I will look more into it later
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&publishing_org=cdef28b1-db4e-4c58-aa71-3c5238c2d0b5&project_id=BID-PA2016-0005-REG&limit=0">1,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&publishing_org=cdef28b1-db4e-4c58-aa71-3c5238c2d0b5&project_id=BID-PA2020-003-USE&project_id=BID-PA2016-0005-REG&limit=0">1,000</span>
       description: Groupes de spécialistes des espèces envahissantes liste d’espèces
       background: /assets/images/GBIF_Icons/6.png
       href: /fre/issg
-    - title: 20
+    - title: 23
       description: Rechercher des fournisseurs de données 
       background: /assets/images/GBIF_Icons/4.png
       href: /fre/editeurs
