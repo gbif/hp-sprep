@@ -7,11 +7,9 @@
    - text: Men ko rej walok
      href: /rmi/melele
    - text: Melele ko emoj aini
-     #href: https://pbif.sprep.org/rmi/melele?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
-     href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+     href: /dataset/search
    - text: Lajrak in jerbal ko
-     #href: /rmi/checklist
-     href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+     href: /dataset/search?type=CHECKLIST
    - text: Invasive Species Specialist Group Checklist
      href: /rmi/issg
    - text: Ro rej Je new ko ilo Pacific

@@ -7,17 +7,15 @@
    - text: Oloketa things/work where hem happen finis 
      href: /sb/oloketa-informeson-en-statistiks
    - text: Grup blo infomeson
-     #href: https://pbif.sprep.org/sb/oloketa-informeson-en-statistiks?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
-     href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+     href: /dataset/search
    - text: Oloketa information where umi save lookout for hem
-     #href: /sb/checklist
-     href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+     href: /dataset/search?type=CHECKLIST
    - text: Invesive Spisis Spesolist Grup cheklist
      href: /sb/issg
    - text: Olketa publishers lo Pasifik
      href: /sb/publisher
    - text: Olketa waka or story
-     href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
+     href: /literature/search
    - text: Download
      href: https://pbif.sprep.org/data?view=download
 - text: Samfala weis, konneksons or contakts 

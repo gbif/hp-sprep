@@ -17,7 +17,7 @@
    - text: Download
      href: https://pbif.sprep.org/data?view=download
 - text: Links
-  menu: #Dropdown menu (one level deep only)
+  menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
      href: https://brb.sprep.org/
    - text: Global Biodiversity Information Facility (GBIF)
