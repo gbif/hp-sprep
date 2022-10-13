@@ -1,5 +1,5 @@
 ---
-klass: about
+klass: "about"
 title: Datasets
 description: We publish open data
 permalink: /dataset/search
