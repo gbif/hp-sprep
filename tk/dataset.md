@@ -2,7 +2,7 @@
 klass: "about"
 title: Datasets
 description: We publish open data
-permalink: /dataset/search
+permalink: /tk/dataset/search
 layout: dataset
 noindex: true
 ---
