@@ -11,7 +11,7 @@ stats:
 
       # Dataset
       # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?hosting_org=cd3512e7-886c-4873-b629-740abe8ae74e&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span>
       description: Faamaumauga aotele poo Datasets
       background: /assets/images/GBIF_Icons/3.png
       href: /dataset/search
