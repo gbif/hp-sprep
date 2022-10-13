@@ -7,16 +7,15 @@
    - text: Men ko rej walok
      href: /rmi/melele
    - text: Melele ko emoj aini
-     href: /dataset/search
+     href: /rmi/dataset/search
    - text: Lajrak in jerbal ko
-     href: /dataset/search?type=CHECKLIST
+     href: /rmi/dataset/search?type=CHECKLIST
    - text: Invasive Species Specialist Group Checklist
      href: /rmi/issg
    - text: Ro rej Je new ko ilo Pacific
      href: /rmi/publishers
    - text: Literature (Jeje ko)
-     href: /literature/search
-     #href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
+     href: /rmi/literature/search
    - text: Download ko
      href: https://pbif.sprep.org/rmi/melele?view=download
 - text: Link ko

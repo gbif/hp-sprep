@@ -7,15 +7,15 @@
    - text: Mea tupu
      href: /tv/fakamatalaaga
    - text: Fakatokaaga mo fakamatalaaga o fuainumela kesekese
-     href: /dataset/search
+     href: /tv/dataset/search
    - text: Fakasolooga o mea kolaa e `tau o fai io me fakamaua
-     href: /dataset/search?type=CHECKLIST
+     href: /tv/dataset/search?type=CHECKLIST
    - text: Fakasolooga o mea kolaa e `tau mo tino-fakapitoa io me ko tino `poto i manu mo lakau fakamasei a mea ola
      href: /tv/issg
    - text: Tino lomi, faka`paa kae fakatau atu a tusitusiiga i te Pasefika
      href: /tv/publisher
    - text: Tusitusiiga
-     href: /literature/search
+     href: /tv/literature/search
    - text: Download
      href: https://pbif.sprep.org/data?view=download
 - text: Itulau Fakapitoa

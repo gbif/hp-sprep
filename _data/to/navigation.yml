@@ -8,15 +8,15 @@
    - text: Hoko
      href: /to/fakamatala
    - text: Ngaahi tu’unga fakamatala
-     href: /dataset/search
+     href: /to/dataset/search
    - text: List ngaue
-     href: /dataset/search?type=CHECKLIST
+     href: /to/dataset/search?type=CHECKLIST
    - text: Lisi ngaue ‘a e kulupu fakatefito ‘ihe manu maumau
      href: /to/issg
    - text: Paaki’anga Fakamatala ‘ihe Pacific
      href: /to/publisher
    - text: Fekumi
-     href: /literature/search
+     href: /to/literature/search
    - text: Hiki ‘o ha Fakamatala
      href: https://pbif.sprep.org/data?view=download
 - text: Hu ‘anga

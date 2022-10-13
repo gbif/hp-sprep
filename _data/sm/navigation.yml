@@ -7,15 +7,15 @@
    - text: Atunuu o lo'o maua ai manu ma laau
      href: /sm/faamaumauga
    - text: Seti o faamaumauga/Tulaga tau fuainumera ma faamaumauga poo Datasets
-     href: /dataset/search
+     href: /sm/dataset/search
    - text: Lisi o manu ma laau i le Pasefika poo Checklists
-     href: /dataset/search?type=CHECKLIST
+     href: /sm/dataset/search?type=CHECKLIST
    - text: Kulupu/lisi tagata e iai tomai fa’apitoa i manu ma laau faalafua i le Pasefika
      href: /sm/issg
    - text: Faalapotopotoga ile Pasefika o lo’o tuuina faamaumauga i siosiomaga faalenatura luga le GBIF
      href: /sm/publisher
    - text: Tusitusiga faatatau i manu ma laau i le Pasefika poo Literature
-     href: /literature/search
+     href: /sm/literature/search
    - text: Faamaumauga i luga le GBIF e mafai ona tuuina mai i lalo i lau komipiuta
      href: https://pbif.sprep.org/data?view=download
 - text: Nisi o Upegatafailagi eseese

@@ -8,16 +8,16 @@
      href: /fij/nai-tukutuku-vakasokumuni
    - text: Nai tukutuku umani
      #href: https://pbif.sprep.org/fij/nai-tukutuku-vakasokumuni?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
-     href: /dataset/search
+     href: /fij/dataset/search
    - text: Veimataqali tukutuku vakadonui me vakasokumuni ka tabaki
      #href: /fij/checklist
-     href: /dataset/search?type=CHECKLIST
+     href: /fij/dataset/search?type=CHECKLIST
    - text: Na veimataqali tukutuku vakadonui  me vakasokumuni ka tabaki vei ira  na kena dau ni vakadidike ena manumanu se kau vulagi
      href: /fij/issg
    - text: Tabana ni taba i vola ena Pasifika
      href: /fij/publisher
    - text: Nai tukutuku e dikevi ka tabaki
-     href: /literature/search
+     href: /fij/literature/search
      #href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
    - text: Download
      href: https://pbif.sprep.org/fij/nai-tukutuku-vakasokumuni?view=download

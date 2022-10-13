@@ -14,13 +14,13 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?hosting_org=cd3512e7-886c-4873-b629-740abe8ae74e&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span>
       description: Jeux de données
       background: /assets/images/GBIF_Icons/3.png
-      href: /dataset/search
+      href: /fre/dataset/search
 
       # Checklist
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span> # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
       description: Liste d’espèces
       background: /assets/images/GBIF_Icons/2.png
-      href: /dataset/search?type=CHECKLIST
+      href: /fre/dataset/search?type=CHECKLIST
       
       # ISSG
       # adding a static value, it wasn't pulling in the count, maybe I will look more into it later
@@ -39,7 +39,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF&limit=0"></span>
       description: Littérature
       background: /assets/images/GBIF_Icons/5.png
-      href: /literature/search
+      href: /fre/literature/search
 
 stats2:
   #background: "#ffffff55"
@@ -49,49 +49,49 @@ stats2:
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FM&isEndorsed=true"></span>
       description: États fédérés de Micronésie
       background: /assets/images/Country_Flags/fm.png
-      href: /publisher/search?country=FM
+      href: /fre/publisher/search?country=FM
       #Fiji
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FJ&isEndorsed=true"></span>
       description: Fidji
       background: /assets/images/Country_Flags/fj.png
-      href: /publisher/search?country=FJ
+      href: /fre/publisher/search?country=FJ
       #NC
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=NC&isEndorsed=true"></span>
       description: Nouvelle Calédonie
       background: /assets/images/Country_Flags/nc.png
-      href: /publisher/search?country=NC
+      href: /fre/publisher/search?country=NC
       #Palau
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=PW&isEndorsed=true"></span>
       description: Palaos
       background: /assets/images/Country_Flags/pw.png
-      href: /publisher/search?country=PW
+      href: /fre/publisher/search?country=PW
       #PNG
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=PG&isEndorsed=true"></span>
       description: Papouasie Nouvelle Guinée
       background: /assets/images/Country_Flags/pg.png
-      href: /publisher/search?country=PG
+      href: /fre/publisher/search?country=PG
       #Samoa
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=WS&isEndorsed=true"></span>
       description: Samoa
       background: /assets/images/Country_Flags/ws.png
-      href: /publisher/search?country=WS    
+      href: /fre/publisher/search?country=WS    
       #Solomon Islands
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=SB&isEndorsed=true"></span>
       description: Les îles Salomon
       background: /assets/images/Country_Flags/sb.png
-      href: /publisher/search?country=SB
+      href: /fre/publisher/search?country=SB
       #Tonga
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=TO&isEndorsed=true"></span>
       description: Tonga
       background: /assets/images/Country_Flags/to.png
-      href: /publisher/search?country=TO
+      href: /fre/publisher/search?country=TO
       #Vanuatu
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=VU&isEndorsed=true"></span>
       description: Vanuatu
       background: /assets/images/Country_Flags/vu.png
-      href: /publisher/search?country=VU
+      href: /fre/publisher/search?country=VU
       #Wallis & Futuna
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=WF&isEndorsed=true"></span>
       description: Wallis et Futuna
       background: /assets/images/Country_Flags/wf.png
-      href: /publisher/search?country=WF
+      href: /fre/publisher/search?country=WF

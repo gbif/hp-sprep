@@ -7,16 +7,15 @@
    - text: Taofiaga he loga e tupuaga
      href: /nu/lotomatala
    - text: Tātānakiaga he tau lotomatala
-     href: /dataset/search
+     href: /nu/dataset/search
    - text: Tau fakamauaga fakamooli
-     #href: /nu/checklist
-     href: /dataset/search?type=CHECKLIST
+     href: /nu/dataset/search?type=CHECKLIST
    - text: Ko e fakamauaga fakamooli he tau he tau pulotu lotomatala he tau koloa momoui fōfō kaina
      href: /nu/issg
    - text: Lautolu he Pasifika ne lolomi e tau tohi
      href: /nu/publisher
    - text: Ko e tau mena kua tohia
-     href: /literature/search
+     href: /nu/literature/search
      #href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
    - text: Download
      href: https://pbif.sprep.org/nu/lotomatala.html?view=download

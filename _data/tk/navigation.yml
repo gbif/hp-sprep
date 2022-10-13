@@ -7,15 +7,15 @@
    - text: Fakamoemoega
      href: /tk/fakamaumauga
    - text: Fakamaumauga
-     href: /dataset/search
+     href: /tk/dataset/search
    - text: Lihi fakamaumau
-     href: /dataset/search?type=CHECKLIST
+     href: /tk/dataset/search?type=CHECKLIST
    - text: Kulupu Fakapitoa mo Manu Fakalāfua
      href: /tk/issg
    - text: Lomiga a te Pahefika
      href: /tk/publisher
    - text: Tuhituhiga
-     href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
+     href: /tk/literature/search
    - text: Download
      href: https://pbif.sprep.org/data?view=download
 - text: Hokotaki
