@@ -48,49 +48,49 @@ stats2:
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FM&isEndorsed=true"></span>
       description: Federated States of Micronesia
       background: /assets/images/Country_Flags/fm.png
-      href: https://www.gbif.org/publisher/search?country=FM
+      href: /publisher/search?country=FM
       #Fiji
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FJ&isEndorsed=true"></span>
       description: Fiji
       background: /assets/images/Country_Flags/fj.png
-      href: https://www.gbif.org/publisher/search?country=FJ
+      href: /publisher/search?country=FJ
       #NC
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=NC&isEndorsed=true"></span>
       description: New Caledonia
       background: /assets/images/Country_Flags/nc.png
-      href: https://www.gbif.org/publisher/search?country=NC
+      href: /publisher/search?country=NC
       #Palau
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=PW&isEndorsed=true"></span>
       description: Palau
       background: /assets/images/Country_Flags/pw.png
-      href: https://www.gbif.org/publisher/search?country=PW
+      href: /publisher/search?country=PW
       #PNG
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=PG&isEndorsed=true"></span>
       description: Papua New Guinea
       background: /assets/images/Country_Flags/pg.png
-      href: https://www.gbif.org/publisher/search?country=PG
+      href: /publisher/search?country=PG
       #Samoa
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=WS&isEndorsed=true"></span>
       description: Samoa
       background: /assets/images/Country_Flags/ws.png
-      href: https://www.gbif.org/publisher/search?country=WS    
+      href: /publisher/search?country=WS    
       #Solomon Islands
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=SB&isEndorsed=true"></span>
       description: Solomon Islands
       background: /assets/images/Country_Flags/sb.png
-      href: https://www.gbif.org/publisher/search?country=SB
+      href: /publisher/search?country=SB
       #Tonga
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=TO&isEndorsed=true"></span>
       description: Tonga
       background: /assets/images/Country_Flags/to.png
-      href: https://www.gbif.org/publisher/search?country=TO
+      href: /publisher/search?country=TO
       #Vanuatu
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=VU&isEndorsed=true"></span>
       description: Vanuatu
       background: /assets/images/Country_Flags/vu.png
-      href: https://www.gbif.org/publisher/search?country=VU
+      href: /publisher/search?country=VU
       #Wallis & Futuna
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=WF&isEndorsed=true"></span>
       description: Wallis and Futuna
       background: /assets/images/Country_Flags/wf.png
-      href: https://www.gbif.org/publisher/search?country=WF
+      href: /publisher/search?country=WF
