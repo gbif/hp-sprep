@@ -44,7 +44,7 @@ stats2:
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FM&isEndorsed=true"></span>
       description: Federated States of Micronesia
       background: /assets/images/Country_Flags/fm.png
-      href: /publisher/search?country=FM
+      href: /publisher1/search?country=FM
       #Fiji
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FJ&isEndorsed=true"></span>
       description: Fiji
