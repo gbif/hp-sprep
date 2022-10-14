@@ -17,7 +17,7 @@
    - text: Literature (Jeje ko)
      href: /rmi/literature/search
    - text: Download ko
-     href: https://pbif.sprep.org/rmi/melele?view=download
+     href: https://pbif.sprep.org/rmi/melele?view=DOWNLOAD
 - text: Link ko
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)

@@ -20,7 +20,7 @@
      href: /fij/literature/search
      #href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
    - text: Download
-     href: https://pbif.sprep.org/fij/nai-tukutuku-vakasokumuni?view=download
+     href: https://pbif.sprep.org/fij/nai-tukutuku-vakasokumuni?view=DOWNLOAD
 - text: iSema ni tukutuku
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base

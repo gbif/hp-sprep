@@ -15,7 +15,7 @@
    - text: Literature
      href: /literature/search
    - text: Download
-     href: https://pbif.sprep.org/data?view=download
+     href: https://pbif.sprep.org/data?view=DOWNLOAD
 - text: Links
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
