@@ -17,7 +17,7 @@
    - text: Tusitusiiga
      href: /tv/literature/search
    - text: Download
-     href: https://pbif.sprep.org/data?view=download
+     href: https://pbif.sprep.org/tv/fakamatalaaga?view=download
 - text: Itulau Fakapitoa
   menu: # Dropdown menu (one level deep only)
    - text: Ko te koga telaa io me ko fakamaumauuga kolaa e mafai o fakaaogaa ne tino o `sala ki ei a fakamatalaaga mo iloa kesekese, e uiga ki mea ola
