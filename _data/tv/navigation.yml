@@ -8,8 +8,8 @@
      href: /tv/fakamatalaaga
    - text: Fakatokaaga mo fakamatalaaga o fuainumela kesekese
      href: /tv/dataset/search
-   - text: Fakasolooga o mea kolaa e `tau o fai io me fakamaua
-     href: /tv/dataset/search?type=CHECKLIST
+  # - text: Fakasolooga o mea kolaa e `tau o fai io me fakamaua
+  #   href: /tv/dataset/search?type=CHECKLIST
    - text: Fakasolooga o mea kolaa e `tau mo tino-fakapitoa io me ko tino `poto i manu mo lakau fakamasei a mea ola
      href: /tv/issg
    - text: Tino lomi, faka`paa kae fakatau atu a tusitusiiga i te Pasefika

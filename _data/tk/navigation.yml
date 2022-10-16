@@ -8,8 +8,8 @@
      href: /tk/fakamaumauga
    - text: Fakamaumauga
      href: /tk/dataset/search
-   - text: Lihi fakamaumau
-     href: /tk/dataset/search?type=CHECKLIST
+  # - text: Lihi fakamaumau
+  #   href: /tk/dataset/search?type=CHECKLIST
    - text: Kulupu Fakapitoa mo Manu Fakalāfua
      href: /tk/issg
    - text: Lomiga a te Pahefika

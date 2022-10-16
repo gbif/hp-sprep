@@ -9,8 +9,8 @@
      href: /to/fakamatala
    - text: Ngaahi tu’unga fakamatala
      href: /to/dataset/search
-   - text: List ngaue
-     href: /to/dataset/search?type=CHECKLIST
+  # - text: List ngaue
+  #   href: /to/dataset/search?type=CHECKLIST
    - text: Lisi ngaue ‘a e kulupu fakatefito ‘ihe manu maumau
      href: /to/issg
    - text: Paaki’anga Fakamatala ‘ihe Pacific

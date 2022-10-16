@@ -9,9 +9,9 @@
    - text: Nai tukutuku umani
      #href: https://pbif.sprep.org/fij/nai-tukutuku-vakasokumuni?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
      href: /fij/dataset/search
-   - text: Veimataqali tukutuku vakadonui me vakasokumuni ka tabaki
+   #- text: Veimataqali tukutuku vakadonui me vakasokumuni ka tabaki
      #href: /fij/checklist
-     href: /fij/dataset/search?type=CHECKLIST
+    # href: /fij/dataset/search?type=CHECKLIST
    - text: Na veimataqali tukutuku vakadonui  me vakasokumuni ka tabaki vei ira  na kena dau ni vakadidike ena manumanu se kau vulagi
      href: /fij/issg
    - text: Tabana ni taba i vola ena Pasifika

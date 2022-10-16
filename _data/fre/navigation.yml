@@ -9,9 +9,9 @@
    - text: Jeux de données
      #href: https://pbif.sprep.org/fre/data?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
      href: /fre/dataset/search
-   - text: Liste d’espèces
+   #- text: Liste d’espèces
      #href: /fre/checklist
-     href: /fre/dataset/search?type=CHECKLIST
+     #href: /fre/dataset/search?type=CHECKLIST
    - text: Groupes de spécialistes des espèces envahissantes liste d’espèces
      href: /fre/issg
    - text: Rechercher des fournisseurs de données

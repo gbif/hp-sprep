@@ -8,8 +8,8 @@
      href: /sb/oloketa-informeson-en-statistiks
    - text: Grup blo infomeson
      href: /sb/dataset/search
-   - text: Oloketa information where umi save lookout for hem
-     href: /sb/dataset/search?type=CHECKLIST
+#   - text: Oloketa information where umi save lookout for hem
+#     href: /sb/dataset/search?type=CHECKLIST
    - text: Invesive Spisis Spesolist Grup cheklist
      href: /sb/issg
    - text: Olketa publishers lo Pasifik

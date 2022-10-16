@@ -8,8 +8,8 @@
      href: /rmi/melele
    - text: Melele ko emoj aini
      href: /rmi/dataset/search
-   - text: Lajrak in jerbal ko
-     href: /rmi/dataset/search?type=CHECKLIST
+  # - text: Lajrak in jerbal ko
+  #   href: /rmi/dataset/search?type=CHECKLIST
    - text: Invasive Species Specialist Group Checklist
      href: /rmi/issg
    - text: Ro rej Je new ko ilo Pacific

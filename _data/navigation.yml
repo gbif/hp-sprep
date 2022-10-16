@@ -6,8 +6,8 @@
      href: /data
    - text: Datasets
      href: /dataset/search/
-   - text: Checklists
-     href: /dataset/search?type=CHECKLIST
+   #- text: Checklists
+   #  href: /dataset/search?type=CHECKLIST
    - text: Invasive Species Specialist Group Checklists
      href: /issg
    - text: Publishers

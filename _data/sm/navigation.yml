@@ -8,8 +8,8 @@
      href: /sm/faamaumauga
    - text: Seti o faamaumauga/Tulaga tau fuainumera ma faamaumauga poo Datasets
      href: /sm/dataset/search
-   - text: Lisi o manu ma laau i le Pasefika poo Checklists
-     href: /sm/dataset/search?type=CHECKLIST
+  # - text: Lisi o manu ma laau i le Pasefika poo Checklists
+  #   href: /sm/dataset/search?type=CHECKLIST
    - text: Kulupu/lisi tagata e iai tomai fa’apitoa i manu ma laau faalafua i le Pasefika
      href: /sm/issg
    - text: Faalapotopotoga ile Pasefika o lo’o tuuina faamaumauga i siosiomaga faalenatura luga le GBIF

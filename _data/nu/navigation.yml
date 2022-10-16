@@ -8,8 +8,8 @@
      href: /nu/lotomatala
    - text: Tātānakiaga he tau lotomatala
      href: /nu/dataset/search
-   - text: Tau fakamauaga fakamooli
-     href: /nu/dataset/search?type=CHECKLIST
+  # - text: Tau fakamauaga fakamooli
+  #   href: /nu/dataset/search?type=CHECKLIST
    - text: Ko e fakamauaga fakamooli he tau he tau pulotu lotomatala he tau koloa momoui fōfō kaina
      href: /nu/issg
    - text: Lautolu he Pasifika ne lolomi e tau tohi
