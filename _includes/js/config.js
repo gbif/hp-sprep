@@ -63,6 +63,28 @@ var siteConfig = {
         }
       ]
     }
+  },
+  dataset: {
+    highlightedFilters: [ 'q', 'type', 'publishingCountry', 'publishingOrg', 'projectId'],
+    rootPredicate: {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "or",
+          "predicates": [
+            {
+              "type": "equals",
+              "key": "gadmGid",
+              "value": "USA.12_1"
+          ]
+        },
+        {
+          "type": "equals",
+          "key": "notIssues",
+          "value": "COUNTRY_COORDINATE_MISMATCH"
+        }
+      ]
+    }
   }
 };
 
