@@ -1,5 +1,5 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
+  baseTheme: 'dark', extendWith: {
     primary: themeStyle.colors.primary
   }
 });
@@ -64,28 +64,6 @@ var siteConfig = {
       ]
     }
   },
-  dataset: {
-    highlightedFilters: [ 'q', 'type', 'publishingCountry', 'publishingOrg', 'projectId'],
-    rootPredicate: {
-      "type": "and",
-      "predicates": [
-        {
-          "type": "or",
-          "predicates": [
-            {
-              "type": "equals",
-              "key": "gadmGid",
-              "value": "USA.12_1"
-          ]
-        },
-        {
-          "type": "equals",
-          "key": "notIssues",
-          "value": "COUNTRY_COORDINATE_MISMATCH"
-        }
-      ]
-    }
-  }
 };
 
 if (pageLang === 'nu')  {siteConfig.routes.occurrenceSearch.route = '/lotomatala';}
