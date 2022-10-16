@@ -1,9 +1,8 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'dark', extendWith: {
+  baseTheme: 'light', extendWith: {
     primary: themeStyle.colors.primary
   }
 });
-
 var siteConfig = {
   routes: {
     occurrenceSearch: {
