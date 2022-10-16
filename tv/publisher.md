@@ -3,7 +3,7 @@ klass: "about"
 layout: compose
 lang-ref: publisher
 title: Tino lomi, faka'paa kae fakatau atu a tusitusiiga i te Pasefika
-description: Fapotopotoga i loto i te Pasefika, kolaa ko oti ne fakatalia ke mafai ne latou o `lomi, faka`paa kae fakatau atu a tusitusiiga/ fakamatalaaga mo fuainumela kesekese.
+description: Fapotopotoga i loto i te Pasefika, kolaa ko oti ne fakatalia ke mafai ne latou o 'lomi, faka'paa kae fakatau atu a tusitusiiga/fakamatalaaga mo fuainumela kesekese.
 background: /assets/images/Eye_sea_of_Vavau.jpg
 imageLicense: Photo by Stuart Chape
 parallax: true # OPTION - default is false
