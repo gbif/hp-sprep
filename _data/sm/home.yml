@@ -5,7 +5,7 @@ stats:
       # Occurrences
       # we can also use the graphql API to allow richer queries
     - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7B%0A%20%20%20%20type%3A%20and%2C%20%0A%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20or%2C%20%0A%20%20%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20equals%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20key%3A%20%22gadmGid%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20value%3A%20%22USA.12_1%22%0A%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%7Btype%3A%20in%2C%20key%3A%20%22countryCode%22%2C%20values%3A%20%5B%22AS%22%2C%22CK%22%2C%22TL%22%2C%22FM%22%2C%22FJ%22%2C%22PF%22%2C%22GU%22%2C%22KI%22%2C%22MH%22%2C%22NR%22%2C%22NC%22%2C%22NU%22%2C%22MP%22%2C%22PW%22%2C%22PG%22%2C%22WS%22%2C%22SB%22%2C%22TK%22%2C%22TO%22%2C%22TV%22%2C%22VU%22%2C%22WF%22%5D%7D%0A%20%20%09%09%09%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20equals%2C%20%0A%20%20%20%20%20%20%20%20key%3A%20%22notIssues%22%2C%20%0A%20%20%20%20%20%20%20%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%2C%20size%3A%2010%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D">6.000.000</span>
-      description: Atunuu o lo'o maua ai manu ma laau poo Occurrences
+      description: Atunuu o le Pasefika o lo'o maua ai manu ma laau poo Occurrences
       background: /assets/images/GBIF_Icons/1.png
       href: /sm/faamaumauga
 
