@@ -24,6 +24,10 @@ stats:
       background: /assets/images/GBIF_Icons/2.png
       href: /dataset/search?type=CHECKLIST
 
+stats3:
+  #background: "#ffffff55"
+  background: "#ffffff11"
+  features:
       # using a dynamic value from some endpoint. It will default to look for a 'count' value in the response
       # ISSG
       #- title: <span data-ajax-path="https://api.gbif.org/v1/literature/search?countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF&limit=0"></span>
