@@ -11,7 +11,6 @@ noindex: true
   var siteConfig = {
     dataset: {
       rootFilter: {publishingCountry: ['AS','CK','TL','FM','FJ','PF','GU','KI','MH','NR','NC','NU','MP','PW','PG','WS','SB','TK','TO','TV','VU','WF']},
-      highlightedFilters: ['publishingCountry', 'q', 'hostingOrganizationKey']
     }
   };
 </script>
