@@ -1,7 +1,7 @@
 ---
 klass: "about"
 layout: team
-title: Team
+title: Ambassador
 description: Who we are
-permalink: /team/
+permalink: /ambassador/
 ---
