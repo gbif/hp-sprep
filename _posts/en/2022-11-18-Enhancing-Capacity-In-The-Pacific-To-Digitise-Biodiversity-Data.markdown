@@ -6,7 +6,7 @@ categories: [Biodiversity, Invasive]
 lang-ref: 
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/GBIF%20Workshop%20%28Nov.2022%29%20%281%20of%202%29.jpg?itok=FMc1cB9M
 preTitle: November 18th 2022
---
+---
 The sharing of biodiversity data is at the core of a regional workshop held at the Secretariat of the Pacific Regional Environment Programme (SPREP) from 14 – 18 November 2022. Participants from across the Pacific gathered in Apia to learn how to share their data on the GBIF network and use data for better decision making
 
 GBIF, is an open-data research tool funded by various governments from around the world, which aims to provide free and open access to biodiversity data to the public. A Memorandum of Understanding between SPREP and GBIF established the first GBIF Participant Node in the Pacific in 2017. This node enables SPREP Member countries and territories to publish their biodiversity data directly to GBIF and tasks SPREP with strengthening GBIF-related activities of its Member governments and stakeholders. The workshop also set out to increase representation from the Pacific on the GBIF governing board. Tonga is the only Pacific nation currently registered as a Voting Participant within GBIF.
