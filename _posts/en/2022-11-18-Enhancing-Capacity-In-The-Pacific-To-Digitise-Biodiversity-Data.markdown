@@ -23,9 +23,9 @@ The workshop ended on 18 November with sixteen consortium partner representative
 
 The training sessions were facilitated by the SPREP Invasive Species Team and Mr.David Bloom of Vertnet, and is part of the ongoing efforts by SPREP to support its member countries by providing capacity building opportunities in biodiversity data management.
 
-For further information on GBIF, visit: https://www.gbif.org/what-is-gbif
+For further information on GBIF, visit: [https://www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
 
-This project is part of the Biodiversity Information Development (BID) programme funded by the European Union and delivered by SPREP.  For more information on these projects, please contact Mr Bradley Myer on bradleym@sprep.org.
+This project is part of the Biodiversity Information Development (BID) programme funded by the European Union and delivered by SPREP.  For more information on these projects, please contact Mr Bradley Myer on [bradleym@sprep.org](bradleym@sprep.org).
 
 The sharing of biodiversity data is at the core of a regional workshop held at the Secretariat of the Pacific Regional Environment Programme (SPREP) from 14 – 18 November 2022. Participants from across the Pacific gathered in Apia to learn how to share their data on the GBIF network and use data for better decision making
 
