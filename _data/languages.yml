@@ -34,6 +34,7 @@ fre:
   label: Français
   icon: /assets/images/language_icons/fr.svg
   archive_permalink: /fre/actualités
+  widgetLocale: fr
 rmi:
   label: Marshallese
   icon: /assets/images/language_icons/mh.svg
