@@ -14,7 +14,7 @@ var siteConfig = {
   },
   occurrence: {
     occurrenceSearchTabs: ['TABLE', 'DATASETS', 'DASHBOARD', 'GALLERY', 'MAP'],
-    highlightedFilters: ['country', 'taxonKey', 'datasetKey', 'year', 'occurrenceStatus', 'establishmentMeans', 'q', 'hostingOrganizationKey', 'geometry'],
+    highlightedFilters: ['q', 'country', 'taxonKey', 'datasetKey', 'year', 'occurrenceStatus', 'establishmentMeans', 'hostingOrganizationKey', 'geometry'],
     rootPredicate: {
       "type": "and",
       "predicates": [
