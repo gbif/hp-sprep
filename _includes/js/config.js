@@ -13,7 +13,7 @@ var siteConfig = {
     }
   },
   occurrence: {
-    occurrenceSearchTabs: ['TABLE', 'DATASETS', 'GALLERY', 'MAP'],
+    occurrenceSearchTabs: ['TABLE', 'DATASETS', 'DASHBOARD', 'GALLERY', 'MAP'],
     highlightedFilters: ['country', 'taxonKey', 'datasetKey', 'year', 'occurrenceStatus', 'establishmentMeans', 'q', 'hostingOrganizationKey', 'geometry'],
     rootPredicate: {
       "type": "and",
