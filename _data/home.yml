@@ -8,7 +8,7 @@ stats:
       description: Occurrences
       background: /assets/images/GBIF_Icons/1.png
       href: /data
-    
+
     # using a dynamic value from some endpoint. You can configure what field to look for using the path attribute
     # Dataset
     #- title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?hosting_org=cd3512e7-886c-4873-b629-740abe8ae74e&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span>
@@ -16,9 +16,9 @@ stats:
       description: Dataset
       background: /assets/images/GBIF_Icons/3.png
       href: /dataset/search?publishingCountry=AS&publishingCountry=CK&publishingCountry=TL&publishingCountry=FM&publishingCountry=FJ&publishingCountry=PF&publishingCountry=GU&publishingCountry=KI&publishingCountry=MH&publishingCountry=NR&publishingCountry=NC&publishingCountry=NU&publishingCountry=MP&publishingCountry=PW&publishingCountry=PG&publishingCountry=WS&publishingCountry=SB&publishingCountry=TK&publishingCountry=TO&publishingCountry=VU&publishingCountry=WF
-      
+
       # Checklists
-    #- title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span> 
+    #- title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF&limit=0">1,000</span>
     # using a dynamic value from some endpoint. You can configure what value it should take using the `data-ajax-path` attribute
       #description: Checklists
       #background: /assets/images/GBIF_Icons/2.png
@@ -44,7 +44,7 @@ stats:
       background: /assets/images/GBIF_Icons/5.png
       href: /literature/search
       #href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
-      
+
 stats2:
   #background: "#ffffff55"
   background: "#ffffff11"
@@ -78,7 +78,7 @@ stats2:
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=WS&isEndorsed=true"></span>
       description: Samoa
       background: /assets/images/Country_Flags/ws.png
-      href: /publisher/search?country=WS    
+      href: /publisher/search?country=WS
       #Solomon Islands
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=SB&isEndorsed=true"></span>
       description: Solomon Islands
@@ -89,6 +89,11 @@ stats2:
       description: Tonga
       background: /assets/images/Country_Flags/to.png
       href: /publisher/search?country=TO
+      #Tuvalu
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=TV&isEndorsed=true"></span>
+      description: Tuvalu
+      background: /assets/images/Country_Flags/tv.png
+      href: /publisher/search?country=TV
       #Vanuatu
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=VU&isEndorsed=true"></span>
       description: Vanuatu
