@@ -59,6 +59,11 @@ stats2:
       description: Fiji
       background: /assets/images/Country_Flags/fj.png
       href: /publisher/search?country=FJ
+      #Marhshall Islands
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=MH&isEndorsed=true"></span>
+      description: Marshall Islands
+      background: /assets/images/Country_Flags/mh.png
+      href: /publisher/search?country=MH
       #NC
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=NC&isEndorsed=true"></span>
       description: New Calendonia
