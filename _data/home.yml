@@ -33,7 +33,7 @@ stats:
       href: /issg
 
       # Publisher
-    - title: 23
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=AS&country=CK&country=TL&country=FM&country=FJ&country=PF&country=GU&country=KI&country=MH&country=NR&country=NC&country=NU&country=MP&country=PW&country=PG&country=WS&country=SB&country=TK&country=TO&country=TV&country=VU&country=WF&isEndorsed=true"></span>
       description: Pacific Publishers
       background: /assets/images/GBIF_Icons/4.png
       href: /publisher
