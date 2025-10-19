@@ -97,7 +97,7 @@ stats2:
       #Tuvalu
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=TV&isEndorsed=true"></span>
       description: Tuvalu
-      background: /assets/images/Country_Flags/tv.png
+      background: /assets/images/Country_Flags/tv.jpg
       href: /publisher/search?country=TV
       #Vanuatu
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=VU&isEndorsed=true"></span>
