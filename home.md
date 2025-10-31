@@ -16,8 +16,6 @@ cta:
     isPrimary: true
 permalink: /
 composition:
-  - type: blank
-    data: home.main
   - type: heroImage # the block type
   - type: stats
     data: home.stats
