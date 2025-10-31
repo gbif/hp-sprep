@@ -32,7 +32,7 @@ stats:
       background: /assets/images/GBIF_Icons/6.png
       href: /issg
 
-      # Publisher
+      # Publisher - has to be listed manually as there is no way to filter by multiple countries
     - title: 28
       description: Pacific Publishers
       background: /assets/images/GBIF_Icons/4.png
